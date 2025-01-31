@@ -1,0 +1,2076 @@
+Manufacturer|Product Name|Size|itemType|SKU|BasePrice
+Zatarains|Jambalaya Rice Mix|12 oz|Rice/Rice Mix|42081001|$2.49
+Zatarains|Jambalaya Rice Mix|8 oz|Rice/Rice Mix|42082001|$1.79
+Yucatan|Guacamole Regular|8 oz||42083001|$3.99
+Yuban|Coffee Original Blend|12 oz|Coffee/Creamer|42084001|$3.99
+Yoplait|GoGurt Variety Pack|8 ct|Yogurt|42085001|$2.99
+Wishbone|Italian Dressing|16 oz|Salad Dressing|42086001|$2.00
+White Castle|Cheeseburger Heat & Serve Sliders|29.28 oz||42087001|$11.59
+Whiskas|Choice Cuts Poultry|36 oz|Pet Food|42088001|$4.99
+Welchs|Farmers Pick Concord Grape|46 oz||42089001|$3.59
+Welchs|Juice Red Grape|64 oz|Juice|42090001|$4.79
+Weetabix|Cereal Whole Grain Biscuit|15 oz|Cereal|42091001|$6.99
+Velveeta|Shells & Cheese Microwave Cup|2.39 oz|Mac & Cheese|42092001|$1.00
+Velveeta|Shells & Cheese Original|12 oz|Mac & Cheese|42093001|$2.49
+V8|Splash Berry Blend|64 oz|Juice|42094001|$2.99
+V8|Splash Mango Peach|64 oz|Juice|42095001|$2.99
+V8|V-Fusion Berry|8 pkg|Juice|42096001|$3.49
+V8|V-Fusion Pomegranate Blueberry|46 oz|Juice|42097001|$3.99
+V8|V-Fusion Refreshers Peach Strawberry|46 oz|Juice|42098001|$3.49
+Uncle Sam|Whole Grain Original Cereal|13 oz|Cereal|42099001|$2.50
+Turkey Hill|Iced Tea Lemon|128 oz||42100001|$2.99
+Tropicana|Orange Juice Some Pulp|89 oz|Juice|42101001|$7.29
+Tropicana|Trop50 Calcium|89 oz|Juice|42102001|$7.29
+Tri-State|Tri-State Almonds |15.5|Nuts|42103001|$1.54
+Tri-State|Tri-State Asparagus |14.8|Fresh Vegetables|42104001|$0.78
+Tri-State|Tri-State Baby Onion |11.8|Fresh Vegetables|42105001|$2.62
+Tri-State|Tri-State Beets |19.6|Fresh Vegetables|42106001|$3.42
+Tri-State|Tri-State Broccoli |8.3|Fresh Vegetables|42107001|$1.34
+Tri-State|Tri-State Canned Peanuts |18.2|Nuts|42108001|$0.85
+Tri-State|Tri-State Cantelope |16|Fresh Fruit|42109001|$2.57
+Tri-State|Tri-State Cauliflower |5.63|Fresh Vegetables|42110001|$0.81
+Tri-State|Tri-State Corn on the Cob |10.6|Fresh Vegetables|42111001|$2.80
+Tri-State|Tri-State Dried Mushrooms |15.6|Fresh Vegetables|42112001|$2.61
+Tri-State|Tri-State Elephant Garlic |15.1|Fresh Vegetables|42113001|$1.71
+Tri-State|Tri-State Fancy Plums |10.6|Fresh Fruit|42114001|$2.44
+Tri-State|Tri-State Firm Tofu |11.6|Tofu|42115001|$1.66
+Tri-State|Tri-State Fresh Lima Beans |17.7|Fresh Vegetables|42116001|$2.43
+Tri-State|Tri-State Fuji Apples |11.1|Fresh Fruit|42117001|$2.69
+Tri-State|Tri-State Garlic |14.1|Fresh Vegetables|42118001|$0.74
+Tri-State|Tri-State Golden Delcious Apples |4.61|Fresh Fruit|42119001|$1.96
+Tri-State|Tri-State Green Pepper |10|Fresh Vegetables|42120001|$3.64
+Tri-State|Tri-State Honey Dew |7.61|Fresh Fruit|42121001|$1.42
+Tri-State|Tri-State Lemons |16.1|Fresh Fruit|42122001|$1.77
+Tri-State|Tri-State Lettuce |5.65|Fresh Vegetables|42123001|$3.17
+Tri-State|Tri-State Limes |12.6|Fresh Fruit|42124001|$2.40
+Tri-State|Tri-State Macintosh Apples |20|Fresh Fruit|42125001|$1.82
+Tri-State|Tri-State Mandarin Oranges |13.1|Fresh Fruit|42126001|$2.95
+Tri-State|Tri-State Mixed Nuts |7.68|Nuts|42127001|$1.76
+Tri-State|Tri-State Mushrooms |15.1|Fresh Vegetables|42128001|$1.16
+Tri-State|Tri-State New Potatos |14.5|Fresh Vegetables|42129001|$0.67
+Tri-State|Tri-State Onions |13.8|Fresh Vegetables|42130001|$2.53
+Tri-State|Tri-State Oranges |7.1|Fresh Fruit|42131001|$3.19
+Tri-State|Tri-State Party Nuts |12.6|Nuts|42132001|$2.63
+Tri-State|Tri-State Peaches |8.5|Fresh Fruit|42133001|$2.56
+Tri-State|Tri-State Plums |7.36|Fresh Fruit|42134001|$2.86
+Tri-State|Tri-State Potatos |6.17|Fresh Vegetables|42135001|$1.96
+Tri-State|Tri-State Prepared Salad |4.65|Fresh Vegetables|42136001|$2.50
+Tri-State|Tri-State Red Delcious Apples |11.6|Fresh Fruit|42137001|$3.61
+Tri-State|Tri-State Red Pepper |6.55|Fresh Vegetables|42138001|$3.87
+Tri-State|Tri-State Shitake Mushrooms |9.89|Fresh Vegetables|42139001|$2.93
+Tri-State|Tri-State Squash |11|Fresh Vegetables|42140001|$1.55
+Tri-State|Tri-State Summer Squash |17.2|Fresh Vegetables|42141001|$0.55
+Tri-State|Tri-State Sweet Onion |20.3|Fresh Vegetables|42142001|$1.57
+Tri-State|Tri-State Sweet Peas |18.8|Fresh Vegetables|42143001|$3.58
+Tri-State|Tri-State Tangerines |14.6|Fresh Fruit|42144001|$0.62
+Tri-State|Tri-State Tomatos |18.6|Fresh Vegetables|42145001|$2.21
+Tri-State|Tri-State Walnuts |16.7|Nuts|42146001|$0.88
+Toucan|Toucan Canned Mixed Fruit |15.8|Canned Fruit|42147001|$1.40
+Toucan|Toucan Canned Peaches |15.7|Canned Fruit|42148001|$1.38
+Tippy Toes|Diapers Size 3|36 ct|Diapers|42149001|$7.99
+Tippy Toes|Diapers Size 3|84 ct|Diapers|42150001|$14.99
+Tippy Toes|Diapers Size 3|96 ct|Diapers|42151001|$16.99
+Tippy Toes|Diapers Size 4|31 ct|Diapers|42152001|$7.99
+Tippy Toes|Diapers Size 4|72 ct|Diapers|42153001|$14.99
+Tippy Toes|Diapers Size 5|27 ct|Diapers|42154001|$7.99
+Tippy Toes|Diapers Size 5|70 ct|Diapers|42155001|$16.99
+Tip Top|Tip Top Lox |11.1|Fresh Fish|42156001|$0.79
+Thresher|Thresher Malted Milk Balls |8.3|Chocolate Candy|42157001|$1.58
+Thresher|Thresher Mint Chocolate Bar |17.8|Chocolate Candy|42158001|$1.71
+Thresher|Thresher Mints |5.19|Hard Candy|42159001|$1.81
+Thresher|Thresher Semi-Sweet Chocolate Bar |17.7|Chocolate Candy|42160001|$1.87
+Thresher|Thresher Spicy Mints |8.1|Hard Candy|42161001|$3.65
+Thresher|Thresher Tasty Candy Bar |16.5|Chocolate Candy|42162001|$3.44
+Thresher|Thresher White Chocolate Bar |9.5|Chocolate Candy|42163001|$2.49
+Thomas|Bagel Thins 100% Whole Wheat|13 oz|Baked Goods Other than Bread|42164001|$2.50
+Thomas|Bagel Thins Cinnamon Raisin|13 oz|Baked Goods Other than Bread|42165001|$2.50
+Thomas|Bagel Thins Everything|13 oz|Baked Goods Other than Bread|42166001|$2.50
+Thomas|Bagel Thins Plain|13 oz|Baked Goods Other than Bread|42167001|$2.50
+Thomas|Bagels 100% Whole Wheat Mini|20 oz|Baked Goods Other than Bread|42168001|$3.00
+Thomas|Bagels Blueberry|22 oz|Baked Goods Other than Bread|42169001|$3.00
+Thomas|Bagels Cinnamon Raisin|22 oz|Baked Goods Other than Bread|42170001|$3.00
+Thomas|Bagels Cinnamon Raisin Mini|20 oz|Baked Goods Other than Bread|42171001|$3.00
+Thomas|Bagels Everything|22 oz|Baked Goods Other than Bread|42172001|$3.00
+Thomas|Bagels Hearty Grains Whole Wheat|22 oz|Baked Goods Other than Bread|42173001|$3.00
+Thomas|Bagels Plain|22 oz|Baked Goods Other than Bread|42174001|$3.00
+Thomas|Bagels Plain Mini|20 oz|Baked Goods Other than Bread|42175001|$3.00
+Thomas|Bagels Plain Whole Grain|22 oz|Baked Goods Other than Bread|42176001|$3.00
+Thomas|English Muffins Double Fiber Honey Wheat|12 oz|Baked Goods Other than Bread|42177001|$3.00
+Thomas|English Muffins Hearty Grains 100% Whole Wheat|13 oz|Baked Goods Other than Bread|42178001|$3.00
+Thomas|English Muffins Multi Grain Light|12 oz|Baked Goods Other than Bread|42179001|$3.00
+Thomas|English Muffins Original|12 oz|Baked Goods Other than Bread|42180001|$2.50
+Thomas|English Muffins Original|24 oz|Baked Goods Other than Bread|42181001|$5.49
+Thomas|English Muffins Original Whole Grain With Omega 3|12 oz|Baked Goods Other than Bread|42182001|$2.50
+Thomas|English Muffins Raisin|13 oz|Baked Goods Other than Bread|42183001|$2.50
+Thomas|English Muffins Triple Health|11 oz|Baked Goods Other than Bread|42184001|$3.00
+Tell Tale|Tell Tale Almonds |8.5|Nuts|42185001|$3.68
+Tell Tale|Tell Tale Asparagus |6.35|Fresh Vegetables|42186001|$3.64
+Tell Tale|Tell Tale Baby Onion |14|Fresh Vegetables|42187001|$2.66
+Tell Tale|Tell Tale Beets |6.09|Fresh Vegetables|42188001|$2.60
+Tell Tale|Tell Tale Broccoli |17.8|Fresh Vegetables|42189001|$1.81
+Tell Tale|Tell Tale Canned Peanuts |6.86|Nuts|42190001|$3.40
+Tell Tale|Tell Tale Cantelope |15.1|Fresh Fruit|42191001|$3.82
+Tell Tale|Tell Tale Cauliflower |13.6|Fresh Vegetables|42192001|$1.87
+Tell Tale|Tell Tale Corn on the Cob |10|Fresh Vegetables|42193001|$1.94
+Tell Tale|Tell Tale Dried Mushrooms |15.1|Fresh Vegetables|42194001|$1.45
+Tell Tale|Tell Tale Elephant Garlic |5.42|Fresh Vegetables|42195001|$2.64
+Tell Tale|Tell Tale Fancy Plums |19|Fresh Fruit|42196001|$0.68
+Tell Tale|Tell Tale Firm Tofu |16.1|Tofu|42197001|$1.67
+Tell Tale|Tell Tale Fresh Lima Beans |18.1|Fresh Vegetables|42198001|$3.17
+Tell Tale|Tell Tale Fuji Apples |6.47|Fresh Fruit|42199001|$3.63
+Tell Tale|Tell Tale Garlic |6.22|Fresh Vegetables|42200001|$1.17
+Tell Tale|Tell Tale Golden Delcious Apples |11.8|Fresh Fruit|42201001|$3.79
+Tell Tale|Tell Tale Green Pepper |11.3|Fresh Vegetables|42202001|$1.65
+Tell Tale|Tell Tale Honey Dew |6.28|Fresh Fruit|42203001|$2.80
+Tell Tale|Tell Tale Lemons |7.32|Fresh Fruit|42204001|$0.61
+Tell Tale|Tell Tale Lettuce |19.2|Fresh Vegetables|42205001|$1.77
+Tell Tale|Tell Tale Limes |11.6|Fresh Fruit|42206001|$1.84
+Tell Tale|Tell Tale Macintosh Apples |18.3|Fresh Fruit|42207001|$2.53
+Tell Tale|Tell Tale Mandarin Oranges |19.7|Fresh Fruit|42208001|$1.91
+Tell Tale|Tell Tale Mixed Nuts |19.7|Nuts|42209001|$1.85
+Tell Tale|Tell Tale Mushrooms |11.8|Fresh Vegetables|42210001|$2.96
+Tell Tale|Tell Tale New Potatos |12.8|Fresh Vegetables|42211001|$1.14
+Tell Tale|Tell Tale Onions |13.3|Fresh Vegetables|42212001|$2.41
+Tell Tale|Tell Tale Oranges |9.3|Fresh Fruit|42213001|$1.72
+Tell Tale|Tell Tale Party Nuts |9.3|Nuts|42214001|$2.85
+Tell Tale|Tell Tale Peaches |10|Fresh Fruit|42215001|$0.58
+Tell Tale|Tell Tale Plums |7.85|Fresh Fruit|42216001|$2.74
+Tell Tale|Tell Tale Potatos |10.1|Fresh Vegetables|42217001|$0.84
+Tell Tale|Tell Tale Prepared Salad |7.77|Fresh Vegetables|42218001|$2.59
+Tell Tale|Tell Tale Red Delcious Apples |18.8|Fresh Fruit|42219001|$1.90
+Tell Tale|Tell Tale Red Pepper |6.02|Fresh Vegetables|42220001|$1.93
+Tell Tale|Tell Tale Shitake Mushrooms |18.6|Fresh Vegetables|42221001|$3.51
+Tell Tale|Tell Tale Squash |20.2|Fresh Vegetables|42222001|$1.86
+Tell Tale|Tell Tale Summer Squash |16.7|Fresh Vegetables|42223001|$0.73
+Tell Tale|Tell Tale Sweet Onion |11.5|Fresh Vegetables|42224001|$1.36
+Tell Tale|Tell Tale Sweet Peas |12.5|Fresh Vegetables|42225001|$2.19
+Tell Tale|Tell Tale Tangerines |11.8|Fresh Fruit|42226001|$1.74
+Tell Tale|Tell Tale Tomatos |10.8|Fresh Vegetables|42227001|$2.55
+Tell Tale|Tell Tale Walnuts |13.6|Nuts|42228001|$1.63
+Tastykake|Cake Dreamies Creme Kakes|14 oz|Baked Goods Other than Bread|42229001|$3.00
+Tastykake|Cake Kandy Kake Peanut Butter|8 oz|Baked Goods Other than Bread|42230001|$3.00
+Tastykake|Cake Koffee Kake Cream Filled|12 oz|Baked Goods Other than Bread|42231001|$3.00
+Tastykake|Cupcakes Buttercream|13.5 oz|Baked Goods Other than Bread|42232001|$3.00
+Tastykake|Cupcakes Chocolate|12.75 oz|Baked Goods Other than Bread|42233001|$3.00
+Tastykake|Cupcakes Krimpet Butterscotch|12 oz|Baked Goods Other than Bread|42234001|$3.00
+Tastykake|Cupcakes Lemon|12.75 oz|Baked Goods Other than Bread|42235001|$3.00
+Tastykake|Pie Apple|4 oz|Baked Goods Other than Bread|42236001|$1.00
+Tastykake|Pie Cherry|4 oz|Baked Goods Other than Bread|42237001|$1.00
+Tastykake|Pie Chocolate Klair|4 oz|Baked Goods Other than Bread|42238001|$1.00
+Tastykake|Pie Lemon|4 oz|Baked Goods Other than Bread|42239001|$1.00
+Tastykake|Pie Peach|4 oz|Baked Goods Other than Bread|42240001|$1.00
+Swiss Miss|Hot Cocoa Mix Marshmallows|10 pkg||42241001|$3.09
+Swiss Miss|Hot Cocoa Mix Milk Chocolate|10 pkg|Soda/Juice/Drinks|42242001|$3.09
+Swiss Miss|Hot Cocoa Mix Milk Chocolate Canister|28.5 oz|Soda/Juice/Drinks|42243001|$7.69
+Swiss Miss|Hot Cocoa Mix Milk Chocolate No Sugar Added|8 pkg|Soda/Juice/Drinks|42244001|$3.59
+Swell|Swell Canned Mixed Fruit |7.61|Canned Fruit|42245001|$2.34
+Swell|Swell Canned Peaches |12.3|Canned Fruit|42246001|$1.63
+Super|Super Brown Sugar |7.25|Sugar|42247001|$1.42
+Super|Super Canola Oil |7.89|Cooking Oil|42248001|$1.32
+Super|Super Chunky Peanut Butter |5.71|Peanut Butter|42249001|$0.99
+Super|Super Corn Oil |5.63|Cooking Oil|42250001|$1.81
+Super|Super Creamy Peanut Butter |15.2|Peanut Butter|42251001|$1.48
+Super|Super Extra Chunky Peanut Butter |17.7|Peanut Butter|42252001|$3.62
+Super|Super Oregano |11.6|Spices|42253001|$3.45
+Super|Super Pepper |15.7|Spices|42254001|$2.83
+Super|Super Salt |14.7|Spices|42255001|$2.94
+Super|Super Sesame Oil |14.5|Cooking Oil|42256001|$2.73
+Super|Super Vegetable Oil |7.23|Cooking Oil|42257001|$2.22
+Super|Super White Sugar |10.6|Sugar|42258001|$1.56
+Sunset|Sunset Counter Cleaner |18|Cleaners|42259001|$0.83
+Sunset|Sunset Glass Cleaner |14.3|Cleaners|42260001|$1.85
+Sunset|Sunset Room Freshener |13.6|Deodorizers|42261001|$2.44
+Sunset|Sunset Toilet Bowl Cleaner |19.8|Cleaners|42262001|$1.16
+Sunny Delight Drinks|Sunny Delight Original|6 pkg||42263001|$2.99
+Sunny D|Orange Citrus Punch Smooth|64 oz||42264001|$2.19
+Sunny D|Orange Citrus Punch Tangy Original|8 pkg||42265001|$3.89
+Sun-Maid|Bread Raisin|16 oz|Bread|42266001|$3.29
+Sunbeam|Giant Bread|24 oz|Bread|42267001|$1.69
+Stubbs|BBQ Sauce Original|18 oz||42268001|$3.99
+Stroehmann|Bread Honey Wheat|22 oz|Bread|42269001|$1.99
+Stove Top|Stuffing Mix Pork|6 oz||42270001|$2.09
+Stouffer's|Lasagna With Meat And Sauce Pasta|38 oz|Frozen Food|42271001|$7.98
+Steakumm|Sandwich Steaks Thin Sliced|21 oz||42272001|$4.39
+Steady|Steady 200 MG Acetominifen |4.32|Acetominifen|42273001|$1.53
+Steady|Steady 200 MG Ibuprofen |9.8|Ibuprofen|42274001|$2.83
+Steady|Steady Buffered Aspirin |18.1|Aspirin|42275001|$1.42
+Steady|Steady Childrens Aspirin |8.8|Aspirin|42276001|$1.74
+Steady|Steady Mint Mouthwash |20.1|Mouthwash|42277001|$2.24
+Starkist|Chunk Light Tuna Water (pouch)|7.06 oz||42278001|$2.29
+Starbucks|Coffee Blonde Veranda|20 oz|Coffee/Creamer|42279001|$14.29
+Starbucks|Coffee Breakfast Blend|12 oz|Coffee/Creamer|42280001|$7.99
+Starbucks|Coffee Caffe Verona|12 oz|Coffee/Creamer|42281001|$7.99
+Starbucks|Coffee Caffe Verona Decaf|12 oz|Coffee/Creamer|42282001|$7.99
+Starbucks|Coffee Caramel|11 oz|Coffee/Creamer|42283001|$7.99
+Starbucks|Coffee Colombia|12 oz|Coffee/Creamer|42284001|$7.99
+Starbucks|Coffee Espresso|12 oz|Coffee/Creamer|42285001|$7.99
+Starbucks|Coffee French Roast|12 oz|Coffee/Creamer|42286001|$7.99
+Starbucks|Coffee French Roast|20 oz|Coffee/Creamer|42287001|$14.29
+Starbucks|Coffee Gold Coast Blend|12 oz|Coffee/Creamer|42288001|$7.99
+Starbucks|Coffee House Blend|12 oz|Coffee/Creamer|42289001|$7.99
+Starbucks|Coffee House Blend|20 oz|Coffee/Creamer|42290001|$14.29
+Starbucks|Coffee House Blend Decaf|12 oz|Coffee/Creamer|42291001|$7.99
+Starbucks|Coffee Italian|12 oz|Coffee/Creamer|42292001|$7.99
+Starbucks|Coffee Mocha|11 oz|Coffee/Creamer|42293001|$7.99
+Starbucks|Coffee Pike Place|12 oz|Coffee/Creamer|42294001|$7.99
+Starbucks|Coffee Sumatra|12 oz|Coffee/Creamer|42295001|$7.99
+Starbucks|Coffee Veranda Blend|12 oz|Coffee/Creamer|42296001|$7.99
+Starbucks|Coffee Willow Blend|12 oz|Coffee/Creamer|42297001|$7.99
+Starbucks|Coffee Willow Blend Decaf|12 oz|Coffee/Creamer|42298001|$7.99
+Starbucks|Hot Cocoa Mix Premium Double Chocolate|8 pkg||42299001|$6.59
+Starbucks|Hot Cocoa Mix Salted Caramel|8 pkg||42300001|$6.59
+Starbucks|Hot Cocoa Mix Vanilla Brulee|8 pkg||42301001|$6.59
+Star|Vinegar Balsamic|8.5 oz||42302001|$2.99
+Sparkling ICE|Sparkling Spring Water Pomegranate Berry|17 oz||42303001|$1.19
+Soy Dream|Soy Milk Vanilla|32 oz|Soda/Juice/Drinks|42304001|$4.79
+Soft & Precious|Baby Lotion Original|1 ct||42305001|$2.99
+Soft & Precious|Hair Moist Creme|4 oz||42306001|$3.99
+Soft & Precious|Hair Moisturizer Detangling|12 oz||42307001|$3.99
+Snyders Of Hanover|Tortilla Chips Original|16 oz||42308001|$2.99
+Snapple|Singles To Go Diet Green Tea|6 ct||42309001|$0.99
+Snapple|Singles To Go Diet Lemon|6 ct||42310001|$0.99
+Smuckers|Jam Grape|18 oz|Jelly/Jam|42311001|$2.29
+Smuckers|Jam Strawberry|18 oz|Jelly/Jam|42312001|$3.09
+Smuckers|Jelly Grape|18 oz|Jelly/Jam|42313001|$2.29
+Smuckers|Squeeze Jelly Grape|20 oz|Jelly/Jam|42314001|$2.14
+Skippy|Peanut Butter Crunchy|28 oz|Peanut Butter|42315001|$3.99
+Skippy|Peanut Butter Smooth|28 oz|Peanut Butter|42316001|$3.99
+Simple Truth Organic|Pasta Sauce Tomato Basil|25 oz|Gravy/Sauce|42317001|$1.99
+Silk|Almond Milk Original|.5 gal|Soda/Juice/Drinks|42318001|$3.69
+Silk|Soymilk Light Chocolate|64 oz|Soda/Juice/Drinks|42319001|$3.69
+Ship Shape|Ship Shape Extra Lean Hamburger |11.3|Hamburger|42320001|$2.97
+Ship Shape|Ship Shape Seasoned Hamburger |6.26|Hamburger|42321001|$1.75
+Shady Lake|Shady Lake Rice Medly |16.6|Rice|42322001|$0.70
+Shady Lake|Shady Lake Thai Rice |8|Rice|42323001|$2.81
+Seattles Best|Coffee Level 3|12 oz|Coffee/Creamer|42324001|$6.99
+Seattles Best|Coffee Level 4|12 oz|Coffee/Creamer|42325001|$6.99
+Seattles Best|Coffee Level 5|12 oz|Coffee/Creamer|42326001|$6.99
+Scrubbing Bubbles|All Purpose Cleaner Bleach 5-in-1|32 oz||42327001|$3.19
+Scrubbing Bubbles|Shower Automatic Refill Liquid Shower Cleaner|34 oz||42328001|$9.00
+Scotch-Brite|Sponges Blue|3 pkg||42329001|$2.49
+Schmidt Old Tyme|English Muffins Original|12 oz||42330001|$1.49
+Schmidt|Bread Amazin Raisin|20 oz|Bread|42331001|$4.39
+Sargento|Tastings Medium Asiago|3.25 oz||42332001|$2.79
+Sargento|Tastings Parmentino|3.75 oz||42333001|$2.99
+Sandwich Bros|Flatbread Angus Cheeseburgers|4 ct|Bread|42334001|$2.99
+Sandwich Bros|Flatbread Chicken Melts|4 ct|Bread|42335001|$2.99
+Safeway Kitchens|Bran Flakes Cereal|17.3 oz|Cereal|42336001|$2.49
+Safeway Kitchens|Coffee 100% Colombian|11 oz|Coffee/Creamer|42337001|$3.29
+Safeway Kitchens|Coffee 100% Colombian|34.5 oz|Coffee/Creamer|42338001|$6.99
+Safeway Kitchens|Coffee Classic Decaf|13 oz|Coffee/Creamer|42339001|$3.79
+Safeway Kitchens|Coffee Classic Decaf|22.6 oz|Coffee/Creamer|42340001|$6.99
+Safeway Kitchens|Coffee Classic Regular|11.5 oz|Coffee/Creamer|42341001|$3.29
+Safeway Kitchens|Coffee Classic Regular|31.5 oz|Coffee/Creamer|42342001|$6.99
+Safeway Kitchens|Coffee French Roast|11.5 oz|Coffee/Creamer|42343001|$3.29
+Safeway Kitchens|Coffee French Roast|33 oz|Coffee/Creamer|42344001|$6.99
+Safeway Kitchens|Coffee Half The Caffeine|11.5 oz|Coffee/Creamer|42345001|$3.29
+Safeway Kitchens|Corn Flakes Cereal|18 oz|Cereal|42346001|$2.49
+Safeway Kitchens|Crispy Rice Cereal|12 oz|Cereal|42347001|$2.19
+Safeway Kitchens|Honey Nut Toasted Oats Cereal|12.25 oz|Cereal|42348001|$2.19
+Safeway|Bread Raisin|16 oz|Bread|42349001|$2.19
+Safeway|Bread Texas Toast|24 oz|Bread|42350001|$2.19
+Safeway|Coffee Breakfast Blend|12 oz|Coffee/Creamer|42351001|$5.99
+Safeway|Coffee Buttery Caramel|12 oz|Coffee/Creamer|42352001|$5.99
+Safeway|Coffee Half Caf French|11 oz|Coffee/Creamer|42353001|$5.99
+RW Knudsen|Juice Just Black Cherry|32 oz||42354001|$8.69
+Rowan Dairy|1.00% Milk|1 gal|Milk|42355001|$3.69
+Rowan Dairy|1.00% Milk|1/2 gal|Milk|42356001|$1.89
+Rowan Dairy|2.00% Milk|1 gal|Milk|42357001|$3.69
+Rowan Dairy|2.00% Milk|1/2 gal|Milk|42358001|$1.89
+Rowan Dairy|Whole Milk Milk|1 gal|Milk|42359001|$3.69
+Rowan Dairy|Whole Milk Milk|1/2 gal|Milk|42360001|$1.89
+Rowan Brand|Cola Soda|67.6 oz|Soda|42361001|$0.99
+Rowan|Sugar White|4 lbs||42362001|$1.69
+Rolled Gold|Honey Wheat Rods Pretzels|10 oz|Snacks|42363001|$3.29
+Reeses|Peanut Butter Cups King Size|2.8 oz|Candy|42364001|$1.69
+Red Wing|Red Wing Counter Cleaner |12|Cleaners|42365001|$0.93
+Red Wing|Red Wing Glass Cleaner |7.39|Cleaners|42366001|$1.68
+Red Wing|Red Wing Room Freshener |13.1|Deodorizers|42367001|$2.95
+Red Wing|Red Wing Toilet Bowl Cleaner |18.3|Cleaners|42368001|$2.92
+Red Spade|Red Spade Beef Bologna |9.3|Bologna|42369001|$3.76
+Red Spade|Red Spade Chicken Hot Dogs |18.2|Hot Dogs|42370001|$2.95
+Red Spade|Red Spade Cole Slaw |6.82|Deli Salads|42371001|$0.97
+Red Spade|Red Spade Corned Beef |17.2|Deli Meats|42372001|$2.74
+Red Spade|Red Spade Foot-Long Hot Dogs |14|Hot Dogs|42373001|$3.56
+Red Spade|Red Spade Low Fat Bologna |8.89|Bologna|42374001|$3.44
+Red Spade|Red Spade Low Fat Cole Slaw |14.7|Deli Salads|42375001|$3.10
+Red Spade|Red Spade Pimento Loaf |12.1|Bologna|42376001|$1.61
+Red Spade|Red Spade Potato Salad |14.8|Deli Salads|42377001|$0.68
+Red Spade|Red Spade Roasted Chicken |20.7|Fresh Chicken|42378001|$2.76
+Red Spade|Red Spade Sliced Chicken |17.1|Deli Meats|42379001|$1.69
+Red Spade|Red Spade Sliced Ham |5.13|Deli Meats|42380001|$1.57
+Red Spade|Red Spade Sliced Turkey |16.1|Deli Meats|42381001|$2.33
+Red Spade|Red Spade Turkey Hot Dogs |4.15|Hot Dogs|42382001|$1.86
+Red Oval Farms|Stone Wheat Thins Original|10.6 oz|Snacks|42383001|$4.19
+R.W. Knudsen|Just Black Cherry Juice|32 oz||42384001|$3.35
+Quick|Quick Extra Lean Hamburger |17.8|Hamburger|42385001|$2.61
+Quick|Quick Seasoned Hamburger |14.6|Hamburger|42386001|$3.64
+Quaker|Apple Nut Harvest Real Medley Bars|6.7 oz|Snacks|42387001|$3.50
+Quaker|Cherry Pistachio Real Medley Bars|6.7 oz|Snacks|42388001|$3.50
+Quaker|Granola Bars Chewy Chocolate Chip|6 pkg|Snacks|42389001|$2.50
+Quaker|Life Cereal|13 oz|Cereal|42390001|$2.50
+Quaker|Life Cinnamon Cereal|13 oz|Cereal|42391001|$2.50
+Quaker|Ohs Honey Graham Cereal|10.5 oz|Cereal|42392001|$2.99
+Quaker|Peach Almond Real Medley Bars|6.7 oz|Snacks|42393001|$3.50
+Quaker|Yogurt Strawberry Chewy Granola Bars|6.1 oz|Snacks|42394001|$2.50
+Purnell|Sausage Pork|1 lbs||42395001|$3.29
+Produce|Lettuce Head|1 ct|Produce|42396001|$1.09
+Produce|Turnip Greens Vegetables|1 lbs|Produce|42397001|$1.29
+Private Selection|Mocha Coffee|12 oz|Coffee/Creamer|42398001|$4.99
+Pringles|Bacon Potato Crisps|5.6 oz|Snacks|42399001|$1.67
+Pringles|BBQ Grab & Go|2.5 oz|Snacks|42400001|$1.00
+Pringles|BBQ Potato Crisps|5.5 oz|Snacks|42401001|$1.67
+Pringles|Buffalo Ranch Potato Crisps|5.5 oz|Snacks|42402001|$1.67
+Pringles|Cheddar & Sour Cream Potato Crisps|5.5 oz|Snacks|42403001|$1.67
+Pringles|Cheddar Cheese Grab & Go|2.5 oz|Snacks|42404001|$1.00
+Pringles|Cheddar Cheese Potato Crisps|5.5 oz|Snacks|42405001|$1.67
+Pringles|Cheese Burger Potato Crisps|5.5 oz|Snacks|42406001|$1.67
+Pringles|Honey Butter Stix|4.88 oz|Snacks|42407001|$3.19
+Pringles|Honey Mustard Potato Crisps|5.5 oz|Snacks|42408001|$1.67
+Pringles|Jalapeno Potato Crisps|5.5 oz|Snacks|42409001|$1.67
+Pringles|Lightly Salted Cheddar Cheese Potato Crisps|5.5 oz|Snacks|42410001|$1.67
+Pringles|Lightly Salted Potato Crisps|5.5 oz|Snacks|42411001|$1.67
+Pringles|Loaded Baked Potato Potato Crisps|5.5 oz|Snacks|42412001|$1.67
+Pringles|Loud Fiery Chili Lime Corn Crisps|5.4 oz|Snacks|42413001|$1.67
+Pringles|Loud Mighty Margherita Pizza Grain & Vegetable Crisps|5.1 oz|Snacks|42414001|$1.67
+Pringles|Loud Salsa Fiesta Corn Crisps|5.4 oz|Snacks|42415001|$1.67
+Pringles|Loud Spicy Queso Corn Crisps|5.4 oz|Snacks|42416001|$1.67
+Pringles|Loud Super Cheesy Italian Grain & Vegetable Crisps|5.1 oz|Snacks|42417001|$1.67
+Pringles|Memphis BBQ Potato Crisps|5.5 oz|Snacks|42418001|$1.67
+Pringles|Mixed Flavors Snack Stacks|24 ct|Snacks|42419001|$9.19
+Pringles|Original Fat Free Potato Chips|5.43 oz|Snacks|42420001|$2.98
+Pringles|Original Grab & Go|2.36 oz|Snacks|42421001|$1.00
+Pringles|Original Potato Crisps|12 ct|Snacks|42422001|$5.29
+Pringles|Original Potato Crisps|5.2 oz|Snacks|42423001|$1.67
+Pringles|Pizza Potato Crisps|5.5 oz|Snacks|42424001|$1.67
+Pringles|Pizza Stix|4.88 ct|Snacks|42425001|$3.19
+Pringles|Ranch Potato Crisps|5.5 oz|Snacks|42426001|$1.67
+Pringles|Reduced Fat Potato Crisps|5.5 oz|Snacks|42427001|$1.67
+Pringles|Reduced Fat Sour Cream & Onion Potato Crisps|5.2 oz|Snacks|42428001|$1.67
+Pringles|Salt & Vinegar Potato Crisps|5.5 oz|Snacks|42429001|$1.67
+Pringles|Screamin Dill Pickle Potato Crisps|5.5 oz|Snacks|42430001|$1.67
+Pringles|Sour Cream & Onion Grab & Go|2.5 oz|Snacks|42431001|$1.00
+Pringles|Sour Cream & Onion Potato Crisps|5.5 oz|Snacks|42432001|$1.67
+Pringles|Sour Cream & Onion Stacks|12 ct|Snacks|42433001|$5.00
+Pringles|Variety Pack Grab & Go|15 ct|Snacks|42434001|$8.99
+Powerade|Zero Fruit Punch|32 oz||42435001|$0.89
+Powerade|Zero Grape|32 oz||42436001|$0.89
+Powerade|Zero Mixed Berry|32 oz||42437001|$0.89
+Powerade|Zero Orange|32 oz||42438001|$0.89
+Post|Fruity Pebbles Cereal|15 oz|Cereal|42439001|$3.28
+Post|Great Grains Crunchy Pecan Cereal|16 oz|Cereal|42440001|$4.39
+Post|Great Grains Date Pecan Raisin Cereal|16 oz|Cereal|42441001|$4.39
+Post|Honey Bunches Of Oat Honey Roasted Cereal|18 oz|Cereal|42442001|$2.99
+Post|Honey Bunches Of Oats Almond Cereal|14.5 oz|Cereal|42443001|$4.39
+Post|Honey Bunches Of Oats Greek Honey Crunch Cereal|12.5 oz|Cereal|42444001|$4.39
+Post|Honey Bunches Of Oats Honet Roasted Cereal|14.5 oz|Cereal|42445001|$4.39
+Post|Honey Bunches Of Oats Honey Roasted Cereal|48 oz|Cereal|42446001|$8.79
+Post|Honey Bunches Of Oats Morning Energy Chocolate Almond Crunch Cereal|12.5 oz|Cereal|42447001|$4.39
+Post|Honey Bunches Of Oats Morning Energy Cinnamon Crunch Cereal|12.5 oz|Cereal|42448001|$4.39
+Post|Honey Bunches Of Oats Strawberry Cereal|13 oz|Cereal|42449001|$4.39
+Post|Honey Bunches Of Oats With Almonds Cereal|18 oz|Cereal|42450001|$2.99
+Pleasant|Pleasant Beef Soup |14.8|Soup|42451001|$1.43
+Pleasant|Pleasant Canned Beets |7.71|Canned Vegetables|42452001|$0.72
+Pleasant|Pleasant Canned Peas |17.8|Canned Vegetables|42453001|$2.54
+Pleasant|Pleasant Canned String Beans |6.5|Canned Vegetables|42454001|$1.60
+Pleasant|Pleasant Canned Tomatos |3.11|Canned Vegetables|42455001|$3.50
+Pleasant|Pleasant Canned Tuna in Oil |5.9|Tuna|42456001|$1.37
+Pleasant|Pleasant Canned Tuna in Water |3.4|Tuna|42457001|$2.96
+Pleasant|Pleasant Canned Yams |8.5|Canned Vegetables|42458001|$3.97
+Pleasant|Pleasant Chicken Noodle Soup |19.2|Soup|42459001|$1.31
+Pleasant|Pleasant Chicken Ramen Soup |19.2|Soup|42460001|$2.82
+Pleasant|Pleasant Chicken Soup |18.5|Soup|42461001|$1.30
+Pleasant|Pleasant Creamed Corn |8|Canned Vegetables|42462001|$1.18
+Pleasant|Pleasant Noodle Soup |16.2|Soup|42463001|$2.48
+Pleasant|Pleasant Regular Ramen Soup |9.5|Soup|42464001|$3.31
+Pleasant|Pleasant Rice Soup |12|Soup|42465001|$0.90
+Pleasant|Pleasant Turkey Noodle Soup |12.5|Soup|42466001|$1.17
+Pleasant|Pleasant Vegetable Soup |18.5|Soup|42467001|$2.69
+Plato|Plato Brown Sugar |8.19|Sugar|42468001|$1.24
+Plato|Plato Canola Oil |6.94|Cooking Oil|42469001|$1.13
+Plato|Plato Chunky Peanut Butter |9|Peanut Butter|42470001|$2.45
+Plato|Plato Corn Oil |10.3|Cooking Oil|42471001|$0.77
+Plato|Plato Creamy Peanut Butter |17.2|Peanut Butter|42472001|$2.32
+Plato|Plato Extra Chunky Peanut Butter |16.2|Peanut Butter|42473001|$1.68
+Plato|Plato Oregano |14.6|Spices|42474001|$2.26
+Plato|Plato Pepper |13.5|Spices|42475001|$3.32
+Plato|Plato Salt |13.8|Spices|42476001|$1.47
+Plato|Plato Sesame Oil |19.7|Cooking Oil|42477001|$1.49
+Plato|Plato Vegetable Oil |12.5|Cooking Oil|42478001|$1.30
+Plato|Plato White Sugar |9.39|Sugar|42479001|$1.72
+Pillsbury|Grands Biscuits Buttermilk|20 ct|Other Dairy/Not Milk|42480001|$3.99
+Pillsbury|Grands Biscuits Flaky Layers Buttermilk|16.3 oz|Other Dairy/Not Milk|42481001|$1.99
+Pillsbury|Grands Biscuits Southern Homestyle Buttermilk|10.2 oz|Other Dairy/Not Milk|42482001|$1.59
+Pillsbury|Grands Biscuits Southern Homestyle Buttermilk|16.3 oz|Other Dairy/Not Milk|42483001|$1.99
+Pillsbury|Grands Junior Biscuits Flaky Layers Buttermilk|6 oz|Other Dairy/Not Milk|42484001|$1.29
+PigTail|PigTail Beef TV Dinner |13.5|TV Dinner|42485001|$2.14
+PigTail|PigTail Chicken TV Dinner |16.3|TV Dinner|42486001|$1.11
+PigTail|PigTail Fajita French Fries |4.88|French Fries|42487001|$2.31
+PigTail|PigTail Frozen Broccoli |8.19|Frozen Vegetables|42488001|$1.27
+PigTail|PigTail Frozen Carrots |4.98|Frozen Vegetables|42489001|$1.91
+PigTail|PigTail Frozen Cauliflower |5.76|Frozen Vegetables|42490001|$1.57
+PigTail|PigTail Frozen Cheese Pizza |9.6|Pizza|42491001|$2.64
+PigTail|PigTail Frozen Chicken Breast |10.5|Frozen Chicken|42492001|$1.51
+PigTail|PigTail Frozen Chicken Thighs |17.5|Frozen Chicken|42493001|$2.21
+PigTail|PigTail Frozen Chicken Wings |5.35|Frozen Chicken|42494001|$3.93
+PigTail|PigTail Frozen Corn |11.6|Frozen Vegetables|42495001|$3.70
+PigTail|PigTail Frozen Mushroom Pizza |8.1|Pizza|42496001|$1.21
+PigTail|PigTail Frozen Peas |7.84|Frozen Vegetables|42497001|$1.66
+PigTail|PigTail Frozen Pepperoni Pizza |3.05|Pizza|42498001|$1.68
+PigTail|PigTail Frozen Sausage Pizza |16.7|Pizza|42499001|$1.45
+PigTail|PigTail Grape Popsicles |14.5|Popsicles|42500001|$0.74
+PigTail|PigTail Home Style French Fries |7.93|French Fries|42501001|$0.81
+PigTail|PigTail Ice Cream |18|Ice Cream|42502001|$0.71
+PigTail|PigTail Ice Cream Sandwich |14.6|Ice Cream|42503001|$1.15
+PigTail|PigTail Lemon Popsicles |13.3|Popsicles|42504001|$1.28
+PigTail|PigTail Lime Popsicles |15|Popsicles|42505001|$1.32
+PigTail|PigTail Low Fat French Fries |6.53|French Fries|42506001|$3.95
+PigTail|PigTail Orange Popsicles |10.6|Popsicles|42507001|$1.22
+PigTail|PigTail Turkey TV Dinner |19.8|TV Dinner|42508001|$2.91
+Philly Gourmet|Hamburgers Pure Beef|32 oz||42509001|$9.99
+Philly Gourmet|Hamburgers Pure Beef|64 oz||42510001|$19.99
+Pet|Evaporated Milk Original|12 oz|Baking Supplies|42511001|$1.79
+Pepsi|Diet Soda|67.6 oz|Soda|42512001|$1.50
+Pepsi|Original Soda|67.6 oz|Soda|42513001|$1.50
+Pepperidge Farm|Bagels Everything|6 ct||42514001|$4.29
+Pepperidge Farm|Bagels Mini/Brown Sugar Cinnamon|17 oz||42515001|$4.29
+Pepperidge Farm|Bagels Mini/Cinnamon Raisin|12 ct||42516001|$4.29
+Pepperidge Farm|Bagels Mini/Plain|17 oz||42517001|$4.29
+Pepperidge Farm|Bagels Mini/Whole Wheat|12 ct||42518001|$4.29
+Pepperidge Farm|Bagels Pre-Sliced/Plain|21 oz||42519001|$4.29
+Pepperidge Farm|Bread Cinnamon Swirl|16 oz|Bread|42520001|$3.99
+Pepperidge Farm|Bread Swirl Brown Sugar Cinnamon|16 oz|Bread|42521001|$3.99
+Pepperidge Farm|Bread Swirl Raisin Cinnamon|16 oz|Bread|42522001|$3.99
+Pepperidge Farm|Bread White Original|16 oz|Bread|42523001|$3.49
+Pepperidge Farm|Bread White Sandwich|16 oz|Bread|42524001|$3.49
+Pepperidge Farm|Bread Whole Wheat Cinnamon Swirl|16 oz|Bread|42525001|$3.99
+Pepperidge Farm|Farmhouse Bread Hearty White|24 oz|Bread|42526001|$3.99
+Pepperidge Farm|Farmhouse Bread Oatmeal|24 oz|Bread|42527001|$3.99
+Pepperidge Farm|Farmhouse Bread Potato|22 oz|Bread|42528001|$3.99
+Pepperidge Farm|Farmhouse Bread Sourdough|24 oz|Bread|42529001|$3.99
+Pepperidge Farm|Goldfish Baby Cheddar|7.2 oz||42530001|$2.19
+Pepperidge Farm|Goldfish Blasted Burstin BBQ|6.6 oz||42531001|$2.19
+Pepperidge Farm|Goldfish Blasted Cheddar|9 pkg||42532001|$5.49
+Pepperidge Farm|Goldfish Blasted Slammin Sour Cream & Onion|6.6 oz||42533001|$2.19
+Pepperidge Farm|Goldfish Blasted Xplosive Pizza|6.6 oz||42534001|$2.19
+Pepperidge Farm|Goldfish Blasted Xtra Cheddar|11 oz||42535001|$3.99
+Pepperidge Farm|Goldfish Blasted Xtra Cheddar|30 oz||42536001|$8.99
+Pepperidge Farm|Goldfish Blasted Xtra Cheddar|6.6 oz||42537001|$2.19
+Pepperidge Farm|Goldfish Cheddar|2 oz||42538001|$1.09
+Pepperidge Farm|Goldfish Cheddar|20 ct||42539001|$8.69
+Pepperidge Farm|Goldfish Cheddar|6.6 oz||42540001|$2.19
+Pepperidge Farm|Goldfish Cheddar Colors|6.6 oz||42541001|$2.19
+Pepperidge Farm|Goldfish Grahams Cookies And Creme|6.6 oz||42542001|$2.19
+Pepperidge Farm|Goldfish Grahams Smores|6.6 oz||42543001|$2.19
+Pepperidge Farm|Goldfish Grahams Vanilla Cupcake|6.6 oz||42544001|$2.19
+Pepperidge Farm|Goldfish Mix Extra Cheddar & Pretzel|34 oz||42545001|$8.99
+Pepperidge Farm|Goldfish Mix Extra Cheddar + Pretzel|6 oz||42546001|$2.19
+Pepperidge Farm|Goldfish Mix Honey Mustard + Pretzel|6 oz||42547001|$2.19
+Pepperidge Farm|Goldfish Organic Wheat Cheddar Lunch Packs|9 pkg||42548001|$5.49
+Pepperidge Farm|Goldfish Parmesan|6.6 oz||42549001|$2.19
+Pepperidge Farm|Goldfish Pizza|6.6 oz||42550001|$2.19
+Pepperidge Farm|Goldfish Pretzel|8 oz||42551001|$2.19
+Pepperidge Farm|Goldfish Princess|2 oz||42552001|$1.09
+Pepperidge Farm|Goldfish Princess|6.6 oz||42553001|$2.19
+Pepperidge Farm|Goldfish Saltine|6.6 oz||42554001|$2.19
+Pepperidge Farm|Goldfish Sweet & Savory|20 ct||42555001|$8.69
+Pepperidge Farm|Goldfish Whole Grain Cheddar|6.6 oz||42556001|$2.19
+Pepperidge Farm|Goldfish Whole Grain Cheddar Colors|6.6 oz||42557001|$2.19
+Pepperidge Farm|Goldfish Whole Grain Cinnamon|6.6 oz||42558001|$2.19
+Pepperidge Farm|Goldfish Whole Grain Honey Grahams|6.6 oz||42559001|$2.19
+Pepperidge Farm|Goldfish Whole Grain Pretzel|8 oz||42560001|$2.19
+Pepperidge Farm|Goldfish Whole Grain Xtra Cheddar|6.6 oz||42561001|$2.19
+Pepperidge Farm|Italian Bread With Sesame Seeds|20 oz|Bread|42562001|$2.69
+Pepperidge Farm|Jewish Pumpernickel Dark Pump|16 oz|Bread|42563001|$3.79
+Pepperidge Farm|Jewish Rye & Pumpernickel Deli Swirl|16 oz|Bread|42564001|$3.79
+Pepperidge Farm|Jewish Rye Seeded|16 oz||42565001|$3.79
+Pepperidge Farm|Jewish Rye Seedless|16 oz|Bread|42566001|$3.79
+Pepperidge Farm|Light Style Bread 7 Grain|16 oz|Bread|42567001|$3.99
+Pepperidge Farm|Light Style Bread Soft Wheat|16 oz|Bread|42568001|$3.99
+Pepperidge Farm|Stuffing Corn Bread|14 oz|Stuffing|42569001|$2.99
+Pepperidge Farm|Swirl Bread Blueberry|16 oz|Bread|42570001|$3.99
+Pepperidge Farm|Swirl Bread Brown Sugar Cinnamon|16 oz|Bread|42571001|$3.99
+Pepperidge Farm|Swirl Bread Cinnamon|16 oz|Bread|42572001|$3.99
+Pepperidge Farm|Swirl Bread French Toast|14 oz|Bread|42573001|$3.99
+Pepperidge Farm|Swirl Bread Raisin Cinnamon|16 oz|Bread|42574001|$3.99
+Pepperidge Farm|Swirl Bread Strawberry|14 oz|Bread|42575001|$3.99
+Pepperidge Farm|Swirl Oatmeal Bread Apple & Cinnamon|16 oz|Bread|42576001|$4.29
+Pepperidge Farm|Swirl Oatmeal Bread Maple & Brown Sugar|16 oz|Bread|42577001|$4.29
+Pepperidge Farm|Texas Toast 5 Cheese|9.5 oz||42578001|$2.59
+Pepperidge Farm|Texas Toast Garlic|11 oz||42579001|$3.39
+Pepperidge Farm|Very Thin Bread 100% Whole Wheat|16 oz|Bread|42580001|$3.79
+Pepperidge Farm|Very Thin Bread White|16 oz|Bread|42581001|$3.79
+Pepperidge Farm|Whole Grain Bread 100% Wheat Bread|24 oz|Bread|42582001|$4.29
+Pepperidge Farm|Whole Grain Bread 15 Grain|24 oz|Bread|42583001|$4.29
+Pepperidge Farm|Whole Grain Bread Honey Wheat|24 oz|Bread|42584001|$4.29
+Peets|Anniversary Blend Coffee|12 oz|Coffee/Creamer|42585001|$10.99
+Peets|Cafe Domingo Coffee|12 oz|Coffee/Creamer|42586001|$10.99
+Peets|Cafe Solano Coffee|12 oz|Coffee/Creamer|42587001|$10.99
+Peets|Colombian Coffee|12 oz|Coffee/Creamer|42588001|$10.99
+Peets|French Roast Coffee|12 oz|Coffee/Creamer|42589001|$10.99
+Peets|House Blend Coffee|12 oz|Coffee/Creamer|42590001|$10.99
+Peets|House Blend Decaf Coffee|12 oz|Coffee/Creamer|42591001|$10.99
+Peets|Major Dickason Coffee|12 oz|Coffee/Creamer|42592001|$10.99
+Peets|Major Dickason Decaf Coffee|12 oz|Coffee/Creamer|42593001|$10.99
+Peets|Medium Brazil Monte Alegre Coffee|12 oz|Coffee/Creamer|42594001|$10.99
+Pedigree|Chopped Beef Dog Food|22 oz||42595001|$1.28
+Pediacare|Cough & Congestion Cherry|4 oz||42596001|$6.79
+Pasta Roni|Pasta Butter And Garlic|4.7 oz|Pasta/Noodles|42597001|$1.00
+Pantry Essentials|Dutch Style Hot Cocoa Mix|18.5 oz||42598001|$2.59
+Pampers|Baby Dry Size 1|44 ct|Diapers|42599001|$10.49
+Pampers|Baby Dry Size 2|37 ct|Diapers|42600001|$10.49
+Pampers|Baby Dry Size 3|32 ct|Diapers|42601001|$10.49
+Pampers|Baby Dry Size 3|56 ct|Diapers|42602001|$18.99
+Pampers|Baby Dry Size 3|60 ct|Diapers|42603001|$18.79
+Pampers|Baby Dry Size 4|28 ct|Diapers|42604001|$10.49
+Pampers|Baby Dry Size 5|24 ct|Diapers|42605001|$10.49
+Pampers|Baby Dry Size 5|27 ct|Diapers|42606001|$10.99
+Pampers|Baby Dry Size 5|78 ct|Diapers|42607001|$28.49
+Pampers|Baby Dry Size 6|21 ct|Diapers|42608001|$10.49
+Pampers|Baby Dry Size 6|23 ct|Diapers|42609001|$10.49
+Pampers|Cruisers Size 3|31 ct|Diapers|42610001|$10.99
+Pampers|Cruisers Size 4|24 ct|Diapers|42611001|$10.29
+Pampers|Cruisers Size 4|26 ct|Diapers|42612001|$10.99
+Pampers|Cruisers Size 5|21 ct|Diapers|42613001|$9.99
+Pampers|Cruisers Size 5|23 ct|Diapers|42614001|$10.99
+Pampers|Cruisers Size 5|52 ct|Diapers|42615001|$26.99
+Pampers|Cruisers Size 5|66 ct|Diapers|42616001|$26.99
+Pampers|Cruisers Size 5|72 ct|Diapers|42617001|$29.99
+Pampers|Swaddlers Size 1|35 ct|Diapers|42618001|$10.49
+Pampers|Swaddlers Size 2|32 ct|Diapers|42619001|$10.49
+Pampers|Swaddlers Size Newborn|32 ct|Diapers|42620001|$10.49
+Pampers|Swaddlers Size Newborn|36 ct|Diapers|42621001|$10.99
+Palmolive|Oxy Blue|25 oz||42622001|$2.79
+Oxi Clean|Oxi Clean Laundry Detergent|47 oz||42623001|$2.99
+Ovaltine|Drink Mix Chocolate Malt|12 oz||42624001|$5.29
+Ovaltine|Drink Mix Chocolate Malt|12 oz||42625001|$5.49
+Ovaltine|Drink Mix Rich Chocolate|18 oz||42626001|$4.99
+Oscar Mayer|Hot Dogs Regular|16 oz||42627001|$2.49
+Oscar Mayer|Hot Dogs Turkey Smoked|16 oz||42628001|$2.49
+Orville Redenbachers|Microwave Popcorn Butter|6 pkg||42629001|$3.49
+Orville Redenbachers|Popcorn Garlic Butter & Sea Salt|8.07 oz||42630001|$3.19
+Oregon|Blueberries In Light Syrup|15 oz||42631001|$4.79
+Ore Ida|French Fries Shoestring|32 oz||42632001|$2.00
+Open Nature|Meatballs Angus Beef|14 oz||42633001|$7.69
+On Cor|Chicken Patties|27.5 oz||42634001|$3.49
+Old Orchard|Juice Blueberry Pomegranate|64 oz||42635001|$2.79
+Old Orchard|Juice Peach Mango|64 oz||42636001|$2.79
+Old El Paso|Taco Seasoning Original|1 oz||42637001|$0.83
+Ocean Spray|Craisins Original|5 oz||42638001|$2.49
+Ocean Spray|Cranberry Sauce Jellied|14 oz||42639001|$3.29
+Ocean Spray|Juice Cherry|64 oz||42640001|$3.89
+Ocean Spray|Juice Citrus Tangerine Orange Juice|60 oz||42641001|$3.99
+Ocean Spray|Juice Grape Cranberry|4 pkg||42642001|$4.19
+Ocean Spray|Juice White Grapefruit|64 oz||42643001|$2.00
+Ocean Spray|Sparkling Juice Cranberry|4 ct||42644001|$4.19
+O Organics|Coffee Aztec Blend Medium|10 oz|Coffee/Creamer|42645001|$5.99
+O Organics|Coffee Columbian Excelso|10 oz|Coffee/Creamer|42646001|$5.99
+O Organics|Coffee French Roast Dark|10 oz|Coffee/Creamer|42647001|$5.99
+O Organics|Coffee Guatemalan|10 oz|Coffee/Creamer|42648001|$5.99
+O Organics|Coffee Mexican Chiapas|10 oz|Coffee/Creamer|42649001|$5.99
+O Organics|Coffee Peruvian Chanchamayo|10 oz|Coffee/Creamer|42650001|$5.99
+O Organics|Honey Flake & Oat Clusters Cereal|14 oz|Cereal|42651001|$3.29
+O Organics|Honey Nut Os Cereal|14 oz|Cereal|42652001|$3.29
+O Organics|Multi Grain Squares Cereal|13 oz|Cereal|42653001|$3.29
+O Organics|Raisin Bran Cereal|15 oz|Cereal|42654001|$3.29
+Nutella|Spread Hazelnut|26.5 oz||42655001|$6.99
+New England|Coffee Breakfast Blend|12 oz|Coffee/Creamer|42656001|$5.99
+New England|Coffee Hazelnut Creme|11 oz|Coffee/Creamer|42657001|$5.99
+Nestle|Carnation Reduced Fat|12 oz||42658001|$1.79
+Nestle|Coffeemate French Vanilla|32 oz|Coffee/Creamer|42659001|$3.29
+Nestle|Hot Cocoa Mix Milk Chocolate|6 pkg|Soda/Juice/Drinks|42660001|$1.99
+Nestle|Hot Cocoa Mix Mini Marshmallow|6 pkg||42661001|$1.99
+Nestle|Milk Banana Strawberry|14 oz|Soda/Juice/Drinks|42662001|$1.69
+Nestea|Tea Instant|3 oz||42663001|$4.39
+Nesquik|Drink Mix Chocolate|10.9 oz||42664001|$4.39
+Nesquik|Drink Mix Chocolate|21.8 oz||42665001|$6.59
+Nesquik|Drink Mix Chocolate|40.7 oz||42666001|$6.99
+Nescafe|Tasters Choice Coffee|7 oz|Coffee/Creamer|42667001|$7.00
+Natures Own|Bagels Cinnamon Raisin|20 oz||42668001|$3.29
+Natures Own|Bagels Plain|20 oz||42669001|$3.29
+Natures Own|Bagels Whole Wheat|20 oz||42670001|$3.29
+Natures Own|Bread Cinnamon Raisin Swirl|16 oz|Bread|42671001|$3.99
+Natures Own|Thin Bagels White|13 oz||42672001|$3.29
+Natures Own|Thin Bagels Whole Wheat|13 oz||42673001|$3.29
+Nationeel|Nationeel Avocado Dip |8.19|Dips|42674001|$2.41
+Nationeel|Nationeel Buttered Popcorn |6.31|Popcorn|42675001|$2.51
+Nationeel|Nationeel Cheese Dip |8.69|Dips|42676001|$2.22
+Nationeel|Nationeel Chocolate Chip Cookies |14.1|Cookies|42677001|$3.31
+Nationeel|Nationeel Fondue Mix |5.98|Dips|42678001|$2.22
+Nationeel|Nationeel Frosted Cookies |10.5|Cookies|42679001|$1.63
+Nationeel|Nationeel Fudge Brownies |13.2|Cookies|42680001|$1.71
+Nationeel|Nationeel Fudge Cookies |5.3|Cookies|42681001|$1.42
+Nationeel|Nationeel Graham Crackers |6.31|Cookies|42682001|$1.65
+Nationeel|Nationeel Lemon Cookies |12.8|Cookies|42683001|$2.26
+Nationeel|Nationeel Low Fat Cookies |11.3|Cookies|42684001|$0.66
+Nationeel|Nationeel Low Fat Popcorn |8.6|Popcorn|42685001|$3.88
+Nationeel|Nationeel No Salt Popcorn |6.63|Popcorn|42686001|$0.69
+Nationeel|Nationeel Salsa Dip |7.89|Dips|42687001|$1.60
+Nationeel|Nationeel Sugar Cookies |6.23|Cookies|42688001|$2.94
+Nabisco|Chips Ahoy Cookies Candy Blasts|12.4 oz||42689001|$2.79
+Nabisco|Chips Ahoy Cookies Chewy Chocolate Chip|13 oz||42690001|$2.79
+Nabisco|Chips Ahoy Cookies Chewy Chocolate Chip|19.5 oz||42691001|$3.89
+Nabisco|Chips Ahoy Cookies Chewy Chocolate Reeses|9.5 oz||42692001|$2.79
+Nabisco|Chips Ahoy Cookies Chewy Reeses Peanut Butter Cup|9.5 oz|Snacks|42693001|$2.79
+Nabisco|Chips Ahoy Cookies Chocolate Chip|12 ct||42694001|$6.99
+Nabisco|Chips Ahoy Cookies Chocolate Chip|18.2 oz||42695001|$3.89
+Nabisco|Chips Ahoy Cookies Chunky|11.75 oz||42696001|$2.79
+Nabisco|Chips Ahoy Cookies Double Chocolate Thins|7 oz||42697001|$2.79
+Nabisco|Chips Ahoy Cookies Oatmeal Thins|7 oz||42698001|$2.79
+Nabisco|Chips Ahoy Cookies Red Velvet|9.6 oz||42699001|$2.79
+Nabisco|Chips Ahoy Cookies Reduced Fat|13 oz||42700001|$2.79
+Nabisco|Chips Ahoy Cookies Smores|9.6 oz||42701001|$2.79
+Nabisco|Chips Ahoy Cookies Snak-Saks Original|8 oz||42702001|$2.99
+Nabisco|Chips Ahoy Cookies Soft Chunky Peanut Butter|10.5 oz|Snacks|42703001|$2.79
+Nabisco|Chips Ahoy Cookies Thins Cinnamon Sugar|7 oz||42704001|$2.79
+Nabisco|Chips Ahoy Cookies Thins Original|7 oz||42705001|$2.79
+Nabisco|Chips Ahoy Cookies White Fudge Chunky|11.75 oz||42706001|$2.79
+Nabisco|Chips Ahoy Original Chocolate Chip|13 oz||42707001|$2.79
+Nabisco|Wheat Thins Big Crackers Original|8 oz||42708001|$2.39
+Nabisco|Wheat Thins Cracked Pepper & Olive Oil|9 oz||42709001|$2.39
+Nabisco|Wheat Thins Hint Of Salt|9.1 oz||42710001|$2.39
+Nabisco|Wheat Thins Original|9.1 oz||42711001|$2.39
+Nabisco|Wheat Thins Ranch|9 oz||42712001|$2.39
+Nabisco|Wheat Thins Reduced Fat|8.5 oz||42713001|$2.39
+Nabisco|Wheat Thins Sundried Tomato & Basil|9 oz||42714001|$2.39
+Nabisco|Wheat Thins Toasted Chips Multigrain|8.1 oz||42715001|$3.99
+Nabisco|Wheat Thins Toasted Chips Veggie|8.1 oz||42716001|$3.99
+Nabisco|Wheat Thins Toasted Pita Garlic Herb|8 oz||42717001|$2.39
+Nabisco|Wheat Thins Toasted Pita Original|8 oz||42718001|$2.39
+Musial|Musial Malted Milk Balls |10.8|Chocolate Candy|42719001|$0.89
+Musial|Musial Mint Chocolate Bar |12.5|Chocolate Candy|42720001|$0.98
+Musial|Musial Mints |7.3|Hard Candy|42721001|$3.14
+Musial|Musial Semi-Sweet Chocolate Bar |17.6|Chocolate Candy|42722001|$2.81
+Musial|Musial Spicy Mints |12.6|Hard Candy|42723001|$2.92
+Musial|Musial Tasty Candy Bar |16.7|Chocolate Candy|42724001|$2.10
+Musial|Musial White Chocolate Bar |14|Chocolate Candy|42725001|$3.43
+Munchkin|Diaper Bag Dispenser|1 pkg|Diapers|42726001|$4.29
+Munchkin|Diaper Bag Refills|36 ct|Diapers|42727001|$4.39
+Mrs. Buttersworths|Syrup Regular|24 oz||42728001|$3.49
+Motts For Tots|Juice Boxes Apple White Grape|8 ct||42729001|$2.99
+Motts|Applesauce Cinnamon|24 oz||42730001|$3.39
+Motrin Infant|Pain Reliever/Fever Reducer Original Berry|1 oz||42731001|$8.99
+Morton|Salt Kosher|3 lbs||42732001|$2.89
+Morton|Sea Salt Coarse|17.6 oz||42733001|$2.69
+Morton|Sea Salt Fine|17.6 oz||42734001|$0.99
+Monarch|Monarch Rice Medly |11.1|Rice|42735001|$1.80
+Monarch|Monarch Thai Rice |6.43|Rice|42736001|$3.11
+Moms|Moms Beef Bologna |11.3|Bologna|42737001|$2.27
+Moms|Moms Chicken Hot Dogs |10.3|Hot Dogs|42738001|$1.49
+Moms|Moms Cole Slaw |8.3|Deli Salads|42739001|$2.33
+Moms|Moms Corned Beef |11.1|Deli Meats|42740001|$2.75
+Moms|Moms Foot-Long Hot Dogs |14.2|Hot Dogs|42741001|$3.85
+Moms|Moms Low Fat Bologna |17|Bologna|42742001|$2.10
+Moms|Moms Low Fat Cole Slaw |19.3|Deli Salads|42743001|$1.22
+Moms|Moms Pimento Loaf |17.3|Bologna|42744001|$2.29
+Moms|Moms Potato Salad |13.8|Deli Salads|42745001|$2.23
+Moms|Moms Roasted Chicken |8.19|Fresh Chicken|42746001|$1.62
+Moms|Moms Sliced Chicken |16.7|Deli Meats|42747001|$2.41
+Moms|Moms Sliced Ham |9.3|Deli Meats|42748001|$1.56
+Moms|Moms Sliced Turkey |12.6|Deli Meats|42749001|$0.54
+Moms|Moms Turkey Hot Dogs |16.2|Hot Dogs|42750001|$1.11
+Minute Maid|Coolers Fruit Punch|10 ct||42751001|$2.99
+Minute Maid|Fruit Drink Peach|67.63 oz||42752001|$1.29
+Minute Maid|Juice Cherry Limeade|59 oz||42753001|$1.67
+Minute Maid|Orange Juice No Pulp|59 oz||42754001|$3.99
+Melitta|Coffee French Vanilla|11 oz|Coffee/Creamer|42755001|$6.59
+Melitta|Coffee Hazelnut Creme|11 oz|Coffee/Creamer|42756001|$6.59
+Medalist|Medalist Rice Medly |9.69|Rice|42757001|$3.61
+Medalist|Medalist Thai Rice |16.7|Rice|42758001|$2.78
+Mccormick|Vanilla, Butter & Nut Exctract|2 oz||42760001|$6.00
+Maxwell House|Coffee Medium Dark 100% Colombian|10.5 oz|Coffee/Creamer|42762001|$3.99
+Maxwell House|Coffee Medium Dark 100% Colombian|28 oz|Coffee/Creamer|42763001|$11.99
+Maxwell House|Coffee Medium Dark French|11 oz|Coffee/Creamer|42764001|$3.99
+Maxwell House|Coffee Medium Dark French|29.3 oz|Coffee/Creamer|42765001|$11.99
+Maxwell House|Coffee Medium Dark French Decaf|11 oz|Coffee/Creamer|42766001|$3.99
+Maxwell House|Coffee Medium Gourmet|11 oz|Coffee/Creamer|42767001|$3.99
+Maxwell House|Coffee Medium Gourmet|29.3 oz|Coffee/Creamer|42768001|$11.99
+Maxwell House|Coffee Medium House Blend|10.5 oz|Coffee/Creamer|42769001|$3.99
+Maxwell House|Coffee Medium Lite|11 oz|Coffee/Creamer|42770001|$3.99
+Maxwell House|Coffee Medium Lite|29.3 oz|Coffee/Creamer|42771001|$11.99
+Maxwell House|Coffee Medium Original|11.5 oz|Coffee/Creamer|42772001|$3.99
+Maxwell House|Coffee Medium Original|30.6 oz|Coffee/Creamer|42773001|$11.99
+Maxwell House|Coffee Medium Original Decaf|11 oz|Coffee/Creamer|42774001|$3.99
+Maxwell House|Coffee Medium Original Decaf|29.3 oz|Coffee/Creamer|42775001|$13.19
+Maxwell House|Coffee Medium Vanilla|11 oz|Coffee/Creamer|42776001|$3.99
+Maxwell House|Coffee Mild Master Blend|11.5 oz|Coffee/Creamer|42777001|$3.99
+Martins|Potato Bread Cinnamon Raisin Swirl|14 oz|Bread|42778001|$4.69
+Marley|Coffee Lively Up Medium|8 oz|Coffee/Creamer|42779001|$10.99
+Marley|Coffee One Love Ethpia Yirgchfe Medium|8 oz|Coffee/Creamer|42780001|$10.99
+Marley|Coffee Talking Blue Medium|8 oz|Coffee/Creamer|42781001|$20.89
+Mahatma|Rice Brown|2 lbs||42782001|$2.19
+Mahatma|Rice Jasmine|2 lbs||42783001|$2.89
+Mahatma|Rice White|2 lbs||42784001|$2.19
+Luvs|With Ultra Leakguards Size 3|104 ct|Diapers|42785001|$18.99
+Luvs|With Ultra Leakguards Size 3|34 ct|Diapers|42786001|$8.99
+Luvs|With Ultra Leakguards Size 4|29 ct|Diapers|42787001|$8.99
+Luvs|With Ultra Leakguards Size 4|88 ct|Diapers|42788001|$18.99
+Luvs|With Ultra Leakguards Size 5|25 ct|Diapers|42789001|$8.99
+Luvs|With Ultra Leakguards Size 5|74 ct|Diapers|42790001|$18.99
+Little Tummys|Gas Relief Drops Natural Berry|1 oz||42791001|$7.49
+Little Noses|Spray & Drops Saline|1 oz||42792001|$4.19
+Little Debbie|Bars Marshmallow Treat|6.7 oz||42793001|$2.19
+Little Debbie|Bars Nutty|12 oz||42794001|$1.50
+Little Debbie|Brownies Cosmic|13 oz||42795001|$1.99
+Little Debbie|Brownies Fudge|13 oz||42796001|$1.99
+Little Debbie|Buns Honey|10.5 oz||42797001|$1.99
+Little Debbie|Cake Cloud Cakes|15.16 oz||42798001|$3.00
+Little Debbie|Cake Swiss Rolls|13 oz||42799001|$1.50
+Little Debbie|Cake Zebra Cakes|13 oz||42800001|$2.19
+Little Debbie|Cookies Oatmeal Cream Pies|16.2 oz||42801001|$1.50
+Little Debbie|Cookies Oatmeal Cream Pies|31.78 oz||42802001|$3.50
+Little Debbie|Cupcakes Chocolate|14.38 oz||42803001|$3.00
+Little Debbie|Donuts Powdered Bagged Mini|10 oz||42804001|$2.19
+Little Debbie|Muffins Banana Nut|11.39 oz||42805001|$2.89
+Little Debbie|Muffins Blueberry|11.39 oz||42806001|$2.89
+Little Debbie|Pie Marshmallow Chocolate|12.1 oz||42807001|$2.19
+Little Debbie|Spin Wheels Pecan|8 oz||42808001|$1.99
+Listerine|Mint Shield Mouthwash|16.9 oz||42809001|$4.49
+Lipton|Tea Bags Black Tea & Honey Berry Lemonade Decaf|10 ct||42810001|$2.39
+Lipton|Tea Bags Green Tea & Honey Coconut Passionfruit|10 ct||42811001|$1.69
+Lipton|Tea Bags Green Tea & Honey Dragonfruit Peach|10 ct||42812001|$2.39
+Lipton|Tea Stix Tea & Honey Lemon|10 ct||42813001|$1.69
+Lenders|Bagels Blueberry|17.10 oz||42814001|$2.69
+Lenders|Bagels Cinnamon Raisin Swirl|17.10 oz||42815001|$2.69
+Lenders|Bagels New York Style Plain|5 ct||42816001|$3.29
+Lenders|Bagels Plain|17.10 oz||42817001|$2.69
+Lean Pockets|Ham & Cheese Whole Grain Crust|9 oz||42818001|$2.29
+Lean Cusine|Lean Cusine Frozen|6 oz||42819001|$2.99
+Lavazza|Coffee Espresso|8 oz|Coffee/Creamer|42820001|$8.79
+Lavazza|Coffee Premium Drip House Blend|10 oz|Coffee/Creamer|42821001|$4.39
+Landslide|Landslide Brown Sugar |16.2|Sugar|42822001|$2.80
+Landslide|Landslide Canola Oil |20.2|Cooking Oil|42823001|$2.36
+Landslide|Landslide Chunky Peanut Butter |4.94|Peanut Butter|42824001|$1.42
+Landslide|Landslide Corn Oil |14.5|Cooking Oil|42825001|$1.23
+Landslide|Landslide Creamy Peanut Butter |6.28|Peanut Butter|42826001|$1.40
+Landslide|Landslide Extra Chunky Peanut Butter |5.8|Peanut Butter|42827001|$0.73
+Landslide|Landslide Oregano |20.1|Spices|42828001|$1.82
+Landslide|Landslide Pepper |9.3|Spices|42829001|$2.59
+Landslide|Landslide Salt |13.1|Spices|42830001|$0.82
+Landslide|Landslide Sesame Oil |4.26|Cooking Oil|42831001|$0.58
+Landslide|Landslide Vegetable Oil |13.8|Cooking Oil|42832001|$2.14
+Landslide|Landslide White Sugar |9.3|Sugar|42833001|$1.52
+Lake|Lake Beef Bologna |5.78|Bologna|42834001|$0.64
+Lake|Lake Chicken Hot Dogs |11.3|Hot Dogs|42835001|$1.53
+Lake|Lake Cole Slaw |10.1|Deli Salads|42836001|$1.68
+Lake|Lake Corned Beef |15.8|Deli Meats|42837001|$2.49
+Lake|Lake Low Fat Bologna |13.3|Bologna|42838001|$1.78
+Lake|Lake Low Fat Cole Slaw |12.3|Deli Salads|42839001|$0.93
+Lake|Lake Pimento Loaf |16.3|Bologna|42840001|$3.92
+Lake|Lake Potato Salad |11.5|Deli Salads|42841001|$3.31
+Lake|Lake Roasted Chicken |19.2|Fresh Chicken|42842001|$2.66
+Lake|Lake Sliced Chicken |9.8|Deli Meats|42843001|$1.43
+Lake|Lake Sliced Ham |8.5|Deli Meats|42844001|$2.94
+Lake|Lake Sliced Turkey |5.65|Deli Meats|42845001|$3.20
+Lake|Lake Turkey Hot Dogs |15|Hot Dogs|42846001|$0.71
+Kroger|Bread Crumbs Italian Style|15 oz|Baked Goods Other than Bread|42847001|$1.19
+Kroger|Eggs Large|12 ct||42848001|$1.99
+Kroger|Eggs Large|18 ct||42849001|$2.99
+Kroger|Garlic Bread Classic|16 oz|Bread|42850001|$1.69
+Kroger|Peanut Butter Creamy|16 oz|Peanut Butter|42851001|$2.19
+Kroger|Twisted Bread Sticks Garlic|10.5 oz|Snacks|42852001|$1.69
+Kroger|Twisted Bread Sticks Mozzarella|11.5 oz|Snacks|42853001|$3.29
+Kraft|American Singles 2% Milk|22 pkg|Other Dairy/Not Milk|42854001|$3.49
+Kraft|Cool Whip Regular|8 oz||42855001|$1.99
+Kraft|Deluxe Mac & Cheese Four Cheese|14 oz||42856001|$2.99
+Kraft|Mac & Cheese Southwest Chipotle|7.5 oz||42857001|$1.69
+Kraft|Salad Dressing Italian|16 oz||42858001|$1.99
+Kraft|Salad Dressing Ranch|16 oz||42859001|$1.99
+Kraft|Salad Dressing Thousand Island|16 oz||42860001|$1.99
+Kraft|Salad Dressing Zesty Italian|16 oz||42861001|$1.99
+Kool Aid|Bursts Cherry|6 pkg||42863001|$1.49
+Kool Aid|Jammers Cherry|10 ct||42864001|$2.50
+Koch Foods|Oven Cravers Cordon Bleu|5 oz||42865001|$1.49
+Kiwi|Kiwi Lox |16.3|Fresh Fish|42866001|$2.25
+Kitchen Basics|Cooking Stock Chicken|32 oz||42867001|$2.99
+King Arthur|Flour All Purpose|5 lbs||42868001|$3.99
+Kens|Salad Dressing French|16 oz||42869001|$2.49
+Kens|Salad Dressing Italian|16 oz||42870001|$2.49
+Kens|Salad Dressing Ranch|16 oz||42871001|$2.49
+Kens|Salad Dressing Thousand Island|16 oz||42872001|$2.49
+Kelloggs|Corn Flakes Cereal|18 oz|Cereal|42873001|$2.99
+Kelloggs|Crispix Cereal|12 oz|Cereal|42874001|$2.99
+Kelloggs|Eggo Breakfast Sandwiches Bacon Egg & Cheese|4 ct|Frozen Food|42875001|$5.99
+Kelloggs|Eggo French Toaster Sticks Cinnamon|8 ct|Frozen Food|42876001|$3.19
+Kelloggs|Eggo Pancakes Buttermilk|12 ct|Frozen Food|42877001|$3.49
+Kelloggs|Eggo Pancakes Chocolatey Chip Bites|5 pkg|Frozen Food|42878001|$3.49
+Kelloggs|Eggo Pancakes Minis|40 ct|Frozen Food|42879001|$3.49
+Kelloggs|Eggo Wafflers Brown Sugar Cinnamon|16 ct|Frozen Food|42880001|$2.50
+Kelloggs|Eggo Waffles Blueberry|10 ct|Frozen Food|42881001|$2.50
+Kelloggs|Eggo Waffles Buttermilk|10 ct|Frozen Food|42882001|$2.50
+Kelloggs|Eggo Waffles Chocolatey Chip|10 ct|Frozen Food|42883001|$2.50
+Kelloggs|Eggo Waffles Cinnamon Toast Mini|10 ct|Frozen Food|42884001|$2.50
+Kelloggs|Eggo Waffles Gluten Free Original|8 ct|Frozen Food|42885001|$3.99
+Kelloggs|Eggo Waffles Homestyle|10 ct|Frozen Food|42886001|$2.50
+Kelloggs|Eggo Waffles Homestyle|24 ct|Frozen Food|42887001|$4.99
+Kelloggs|Eggo Waffles Homestyle Mini|10 ct|Frozen Food|42888001|$2.50
+Kelloggs|Eggo Waffles Nutri-Grain Blueberry|10 ct|Frozen Food|42889001|$3.77
+Kelloggs|Eggo Waffles Nutri-Grain Low Fat|10 ct|Frozen Food|42890001|$3.77
+Kelloggs|Eggo Waffles Nutri-Grain Whole Wheat|10 ct|Frozen Food|42891001|$3.77
+Kelloggs|Eggo Waffles Oats & Mixed Berries|8 ct|Frozen Food|42892001|$2.50
+Kelloggs|Eggo Waffles Strawberry|10 ct|Frozen Food|42893001|$2.50
+Kelloggs|Eggo Waffles Thick & Fluffy Cinnamon Brown Sugar|6 ct|Frozen Food|42894001|$2.50
+Kelloggs|Eggo Waffles Thick & Fluffy Original|6 ct|Frozen Food|42895001|$2.50
+Kelloggs|Frosted Mini Wheats Touch Of Raisin Cereal|15 oz|Cereal|42896001|$4.39
+Kelloggs|Krave Chocolate Cereal|11.4 oz|Cereal|42897001|$2.50
+Kelloggs|Krave Smores Cereal|11 oz|Cereal|42898001|$2.50
+Kelloggs|Mini Wheats Blueberry Muffin Cereal|15.5 oz|Cereal|42899001|$4.39
+Kelloggs|Mini Wheats Frosted Cereal|18 oz|Cereal|42900001|$4.39
+Kelloggs|Mini Wheats Frosted Cereal|70 oz|Cereal|42901001|$9.59
+Kelloggs|Mini Wheats Frosted Chocolate Cereal|15.2 oz|Cereal|42902001|$4.39
+Kelloggs|Mini Wheats Frosted Little Bites Original Cereal|15.2 oz|Cereal|42903001|$4.39
+Kelloggs|Mini Wheats Maple Brown Sugar Cereal|15.5 oz|Cereal|42904001|$4.39
+Kelloggs|Mini Wheats Strawberry Delight Cereal|15.5 oz|Cereal|42905001|$4.39
+Kelloggs|Nutri Grain Apple Cinnamon Cereal Bars|10.4 oz|Cereal|42906001|$2.50
+Kelloggs|Nutri Grain Blueberry Bliss Harvest Fruit & Oat Bars|8.8 oz|Frozen Food|42907001|$2.50
+Kelloggs|Nutri Grain Blueberry Cereal Bars|10.4 oz|Cereal|42908001|$2.50
+Kelloggs|Nutri Grain Cherry Cereal Bars|10.4 oz|Cereal|42909001|$2.50
+Kelloggs|Nutri Grain Chocolatey Crunch Granola Bar|7.4 oz|Snacks|42910001|$2.50
+Kelloggs|Nutri Grain Fruit Crunch Apple Cobbler Granola Bars|7.4 oz|Snacks|42911001|$2.50
+Kelloggs|Nutri Grain Fruit Crunch Strawberry Parfait Granola Bars|7.4 oz|Snacks|42912001|$2.50
+Kelloggs|Nutri Grain Mixed Berry Cereal Bars|10.4 oz|Cereal|42913001|$2.50
+Kelloggs|Nutri Grain Raspberry Cereal Bars|10.4 oz|Cereal|42914001|$2.50
+Kelloggs|Nutri Grain Strawberry Cereal Bars|10.4 oz|Cereal|42915001|$2.50
+Kelloggs|Nutri Grain Strawberry Vanilla Fruit Yogurt Bar|10.4 oz|Snacks|42916001|$2.50
+Kelloggs|Nutri Grain Toffee Crunch Bar|7.4 oz|Snacks|42917001|$2.50
+Kelloggs|Nutri-Grain Harvest Strawberry Fruit & Oat Bars|8.8 oz|Snacks|42918001|$2.50
+Kelloggs|Raisin Bran Cereal|18.7 oz|Cereal|42919001|$4.39
+Kelloggs|Raisin Bran Cereal|23.5 oz|Cereal|42920001|$2.99
+Kelloggs|Raisin Bran Cereal|76.5 oz|Cereal|42921001|$9.39
+Kelloggs|Raisin Bran Crunch Cereal|18.2 oz|Cereal|42922001|$2.99
+Kelloggs|Raisin Bran Omega-3 With Flaxseed Cereal|14.3 oz|Cereal|42923001|$4.39
+Kelloggs|Rice Krispies Cereal|12 oz|Cereal|42924001|$2.50
+Kelloggs|Rice Krispies Treats Marshmallows Squares|6.2 oz|Snacks|42925001|$3.69
+Kelloggs|Smart Start Original Antioxidants Cereal|17.5 oz|Cereal|42926001|$4.39
+Kelloggs|Special K Berry Pastry Crisps|4.4 oz|Snacks|42927001|$3.59
+Kelloggs|Special K Blueberry Pastry Crisps|4.4 oz|Snacks|42928001|$3.59
+Kelloggs|Special K Brown Sugar Cinnamon Pastry Crisps|4.4 oz|Snacks|42929001|$3.59
+Kelloggs|Special K Chocolate Almond Cereal|12.7 oz|Cereal|42930001|$2.50
+Kelloggs|Special K Chocolate Carmel Pastry Crisps|4.4 oz|Snacks|42931001|$3.59
+Kelloggs|Special K Chocolate Strawberry Cereal|11 oz|Cereal|42932001|$2.50
+Kelloggs|Special K Chocolatey Delight Cereal|13.1 oz|Cereal|42933001|$2.50
+Kelloggs|Special K Chocolatey Pretzel Cereal Bars|4.6 oz|Cereal|42934001|$3.59
+Kelloggs|Special K Delight Chocolatey Pastry Crisps|4.4 oz|Snacks|42935001|$3.59
+Kelloggs|Special K Indulgent Moments Dreamy Coconut Snack Bites|4.5 oz|Snacks|42936001|$3.59
+Kelloggs|Special K Moments Caramel Pretzel Bliss Snack Bites|4.5 oz|Snacks|42937001|$3.59
+Kelloggs|Special K Original Cereal|12 oz|Cereal|42938001|$2.50
+Kelloggs|Special K Protein Cereal|12.5 oz|Cereal|42939001|$2.50
+Kelloggs|Special K Protein Greek Yogurt & Fruit Snack Bar|4.76 oz|Snacks|42940001|$2.50
+Kelloggs|Special K Red Berries Cereal|11.2 oz|Cereal|42941001|$2.50
+Kelloggs|Special K Strawberry Cereal Bars|4.86 oz|Cereal|42942001|$3.59
+Kelloggs|Special K Strawberry Pastry Crisps|4.4 oz|Snacks|42943001|$3.59
+Just Right|Just Right Beef Soup |16.2|Soup|42944001|$1.53
+Just Right|Just Right Canned Beets |6.65|Canned Vegetables|42945001|$1.74
+Just Right|Just Right Canned Peas |5.02|Canned Vegetables|42946001|$2.49
+Just Right|Just Right Canned String Beans |9|Canned Vegetables|42947001|$1.20
+Just Right|Just Right Canned Tomatos |16|Canned Vegetables|42948001|$2.15
+Just Right|Just Right Canned Tuna in Oil |5.42|Tuna|42949001|$1.76
+Just Right|Just Right Canned Tuna in Water |8.47|Tuna|42950001|$1.28
+Just Right|Just Right Canned Yams |18.7|Canned Vegetables|42951001|$1.36
+Just Right|Just Right Chicken Noodle Soup |18.5|Soup|42952001|$2.40
+Just Right|Just Right Chicken Ramen Soup |11.3|Soup|42953001|$0.61
+Just Right|Just Right Chicken Soup |12.5|Soup|42954001|$2.97
+Just Right|Just Right Creamed Corn |13.1|Canned Vegetables|42955001|$3.83
+Just Right|Just Right Noodle Soup |7.1|Soup|42956001|$1.31
+Just Right|Just Right Regular Ramen Soup |6.31|Soup|42957001|$1.87
+Just Right|Just Right Rice Soup |6.11|Soup|42958001|$3.76
+Just Right|Just Right Turkey Noodle Soup |14.7|Soup|42959001|$1.99
+Just Right|Just Right Vegetable Soup |15.2|Soup|42960001|$1.50
+Jumex|Nectar Guava|33.81 oz||42961001|$2.69
+Juicy Juice|Juice Boxes Apple|8 ct||42962001|$3.69
+Juicy Juice|Juice Orange Tangerine|64 oz||42963001|$3.99
+Johnsons|Baby Oil Original|3 oz||42964001|$2.29
+Johnsons|Baby Powder Original|9 oz||42965001|$2.99
+Johnsons|Baby Shampoo Original|15 oz||42966001|$4.49
+Jiffy|Cake Mix Yellow|9 oz||42967001|$0.99
+Jiffy|Mix Baking|40 oz||42968001|$3.49
+Jiffy|Mix Pizza Crust|6.5 oz||42969001|$0.99
+Jiffy|Muffin Mix Blueberry|7 oz||42970001|$0.99
+Jiffy|Muffin Mix Corn|6 pkg||42971001|$2.99
+Jiffy|Muffin Mix Corn|8.5 oz||42972001|$0.50
+Jiffy|Muffin Mix Raspberry|7 oz||42973001|$0.99
+Jiffy|Muffin Mix Vegetarian Corn|8.5 oz||42974001|$0.50
+Jif|Peanut Butter Crunchy|28 oz|Peanut Butter|42975001|$3.99
+Jif|Peanut Butter Smooth|28 oz|Peanut Butter|42976001|$3.99
+Jardon|Jardon Rice Medly |14.3|Rice|42977001|$0.58
+Jardon|Jardon Thai Rice |11.5|Rice|42978001|$1.90
+International Delight|Sugar Free Coffee Creamer French Vanilla|32 oz|Coffee/Creamer|42979001|$3.69
+Imagine|Imagine Beef TV Dinner |7.18|TV Dinner|42980001|$0.86
+Imagine|Imagine Chicken TV Dinner |13.3|TV Dinner|42981001|$2.45
+Imagine|Imagine Fajita French Fries |10.8|French Fries|42982001|$2.89
+Imagine|Imagine Frozen Broccoli |15.1|Frozen Vegetables|42983001|$1.89
+Imagine|Imagine Frozen Carrots |12.1|Frozen Vegetables|42984001|$3.92
+Imagine|Imagine Frozen Cauliflower |19|Frozen Vegetables|42985001|$1.91
+Imagine|Imagine Frozen Cheese Pizza |15.2|Pizza|42986001|$2.70
+Imagine|Imagine Frozen Chicken Breast |8|Frozen Chicken|42987001|$3.46
+Imagine|Imagine Frozen Chicken Thighs |7.9|Frozen Chicken|42988001|$0.91
+Imagine|Imagine Frozen Chicken Wings |13.6|Frozen Chicken|42989001|$1.95
+Imagine|Imagine Frozen Corn |15.7|Frozen Vegetables|42990001|$1.72
+Imagine|Imagine Frozen Mushroom Pizza |4.88|Pizza|42991001|$1.55
+Imagine|Imagine Frozen Peas |7.39|Frozen Vegetables|42992001|$1.72
+Imagine|Imagine Frozen Pepperoni Pizza |9|Pizza|42993001|$3.46
+Imagine|Imagine Frozen Sausage Pizza |14.8|Pizza|42994001|$0.57
+Imagine|Imagine Grape Popsicles |18.2|Popsicles|42995001|$2.83
+Imagine|Imagine Home Style French Fries |14.6|French Fries|42996001|$0.51
+Imagine|Imagine Ice Cream |5.32|Ice Cream|42997001|$1.49
+Imagine|Imagine Ice Cream Sandwich |6.47|Ice Cream|42998001|$3.21
+Imagine|Imagine Lemon Popsicles |16.1|Popsicles|42999001|$0.63
+Imagine|Imagine Lime Popsicles |17.2|Popsicles|43000001|$2.94
+Imagine|Imagine Low Fat French Fries |8.78|French Fries|43001001|$3.68
+Imagine|Imagine Orange Popsicles |9.19|Popsicles|43002001|$0.88
+Imagine|Imagine Turkey TV Dinner |13|TV Dinner|43003001|$2.32
+Illy|Coffee Ground Medium|8.8 oz|Coffee/Creamer|43004001|$15.39
+Illy|Coffee Whole Bean Medium|8.8 oz|Coffee/Creamer|43005001|$15.39
+Idahoan|Mashed Potatoes Four Cheese|4 oz||43006001|$1.29
+Hunts|Pasta Sauce Meat|24 oz|Gravy/Sauce|43007001|$1.00
+Hunts|Sour Cream Original|16 oz||43008001|$1.69
+Huggies|Good Nights Jumbo - Boy|14 ct|Diapers|43009001|$10.49
+Huggies|Good Nights Large - Boy|11 ct|Diapers|43010001|$10.49
+Huggies|Little Movers - Disney Size 3|28 ct|Diapers|43011001|$10.99
+Huggies|Little Movers - Disney Size 4|22 ct|Diapers|43012001|$10.99
+Huggies|Little Movers - Disney Size 5|21 ct|Diapers|43013001|$10.99
+Huggies|Little Movers - Disney Size 5|50 ct|Diapers|43014001|$22.99
+Huggies|Little Movers - Disney Size 6|18 ct|Diapers|43015001|$10.99
+Huggies|Little Movers - Disney Size 6|42 ct|Diapers|43016001|$22.99
+Huggies|Little Movers Slip On Size 3|29 ct|Diapers|43017001|$10.99
+Huggies|Little Movers Slip On Size 4|23 ct|Diapers|43018001|$10.99
+Huggies|Little Movers Slip On Size 5|20 ct|Diapers|43019001|$10.99
+Huggies|Little Snugglers Size 2|32 ct|Diapers|43020001|$10.99
+Huggies|Little Snugglers Size 2|36 ct|Diapers|43021001|$10.99
+Huggies|Little Snugglers Size Newborn|32 ct|Diapers|43022001|$10.99
+Huggies|Little Snugglers Size Newborn|72 ct|Diapers|43023001|$22.99
+Huggies|Little Snugglers Size Newborn|76 ct|Diapers|43024001|$22.99
+Huggies|Little Swimmers Size Large|10 ct|Diapers|43025001|$8.69
+Huggies|Little Swimmers Size Medium|11 ct|Diapers|43026001|$8.69
+Huggies|Little Swimmers Size Small|12 ct|Diapers|43027001|$8.69
+Huggies|Pull-ups 4T-5T/Girls|18 ct|Diapers|43028001|$10.99
+Huggies|Snug & Dry - Disney Size 2|38 ct|Diapers|43029001|$10.99
+Huggies|Snug & Dry - Disney Size 3|32 ct|Diapers|43030001|$10.99
+Huggies|Snug & Dry - Disney Size 3|80 ct|Diapers|43031001|$22.99
+Huggies|Snug & Dry - Disney Size 4|68 ct|Diapers|43032001|$22.49
+Huggies|Snug & Dry - Disney Size 5|24 ct|Diapers|43033001|$10.99
+Huggies|Snug & Dry - Disney Size 5|58 ct|Diapers|43034001|$21.49
+Huggies|Snug & Dry - Disney Size 6|21 ct|Diapers|43035001|$10.99
+Huggies|Snug & Dry - Disney Size 6|48 ct|Diapers|43036001|$20.99
+Huggies|Snug & Dry Size 1|44 ct|Diapers|43037001|$10.99
+Huggies|Snug & Dry Size 3|32 ct|Diapers|43038001|$10.99
+Huggies|Snug & Dry Size 4|28 ct|Diapers|43039001|$10.99
+Huggies|Snug & Dry Size 4|29 ct|Diapers|43040001|$10.99
+Huggies|Snug & Dry Size 4|66 ct|Diapers|43041001|$20.99
+Huggies|Snug & Dry Size 6|23 ct|Diapers|43042001|$10.99
+Hostess|Cake Coffee Cakes Multi Pack|11.6 oz|Coffee/Creamer|43043001|$3.29
+Hostess|Cake Ding Dongs|15.3 oz||43044001|$3.89
+Hostess|Cake Ho Hos|10 oz||43045001|$3.89
+Hostess|Cake Twinkies|13.59 oz||43046001|$3.29
+Hostess|Cake Twinkies|2.7 oz||43047001|$1.00
+Hostess|Cupcakes Chocolate|12.7 oz||43048001|$3.29
+Hostess|Pie Apple|4.5 oz||43049001|$1.00
+Hostees|Donuts Crunch Donettes Single Serve|4 oz||43050001|$1.00
+Hostees|Donuts Frosted Donettes Single Serve|3 oz||43051001|$1.00
+Hostees|Donuts Powdered Bagged Donettes|10.5 oz||43052001|$2.19
+Hostees|Donuts Powdered Donettes Single Serve|3 oz||43053001|$1.00
+Horatio|Horatio Avocado Dip |9|Dips|43054001|$3.18
+Horatio|Horatio Buttered Popcorn |15.7|Popcorn|43055001|$2.35
+Horatio|Horatio Cheese Dip |5.03|Dips|43056001|$2.31
+Horatio|Horatio Chocolate Chip Cookies |8|Cookies|43057001|$2.76
+Horatio|Horatio Fondue Mix |17.6|Dips|43058001|$2.27
+Horatio|Horatio Frosted Cookies |8.6|Cookies|43059001|$3.90
+Horatio|Horatio Fudge Brownies |4.17|Cookies|43060001|$1.59
+Horatio|Horatio Fudge Cookies |9.8|Cookies|43061001|$3.59
+Horatio|Horatio Graham Crackers |15.2|Cookies|43062001|$2.82
+Horatio|Horatio Lemon Cookies |14.1|Cookies|43063001|$1.71
+Horatio|Horatio Low Fat Cookies |15.1|Cookies|43064001|$1.88
+Horatio|Horatio Low Fat Popcorn |13.1|Popcorn|43065001|$2.98
+Horatio|Horatio No Salt Popcorn |16.5|Popcorn|43066001|$3.82
+Horatio|Horatio Salsa Dip |20.7|Dips|43067001|$2.65
+Horatio|Horatio Sugar Cookies |14.7|Cookies|43068001|$3.78
+Hilltop|Hilltop 200 MG Acetominifen |17.8|Acetominifen|43071001|$2.89
+Hilltop|Hilltop 200 MG Ibuprofen |7.77|Ibuprofen|43072001|$3.60
+Hilltop|Hilltop Buffered Aspirin |4.48|Aspirin|43073001|$2.49
+Hilltop|Hilltop Childrens Aspirin |4.4|Aspirin|43074001|$2.47
+Hilltop|Hilltop Mint Mouthwash |16.2|Mouthwash|43075001|$3.62
+High Top|High Top Almonds |6.72|Nuts|43076001|$1.77
+High Top|High Top Asparagus |20.8|Fresh Vegetables|43077001|$1.43
+High Top|High Top Baby Onion |6.51|Fresh Vegetables|43078001|$3.45
+High Top|High Top Beets |10.1|Fresh Vegetables|43079001|$2.27
+High Top|High Top Broccoli |5.85|Fresh Vegetables|43080001|$0.63
+High Top|High Top Canned Peanuts |7.89|Nuts|43081001|$2.11
+High Top|High Top Cantelope |10.3|Fresh Fruit|43082001|$2.47
+High Top|High Top Cauliflower |17.7|Fresh Vegetables|43083001|$2.23
+High Top|High Top Corn on the Cob |14.1|Fresh Vegetables|43084001|$3.32
+High Top|High Top Dried Mushrooms |17.7|Fresh Vegetables|43085001|$3.74
+High Top|High Top Elephant Garlic |6.05|Fresh Vegetables|43086001|$1.84
+High Top|High Top Fancy Plums |4.73|Fresh Fruit|43087001|$2.65
+High Top|High Top Firm Tofu |8.6|Tofu|43088001|$3.36
+High Top|High Top Fresh Lima Beans |9.6|Fresh Vegetables|43089001|$2.87
+High Top|High Top Fuji Apples |14|Fresh Fruit|43090001|$1.54
+High Top|High Top Garlic |18|Fresh Vegetables|43091001|$3.40
+High Top|High Top Golden Delcious Apples |19.5|Fresh Fruit|43092001|$2.91
+High Top|High Top Green Pepper |18.7|Fresh Vegetables|43093001|$2.75
+High Top|High Top Honey Dew |15.2|Fresh Fruit|43094001|$1.87
+High Top|High Top Lemons |18.2|Fresh Fruit|43095001|$1.67
+High Top|High Top Lettuce |14.1|Fresh Vegetables|43096001|$0.93
+High Top|High Top Limes |9.8|Fresh Fruit|43097001|$3.68
+High Top|High Top Macintosh Apples |10.1|Fresh Fruit|43098001|$2.47
+High Top|High Top Mandarin Oranges |10.6|Fresh Fruit|43099001|$1.60
+High Top|High Top Mixed Nuts |11.8|Nuts|43100001|$2.71
+High Top|High Top Mushrooms |11.6|Fresh Vegetables|43101001|$2.58
+High Top|High Top New Potatos |4.82|Fresh Vegetables|43102001|$3.85
+High Top|High Top Onions |16.5|Fresh Vegetables|43103001|$1.33
+High Top|High Top Oranges |7.77|Fresh Fruit|43104001|$1.66
+High Top|High Top Party Nuts |19.6|Nuts|43105001|$2.82
+High Top|High Top Peaches |8.8|Fresh Fruit|43106001|$1.49
+High Top|High Top Plums |12.6|Fresh Fruit|43107001|$2.25
+High Top|High Top Potatos |7.3|Fresh Vegetables|43108001|$0.57
+High Top|High Top Prepared Salad |8.5|Fresh Vegetables|43109001|$1.66
+High Top|High Top Red Delcious Apples |14.2|Fresh Fruit|43110001|$0.92
+High Top|High Top Red Pepper |5.05|Fresh Vegetables|43111001|$2.41
+High Top|High Top Shitake Mushrooms |11.3|Fresh Vegetables|43112001|$0.69
+High Top|High Top Squash |7.69|Fresh Vegetables|43113001|$1.52
+High Top|High Top Summer Squash |17.7|Fresh Vegetables|43114001|$2.95
+High Top|High Top Sweet Onion |11.5|Fresh Vegetables|43115001|$1.24
+High Top|High Top Sweet Peas |11.3|Fresh Vegetables|43116001|$1.71
+High Top|High Top Tangerines |5.21|Fresh Fruit|43117001|$0.56
+High Top|High Top Tomatos |13.8|Fresh Vegetables|43118001|$1.32
+High Top|High Top Walnuts |12.5|Nuts|43119001|$2.72
+High Quality|High Quality Counter Cleaner |7.51|Cleaners|43120001|$2.91
+High Quality|High Quality Glass Cleaner |18.8|Cleaners|43121001|$1.91
+High Quality|High Quality Room Freshener |5.96|Deodorizers|43122001|$2.38
+High Quality|High Quality Toilet Bowl Cleaner |20.7|Cleaners|43123001|$2.19
+Hi-C|Juice Boxes Grabbin Grape|10 ct||43124001|$2.49
+Hersheys|Syrup Chocolate|24 oz||43125001|$2.39
+Hersheys|Syrup Strawberry|24 oz||43126001|$2.39
+Hershey|Syrup Chocolate|24 oz||43127001|$2.89
+Hershey|Syrup Chocolate|48 oz||43128001|$3.49
+Hershey|Syrup Chocolate Lite|18.5 oz||43129001|$2.89
+Hershey|Syrup Chocolate Sugar Free|17.5 oz||43130001|$3.79
+Hershey|Syrup Strawberry|22 oz||43131001|$2.89
+Hermanos|Hermanos Almonds |9.19|Nuts|43132001|$1.76
+Hermanos|Hermanos Asparagus |6.02|Fresh Vegetables|43133001|$2.23
+Hermanos|Hermanos Baby Onion |6.32|Fresh Vegetables|43134001|$1.37
+Hermanos|Hermanos Beets |17.2|Fresh Vegetables|43135001|$2.18
+Hermanos|Hermanos Broccoli |6.68|Fresh Vegetables|43136001|$2.89
+Hermanos|Hermanos Canned Peanuts |15.7|Nuts|43137001|$2.53
+Hermanos|Hermanos Cantelope |19.2|Fresh Fruit|43138001|$3.34
+Hermanos|Hermanos Cauliflower |16.2|Fresh Vegetables|43139001|$2.72
+Hermanos|Hermanos Corn on the Cob |10.6|Fresh Vegetables|43140001|$2.84
+Hermanos|Hermanos Dried Mushrooms |7.98|Fresh Vegetables|43141001|$1.50
+Hermanos|Hermanos Elephant Garlic |7.75|Fresh Vegetables|43142001|$2.82
+Hermanos|Hermanos Fancy Plums |14.5|Fresh Fruit|43143001|$0.87
+Hermanos|Hermanos Firm Tofu |3.96|Tofu|43144001|$2.17
+Hermanos|Hermanos Fresh Lima Beans |8.69|Fresh Vegetables|43145001|$2.81
+Hermanos|Hermanos Fuji Apples |17.1|Fresh Fruit|43146001|$1.43
+Hermanos|Hermanos Garlic |14.2|Fresh Vegetables|43147001|$2.63
+Hermanos|Hermanos Golden Delcious Apples |6.09|Fresh Fruit|43148001|$1.26
+Hermanos|Hermanos Green Pepper |16.2|Fresh Vegetables|43149001|$3.86
+Hermanos|Hermanos Honey Dew |18.6|Fresh Fruit|43150001|$2.90
+Hermanos|Hermanos Lemons |4.78|Fresh Fruit|43151001|$3.94
+Hermanos|Hermanos Lettuce |15.7|Fresh Vegetables|43152001|$3.36
+Hermanos|Hermanos Limes |16.2|Fresh Fruit|43153001|$1.64
+Hermanos|Hermanos Macintosh Apples |7.68|Fresh Fruit|43154001|$0.74
+Hermanos|Hermanos Mandarin Oranges |16.6|Fresh Fruit|43155001|$3.11
+Hermanos|Hermanos Mixed Nuts |15.3|Nuts|43156001|$3.39
+Hermanos|Hermanos Mushrooms |8.3|Fresh Vegetables|43157001|$1.74
+Hermanos|Hermanos New Potatos |15.2|Fresh Vegetables|43158001|$3.91
+Hermanos|Hermanos Onions |14.1|Fresh Vegetables|43159001|$3.27
+Hermanos|Hermanos Oranges |14|Fresh Fruit|43160001|$2.56
+Hermanos|Hermanos Party Nuts |9.39|Nuts|43161001|$1.98
+Hermanos|Hermanos Peaches |15.1|Fresh Fruit|43162001|$1.62
+Hermanos|Hermanos Plums |16.3|Fresh Fruit|43163001|$2.77
+Hermanos|Hermanos Potatos |16.2|Fresh Vegetables|43164001|$0.93
+Hermanos|Hermanos Prepared Salad |12.1|Fresh Vegetables|43165001|$3.74
+Hermanos|Hermanos Red Delcious Apples |14.5|Fresh Fruit|43166001|$2.96
+Hermanos|Hermanos Red Pepper |7.22|Fresh Vegetables|43167001|$1.80
+Hermanos|Hermanos Shitake Mushrooms |5.05|Fresh Vegetables|43168001|$2.40
+Hermanos|Hermanos Squash |13.6|Fresh Vegetables|43169001|$1.31
+Hermanos|Hermanos Summer Squash |12.1|Fresh Vegetables|43170001|$1.73
+Hermanos|Hermanos Sweet Onion |8.71|Fresh Vegetables|43171001|$1.83
+Hermanos|Hermanos Sweet Peas |13.1|Fresh Vegetables|43172001|$2.37
+Hermanos|Hermanos Tangerines |13.2|Fresh Fruit|43173001|$0.73
+Hermanos|Hermanos Tomatos |12.8|Fresh Vegetables|43174001|$0.92
+Hermanos|Hermanos Walnuts |8.1|Nuts|43175001|$2.13
+Herdez|Salsa Mild|24 oz||43176001|$2.99
+Heluva Good|Sour Cream Dip Bacon Ranch|12 oz||43177001|$1.99
+Heinz|Ketchup Original|38 oz||43178001|$2.49
+Hawaiian Punch|Aloha Morning Mixed Berry|128 oz||43179001|$2.99
+Hawaiian Punch|Aloha Morning Orange Citrus|128 oz||43180001|$2.99
+Hawaiian Punch|Juice Lemonade|128 oz||43181001|$2.99
+Gulf Coast|Gulf Coast Malted Milk Balls |19.7|Chocolate Candy|43182001|$1.59
+Gulf Coast|Gulf Coast Mint Chocolate Bar |19.8|Chocolate Candy|43183001|$2.94
+Gulf Coast|Gulf Coast Mints |7.89|Hard Candy|43184001|$3.54
+Gulf Coast|Gulf Coast Semi-Sweet Chocolate Bar |11.6|Chocolate Candy|43185001|$2.75
+Gulf Coast|Gulf Coast Spicy Mints |16.8|Hard Candy|43186001|$1.84
+Gulf Coast|Gulf Coast Tasty Candy Bar |6.11|Chocolate Candy|43187001|$2.81
+Gulf Coast|Gulf Coast White Chocolate Bar |17.2|Chocolate Candy|43188001|$2.98
+Green Ribbon|Green Ribbon Canned Mixed Fruit |11|Canned Fruit|43189001|$1.31
+Green Ribbon|Green Ribbon Canned Peaches |15.5|Canned Fruit|43190001|$3.11
+Goya|Coconut Milk Original|13.5 oz|Soda/Juice/Drinks|43191001|$2.79
+Got Milk|Flavor Straws Chocolate|.95 oz||43192001|$1.89
+Got Milk|Flavor Straws Strawberry Magic|.95 oz||43193001|$1.89
+Gorilla|Gorilla Blueberry Yogurt |7.71|Yogurt|43194001|$0.68
+Gorilla|Gorilla Cheese Spread |20.1|Cheese|43195001|$3.18
+Gorilla|Gorilla Havarti Cheese |10.3|Cheese|43196001|$3.34
+Gorilla|Gorilla Head Cheese |17.2|Cheese|43197001|$2.74
+Gorilla|Gorilla Jack Cheese |18.8|Cheese|43198001|$3.93
+Gorilla|Gorilla Large Curd Cottage Cheese |6.57|Cottage Cheese|43199001|$2.96
+Gorilla|Gorilla Low Fat Cottage Cheese |6.78|Cottage Cheese|43200001|$1.57
+Gorilla|Gorilla Low Fat Sour Cream |12.5|Sour Cream|43201001|$0.89
+Gorilla|Gorilla Low Fat String Cheese |19.7|Cheese|43202001|$2.93
+Gorilla|Gorilla Mild Cheddar Cheese |6.85|Cheese|43203001|$3.29
+Gorilla|Gorilla Muenster Cheese |18.3|Cheese|43204001|$1.80
+Gorilla|Gorilla Sharp Cheddar Cheese |10.1|Cheese|43205001|$3.59
+Gorilla|Gorilla Sour Cream |20.2|Sour Cream|43206001|$2.66
+Gorilla|Gorilla Strawberry Yogurt |5.57|Yogurt|43207001|$2.16
+Gorilla|Gorilla String Cheese |15.2|Cheese|43208001|$1.79
+Good Nites|Boys L/XL|24 ct|Diapers|43209001|$21.99
+Good Nites|Boys S/M|31 ct|Diapers|43210001|$21.99
+Good Nites|Girl L & XL|11 ct|Diapers|43211001|$10.49
+Good Nites|Girls 2T-3T|25 ct|Diapers|43212001|$10.99
+Good Nites|Girls L/XL|24 ct|Diapers|43213001|$21.99
+Good Nites|Girls S/M|14 ct|Diapers|43214001|$10.49
+Good Nites|Girls S/M|31 ct|Diapers|43215001|$21.99
+Good Nites|Tru-Fit Refills L/XL|16 ct|Diapers|43216001|$10.49
+Good Nites|Tru-Fit Starter Kit L/XL - Boy|2 pkg|Diapers|43217001|$21.99
+Good Nites|Tru-Fit Starter Kit L/XL - Girl|2 pkg|Diapers|43218001|$21.99
+Golden|Golden Beef TV Dinner |6.43|TV Dinner|43219001|$1.83
+Golden|Golden Chicken TV Dinner |16.2|TV Dinner|43220001|$0.59
+Golden|Golden Fajita French Fries |17.5|French Fries|43221001|$1.59
+Golden|Golden Frozen Broccoli |11.6|Frozen Vegetables|43222001|$2.96
+Golden|Golden Frozen Carrots |5.57|Frozen Vegetables|43223001|$1.46
+Golden|Golden Frozen Cauliflower |4.15|Frozen Vegetables|43224001|$3.72
+Golden|Golden Frozen Cheese Pizza |16.1|Pizza|43225001|$0.83
+Golden|Golden Frozen Chicken Breast |11.6|Frozen Chicken|43226001|$2.81
+Golden|Golden Frozen Chicken Thighs |10|Frozen Chicken|43227001|$2.35
+Golden|Golden Frozen Chicken Wings |13.3|Frozen Chicken|43228001|$3.48
+Golden|Golden Frozen Corn |18.8|Frozen Vegetables|43229001|$1.81
+Golden|Golden Frozen Mushroom Pizza |14.3|Pizza|43230001|$0.96
+Golden|Golden Frozen Peas |9.89|Frozen Vegetables|43231001|$2.19
+Golden|Golden Frozen Pepperoni Pizza |10.8|Pizza|43232001|$2.68
+Golden|Golden Frozen Sausage Pizza |17|Pizza|43233001|$1.78
+Golden|Golden Grape Popsicles |8.48|Popsicles|43234001|$1.95
+Golden|Golden Home Style French Fries |18.6|French Fries|43235001|$0.72
+Golden|Golden Ice Cream |8.81|Ice Cream|43236001|$0.95
+Golden|Golden Ice Cream Sandwich |10.3|Ice Cream|43237001|$3.89
+Golden|Golden Lemon Popsicles |7.35|Popsicles|43238001|$1.13
+Golden|Golden Lime Popsicles |17.2|Popsicles|43239001|$2.45
+Golden|Golden Low Fat French Fries |13.1|French Fries|43240001|$2.97
+Golden|Golden Orange Popsicles |17|Popsicles|43241001|$3.88
+Golden|Golden Turkey TV Dinner |9.69|TV Dinner|43242001|$2.11
+Glutino|Bagels Sesame|22 oz||43243001|$6.99
+Glutino|Cookies Chocolate|8.6 oz||43244001|$5.49
+Glutino|Cookies Vanilla Creme Chocolate|10.5 oz||43245001|$4.49
+Glaceau|Vitamin Water Tropical Citrus|20 oz||43246001|$1.59
+Gevalia Kaffe|Coffee Bold Majestic Roast|12 oz|Coffee/Creamer|43247001|$6.99
+Gevalia Kaffe|Coffee French Roast|12 oz|Coffee/Creamer|43248001|$6.99
+Gevalia Kaffe|Coffee House Blend|12 oz|Coffee/Creamer|43249001|$6.99
+Gevalia Kaffe|Coffee House Blend Decaf|12 oz|Coffee/Creamer|43250001|$6.99
+Gerolli|Gerolli Extra Lean Hamburger |11.8|Hamburger|43251001|$3.38
+Gerolli|Gerolli Seasoned Hamburger |17.5|Hamburger|43252001|$1.34
+Gerber Graduates|Bitty Bites Blueberry|2.5 oz|Baby Food|43253001|$2.79
+Gerber Graduates|Bitty Bites Strawberry|2.5 oz|Baby Food|43254001|$2.79
+Gerber Graduates|Breakfast Buddies Apple Cinnamon Hot Cereal|4.5 oz|Baby Food|43255001|$1.79
+Gerber Graduates|Cookies Arrowroot|5.5 oz|Baby Food|43256001|$2.49
+Gerber Graduates|Fruit & Veggie Melts Truly Tropical Blend|1 oz|Baby Food|43257001|$3.19
+Gerber Graduates|Grabbers Apple & Sweet Potato|4.23 oz|Baby Food|43258001|$1.59
+Gerber Graduates|Grabbers Pear & Squash|4.23 oz|Baby Food|43259001|$1.59
+Gerber Graduates|Grabbers Strawberry Banana|4.23 oz|Baby Food|43260001|$1.69
+Gerber Graduates|Lil Biscuits Vanilla Wafers|4.44 oz|Baby Food|43261001|$2.49
+Gerber Graduates|Lil Crunchies Cinnamon Maple|48 oz|Baby Food|43262001|$2.39
+Gerber Graduates|Lil Crunchies Mild Cheddar|48 oz|Baby Food|43263001|$2.49
+Gerber Graduates|Lil Crunchies Veggie Dip|48 oz|Baby Food|43264001|$2.49
+Gerber Graduates|Lil Entrees Cheese Ravioli & Tomato Sauce|5.3 oz|Baby Food|43265001|$2.49
+Gerber Graduates|Lil Entrees Macaroni & Cheese|6.6 oz|Baby Food|43266001|$2.49
+Gerber Graduates|Lil Entrees Mashed Potatoes & Gravy|5.3 oz|Baby Food|43267001|$2.49
+Gerber Graduates|Lil Entrees Meatloaf & Mashed Potatoes|6.67 oz|Baby Food|43268001|$2.49
+Gerber Graduates|Lil Meals Pasta Stars With Chicken & Vegetables|6 oz|Baby Food|43269001|$1.69
+Gerber Graduates|Lil Meals Spaghetti Rings & Meat Sauce|6 oz|Baby Food|43270001|$1.69
+Gerber Graduates|Lil Meals White Turkey Stew With Rice & Vegetables|6 oz|Baby Food|43271001|$1.69
+Gerber Graduates|Lil Sticks Chicken Sticks|2.5 oz|Baby Food|43272001|$1.59
+Gerber Graduates|Lil Sticks Meat Sticks|2.5 oz|Baby Food|43273001|$1.59
+Gerber Graduates|Pasta Pick Ups Beef Ravioli|6 oz|Baby Food|43274001|$1.79
+Gerber Graduates|Pasta Pick Ups Cheese Ravioli|6 oz|Baby Food|43275001|$1.79
+Gerber Graduates|Pasta Pick Ups Chicken Carrot Ravioli|6 oz|Baby Food|43276001|$1.79
+Gerber Graduates|Pasta Pick Ups Spinach & Cheese Ravioli|6 oz|Baby Food|43277001|$1.79
+Gerber Graduates|Puffs Apple Cinnamon|48 oz|Baby Food|43278001|$2.49
+Gerber Graduates|Puffs Blueberry|48 oz|Baby Food|43279001|$2.49
+Gerber Graduates|Puffs Peach|48 oz|Baby Food|43280001|$2.49
+Gerber Graduates|Puffs Strawberry Apple|48 oz|Baby Food|43281001|$2.49
+Gerber Graduates|Yogurt Blends Banana Vanilla|14 oz|Baby Food|43282001|$2.99
+Gerber Graduates|Yogurt Blends Mixed Berry|14 oz|Baby Food|43283001|$2.99
+Gerber Graduates|Yogurt Melts Mixed Berry|1 oz|Baby Food|43284001|$3.19
+Gerber Graduates|Yogurt Melts Peach|1 oz|Baby Food|43285001|$3.19
+Gerber Graduates|Yogurt Melts Strawberry|1 oz|Baby Food|43286001|$3.19
+Gerber Good Start|Formula Soy Concentrate|12.10 oz|Baby Food|43287001|$5.49
+Gerber|1st Foods Applesauce|5 oz|Baby Food|43288001|$1.09
+Gerber|1st Foods Bananas|5 oz|Baby Food|43289001|$1.09
+Gerber|1st Foods Carrots|5 oz|Baby Food|43290001|$1.09
+Gerber|1st Foods Peaches|5 oz|Baby Food|43291001|$1.09
+Gerber|1st Foods Peas|5 oz|Baby Food|43292001|$1.09
+Gerber|1st Foods Prunes|5 oz|Baby Food|43293001|$1.09
+Gerber|1st Foods Squash|5 oz|Baby Food|43294001|$1.09
+Gerber|1st Foods Sweet Potatoes|5 oz|Baby Food|43295001|$1.09
+Gerber|Cereal Multigrain|8 oz|Baby Food|43296001|$2.49
+Gerber|Cereal Multigrain & Apple Sweet Potato|8 oz|Baby Food|43297001|$3.19
+Gerber|Cereal Oatmeal|16 oz|Baby Food|43298001|$4.49
+Gerber|Cereal Oatmeal & Banana|8 oz|Baby Food|43299001|$2.49
+Gerber|Cereal Oatmeal & Peach Apple|8 oz|Baby Food|43300001|$3.19
+Gerber|Cereal Rice|16 oz|Baby Food|43301001|$4.49
+Gerber|Cereal Rice|8 oz|Baby Food|43302001|$2.49
+Gerber|Cereal Rice & Banana Apple|8 oz|Baby Food|43303001|$3.19
+Gerber|Cereal Rice DHA Probotic|8 oz|Baby Food|43304001|$3.19
+Gerber|Cereal Single Grain Oatmeal|8 oz|Baby Food|43305001|$2.49
+Gerber|Cereal Whole Wheat|8 oz|Baby Food|43306001|$2.49
+Gerber|DHA Organic Macaroni & Cheese With Vegetables|2 pkg|Baby Food|43307001|$1.69
+Gerber|Organic Pouch Apple Blackberry|3.5 oz|Baby Food|43308001|$1.69
+Gerber|Organic Pouch Apples & Summer Peachs|3.5 oz|Baby Food|43309001|$1.69
+Gerber|Organic Pouch Banana Mango|3.5 oz|Baby Food|43310001|$1.69
+Gerber|Organic Pouch Banana Squash|3.5 oz|Baby Food|43311001|$1.69
+Gerber|Organic Pouch Pear Peach Strawberry|3.5 oz|Baby Food|43312001|$1.69
+Gerber|Stage 2 Apple Banana Strawberry|7 oz|Baby Food|43313001|$1.29
+Gerber|Stage 2 Apple Blueberry|4 oz|Baby Food|43314001|$0.69
+Gerber|Stage 2 Apple Blueberry|7 oz|Baby Food|43315001|$1.29
+Gerber|Stage 2 Apple Strawberry Banana|4 oz|Baby Food|43316001|$0.69
+Gerber|Stage 2 Apples|8 oz|Baby Food|43317001|$1.29
+Gerber|Stage 2 Apples & Cherries|7 oz|Baby Food|43318001|$1.29
+Gerber|Stage 2 Apples & Mangos With Rice Cereal|7 oz|Baby Food|43319001|$1.29
+Gerber|Stage 2 Applesauce|4 oz|Baby Food|43320001|$0.69
+Gerber|Stage 2 Applesauce|7 oz|Baby Food|43321001|$1.29
+Gerber|Stage 2 Apricots W/ Mixed Fruit|7 oz|Baby Food|43322001|$1.29
+Gerber|Stage 2 Banana & Orange Medley|7 oz|Baby Food|43323001|$1.29
+Gerber|Stage 2 Banana & Plum Grape|7 oz|Baby Food|43324001|$1.29
+Gerber|Stage 2 Bananas|4 oz|Baby Food|43325001|$0.69
+Gerber|Stage 2 Bananas|8 oz|Baby Food|43326001|$1.29
+Gerber|Stage 2 Bananas & Mixed Berries|8 oz|Baby Food|43327001|$1.29
+Gerber|Stage 2 Bananas W/ Apples & Pears|7 oz|Baby Food|43328001|$1.29
+Gerber|Stage 2 Beef & Gravy|2.5 oz|Baby Food|43329001|$1.09
+Gerber|Stage 2 Blended Fruits With Oatmeal|7 oz|Baby Food|43330001|$1.29
+Gerber|Stage 2 Carrots|7 oz|Baby Food|43331001|$1.29
+Gerber|Stage 2 Carrots|8 oz|Baby Food|43332001|$1.29
+Gerber|Stage 2 Chicken & Gravy|2.5 oz|Baby Food|43333001|$1.09
+Gerber|Stage 2 Chicken Noodle|7 oz|Baby Food|43334001|$1.29
+Gerber|Stage 2 Green Beans|4 oz|Baby Food|43335001|$0.69
+Gerber|Stage 2 Green Beans|7 oz|Baby Food|43336001|$1.29
+Gerber|Stage 2 Green Beans|8 oz|Baby Food|43337001|$1.29
+Gerber|Stage 2 Hawaiian Delight|7 oz|Baby Food|43338001|$1.29
+Gerber|Stage 2 Mac & Cheese With Vegetables|7 oz|Baby Food|43339001|$1.29
+Gerber|Stage 2 Mixed Vegetables|7 oz|Baby Food|43340001|$1.29
+Gerber|Stage 2 Organic Harvest Vegetables With Mixed Grains|7 oz|Baby Food|43341001|$1.29
+Gerber|Stage 2 Peaches|8 oz|Baby Food|43342001|$1.29
+Gerber|Stage 2 Pear & Cinnamon With Oatmeal|7 oz|Baby Food|43343001|$1.29
+Gerber|Stage 2 Pears|4 oz|Baby Food|43344001|$0.69
+Gerber|Stage 2 Pears|7 oz|Baby Food|43345001|$1.29
+Gerber|Stage 2 Pears|8 oz|Baby Food|43346001|$1.29
+Gerber|Stage 2 Pears & Pineapple|7 oz|Baby Food|43347001|$1.29
+Gerber|Stage 2 Peas|4 oz|Baby Food|43348001|$0.69
+Gerber|Stage 2 Peas|7 oz|Baby Food|43349001|$1.29
+Gerber|Stage 2 Peas|8 oz|Baby Food|43350001|$1.29
+Gerber|Stage 2 Prunes With Apples|7 oz|Baby Food|43351001|$1.29
+Gerber|Stage 2 Squash|4 oz|Baby Food|43352001|$0.69
+Gerber|Stage 2 Squash|7 oz|Baby Food|43353001|$1.29
+Gerber|Stage 2 Sweet Potato & Turkey With Whole Grains|7 oz|Baby Food|43354001|$1.29
+Gerber|Stage 2 Sweet Potatoes|4 oz|Baby Food|43355001|$0.69
+Gerber|Stage 2 Sweet Potatoes|7 oz|Baby Food|43356001|$1.29
+Gerber|Stage 2 Sweet Potatoes With Corn|7 oz|Baby Food|43357001|$1.29
+Gerber|Stage 2 Turkey & Rice Dinner|7 oz|Baby Food|43358001|$1.29
+Gerber|Stage 2 Vanilla Custard With Bananas|7 oz|Baby Food|43359001|$1.29
+Gerber|Stage 2 Vegetable Beef|7 oz|Baby Food|43360001|$1.29
+Gerber|Stage 2 Vegetable Chicken|7 oz|Baby Food|43361001|$1.29
+Gerber|Stage 3 Apple Banana Peach|6 oz|Baby Food|43362001|$0.89
+Gerber|Stage 3 Apple Mango Kiwi|6 oz|Baby Food|43363001|$0.89
+Gerber|Stage 3 Apples & Cinnamon With Oatmeal|6 oz|Baby Food|43364001|$0.89
+Gerber|Stage 3 Banana Strawberry|6 oz|Baby Food|43365001|$0.89
+Gerber|Stage 3 Bananas|6 oz|Baby Food|43366001|$0.89
+Gerber|Stage 3 Broccoli & Carrots|6 oz|Baby Food|43367001|$0.89
+Gerber|Stage 3 Chicken Noodle|6 oz|Baby Food|43368001|$0.89
+Gerber|Stage 3 Fruit Medley Dessert|6 oz|Baby Food|43369001|$0.89
+Gerber|Stage 3 Lasagna|6 oz|Baby Food|43370001|$0.89
+Gerber|Stage 3 Mixed Vegetables & Chicken|6 oz|Baby Food|43371001|$0.89
+Gerber|Stage 3 Oatmeal Apple Cinnamon|6 oz|Baby Food|43372001|$0.89
+Gerber|Stage 3 Pasta Primavera|6 oz|Baby Food|43373001|$0.89
+Gerber|Stage 3 Pears|6 oz|Baby Food|43374001|$0.89
+Gerber|Stage 3 Spaghetti With Beef|6 oz|Baby Food|43375001|$0.89
+Gerber|Stage 3 Sweet Potatoes|6 oz|Baby Food|43376001|$0.89
+Gerber|Stage 3 Turkey & Rice|6 oz|Baby Food|43377001|$0.89
+Gerber|Stage 3 Vegetables & Beef|6 oz|Baby Food|43378001|$0.89
+Gerber|Yogurt Blends Banana|14 oz|Baby Food|43379001|$2.99
+Gerber|Yogurt Blends Blueberry With Whole Grains|14 oz|Baby Food|43380001|$2.99
+Gerber|Yogurt Blends Strawberry|8 oz|Baby Food|43381001|$2.99
+Genteel|Genteel Extra Lean Hamburger |8.3|Hamburger|43382001|$1.90
+Genteel|Genteel Seasoned Hamburger |9.1|Hamburger|43383001|$1.15
+General Mills|Cheerios Apple Cinnamon Cereal|12.9 oz|Cereal|43384001|$4.39
+General Mills|Cheerios Cereal|14 oz|Cereal|43385001|$3.79
+General Mills|Cheerios Cereal|36 oz|Cereal|43386001|$6.59
+General Mills|Cheerios Chocolate Cereal|11.25 oz|Cereal|43387001|$4.39
+General Mills|Cheerios Frosted Cereal|12 oz|Cereal|43388001|$3.79
+General Mills|Cheerios Fruity Cereal|12 oz|Cereal|43389001|$3.79
+General Mills|Cheerios Honey Nut Cereal|12.25 oz|Cereal|43390001|$3.79
+General Mills|Cheerios Honey Nut Cereal|43.2 oz|Cereal|43391001|$7.69
+General Mills|Cheerios Honey Nut Medley Crunch Cereal|13.1 oz|Cereal|43392001|$4.39
+General Mills|Cheerios Multi Grain Cereal|34.2 oz|Cereal|43393001|$7.69
+General Mills|Cheerios Multi Grain Cereal|9 oz|Cereal|43394001|$3.79
+General Mills|Cheerios Multi Grain Peanut Butter Cereal|11.3 oz|Cereal|43395001|$3.79
+General Mills|Chex Apple Cinnamon Cereal|13.8 oz|Cereal|43396001|$4.69
+General Mills|Chex Chocolate Cereal|14.25 oz|Cereal|43397001|$4.69
+General Mills|Chex Cinnamon Cereal|13.5 oz|Cereal|43398001|$4.69
+General Mills|Chex Corn Cereal|14 oz|Cereal|43399001|$4.69
+General Mills|Chex Honey Nut Cereal|13.8 oz|Cereal|43400001|$4.69
+General Mills|Chex Rice Cereal|12.8 oz|Cereal|43401001|$4.69
+General Mills|Fiber One Blueberry Streusel Bar|7.1 oz|Cereal|43402001|$2.99
+General Mills|Fiber One Strawberry Streusel Bar|7.1 oz|Cereal|43403001|$2.99
+General Mills|Total Whole Grain Cereal|10.6 oz|Cereal|43404001|$4.39
+Gefen|PopCorners Sea Salt|5 oz||43405001|$2.99
+Gatorade|G2 Lime|8 pkg||43406001|$4.99
+Gatorade|Gatorade Sports Drink|8/20 oz||43407001|$5.48
+Gatorade|Sports Drink Strawberry Lemonade|32 oz||43408001|$1.69
+Frito Lay|Doritos & Cheetos Mix 2Go|20 ct|Snacks|43409001|$6.99
+Frito Lay|Doritos Cool Ranch|1.12 oz|Snacks|43410001|$0.50
+Frito Lay|Doritos Cool Ranch|9.75 oz|Snacks|43411001|$2.99
+Frito Lay|Doritos Jacked Ranch Dipped Hot Wings|9.25 oz|Snacks|43412001|$2.99
+Frito Lay|Doritos Mix Cheese Explosion|9.25 oz|Snacks|43413001|$2.99
+Frito Lay|Doritos Mix Taco Explosion|9.25 oz|Snacks|43414001|$2.99
+Frito Lay|Doritos Nacho Cheese|1.12 oz|Snacks|43415001|$0.50
+Frito Lay|Doritos Nacho Cheese|15 oz|Snacks|43416001|$4.49
+Frito Lay|Doritos Nacho Cheese|3.13 oz|Snacks|43417001|$1.69
+Frito Lay|Doritos Nacho Cheese|9.75 oz|Snacks|43418001|$2.99
+Frito Lay|Doritos Simply Organic White Cheddar Tortilla Chips|7.5 oz|Snacks|43419001|$3.69
+Frito Lay|Doritos Spicy Nacho|9.75 oz|Snacks|43420001|$2.99
+Frito Lay|Doritos Spicy Sweet Chili|9.75 oz|Snacks|43421001|$2.99
+Frito Lay|Doritos Taco Tortilla Chips|9.75 oz|Snacks|43422001|$2.99
+Frito Lay|Lays Dip French Onion|15 oz|Snacks|43423001|$3.99
+Frito Lay|Lays Dip Ranch|15 oz|Snacks|43424001|$3.99
+Frito Lay|Lays Kettle Cooked Cream Cheese & Chive|8 oz|Snacks|43425001|$3.49
+Frito Lay|Lays Kettle Cooked Jalapeno|8 oz|Snacks|43426001|$3.49
+Frito Lay|Lays Kettle Cooked Jalapeno Cheddar|8 oz|Snacks|43427001|$3.49
+Frito Lay|Lays Kettle Cooked Lattice Cut Sea Salt|7 oz|Snacks|43428001|$3.49
+Frito Lay|Lays Kettle Cooked Lightly Salted Olive Oil & Herb|8 oz|Snacks|43429001|$3.49
+Frito Lay|Lays Kettle Cooked Mesquite BBQ|8 oz|Snacks|43430001|$3.49
+Frito Lay|Lays Kettle Cooked Original|8 oz|Snacks|43431001|$3.49
+Frito Lay|Lays Kettle Cooked Reduced Fat|8 oz|Snacks|43432001|$3.49
+Frito Lay|Lays Kettle Cooked Sea Salt & Cracked Pepper|8 oz|Snacks|43433001|$3.49
+Frito Lay|Lays Kettle Cooked Sea Salt & Vinegar|8 oz|Snacks|43434001|$3.49
+Frito Lay|Lays Poppables Sea Salt|5 oz|Snacks|43435001|$2.69
+Frito Lay|Lays Poppables White Cheddar|5 oz|Snacks|43436001|$2.69
+Frito Lay|Lays Potato Chips Baked BBQ|6.25 oz|Snacks|43437001|$3.29
+Frito Lay|Lays Potato Chips BBQ|7.75 oz|Snacks|43438001|$2.69
+Frito Lay|Lays Potato Chips BBQ|9.5 oz|Snacks|43439001|$2.99
+Frito Lay|Lays Potato Chips Cheddar & Sour Cream|7.75 oz|Snacks|43440001|$2.69
+Frito Lay|Lays Potato Chips Classic|10 oz|Snacks|43441001|$2.99
+Frito Lay|Lays Potato Chips Classic|8 oz|Snacks|43442001|$2.69
+Frito Lay|Lays Potato Chips Honey BBQ|7.75 oz|Snacks|43443001|$2.69
+Frito Lay|Lays Potato Chips Lightly Salted|7.75 oz|Snacks|43444001|$2.69
+Frito Lay|Lays Potato Chips Lightly Salted|9.5 oz|Snacks|43445001|$2.99
+Frito Lay|Lays Potato Chips Lightly Salted BBQ|7.75 oz|Snacks|43446001|$2.69
+Frito Lay|Lays Potato Chips Original|15.25 oz|Snacks|43447001|$3.79
+Frito Lay|Lays Potato Chips Oven Baked Original|6.25 oz|Snacks|43448001|$3.29
+Frito Lay|Lays Potato Chips Salt & Vinegar|7.75 oz|Snacks|43449001|$2.69
+Frito Lay|Lays Potato Chips Sour Cream & Onion|7.75 oz|Snacks|43450001|$2.69
+Frito Lay|Lays Potato Chips Sour Cream & Onion|9.5 oz|Snacks|43451001|$2.99
+Frito Lay|Lays Potato Chips Sweet Southern Heat BBQ|7.75 oz|Snacks|43452001|$2.69
+Frito Lay|Lays Potato Chips Wavy|10 oz|Snacks|43453001|$2.99
+Frito Lay|Lays Potato Chips Wavy|8 oz|Snacks|43454001|$2.69
+Frito Lay|Lays Potato Chips Wavy Hickory BBQ|7.75 oz|Snacks|43455001|$2.69
+Frito Lay|Lays Potato Chips Wavy Lightly Salted|7.75 oz|Snacks|43456001|$2.69
+Frito Lay|Lays Stax Cheddar|5.5 oz|Snacks|43457001|$1.59
+Frito Lay|Lays Stax Original|5.75 oz|Snacks|43458001|$1.59
+Frito Lay|Lays Stax Salt & Vinegar|5.5 oz|Snacks|43459001|$1.59
+Frito Lay|Lays Stax Sour Cream & Onion|5.5 oz|Snacks|43460001|$1.59
+Frito Lay|Lays Variety Pack Fun Time Mix|32 ct|Snacks|43461001|$14.19
+Frito Lay|Lays Variety Pack Party Mix|32 ct|Snacks|43462001|$14.19
+Frito Lay|Ruffles Oven Baked Cheddar & Sour Cream|6.25 oz|Snacks|43463001|$3.29
+Frito Lay|Ruffles Oven Baked Garlic & Ranch|6.25 oz|Snacks|43464001|$3.29
+Frito Lay|Ruffles Oven Baked Original|6.25 oz|Snacks|43465001|$3.29
+Frito Lay|Ruffles Potato Chips All Dressed|8.5 oz|Snacks|43466001|$4.29
+Frito Lay|Ruffles Potato Chips Cheddar & Sour Cream|8.5 oz|Snacks|43467001|$4.29
+Frito Lay|Ruffles Potato Chips Classic Hot Wings|8.5 oz|Snacks|43468001|$4.29
+Frito Lay|Ruffles Potato Chips Flamin Hot|8.5 oz|Snacks|43469001|$4.29
+Frito Lay|Ruffles Potato Chips Jalapeno Ranch|8.5 oz|Snacks|43470001|$4.29
+Frito Lay|Ruffles Potato Chips Loaded Bacon And Cheddar|8.5 oz|Snacks|43471001|$4.29
+Frito Lay|Ruffles Potato Chips Original|13.5 oz|Snacks|43472001|$4.49
+Frito Lay|Ruffles Potato Chips Original|8.5 oz|Snacks|43473001|$4.29
+Frito Lay|Ruffles Potato Chips Reduced Fat|8.5 oz|Snacks|43474001|$4.29
+Frito Lay|Ruffles Potato Chips Sour Cream & Onion|8.5 oz|Snacks|43475001|$4.29
+Frito Lay|Ruffles Simply Sea Salted|8 oz|Snacks|43476001|$3.69
+Frito Lay|Tostitos Bite Size Rounds|13 oz|Snacks|43477001|$2.99
+Frito Lay|Tostitos Cantina Thin & Crispy|9 oz|Snacks|43478001|$2.99
+Frito Lay|Tostitos Cantina Traditional|12 oz|Snacks|43479001|$2.99
+Frito Lay|Tostitos Dip Creamy Spinach|15 oz|Snacks|43480001|$3.99
+Frito Lay|Tostitos Dip Medium Queso Blanco|15 oz|Snacks|43481001|$3.99
+Frito Lay|Tostitos Dip Medium Salsa Con Queso|15 oz|Snacks|43482001|$3.99
+Frito Lay|Tostitos Dip Smooth & Cheesy|15 oz|Snacks|43483001|$3.99
+Frito Lay|Tostitos Salsa Cantina Chipotle|15.5 oz|Snacks|43484001|$4.19
+Frito Lay|Tostitos Salsa Restaurant Style|15.5 oz|Snacks|43485001|$4.19
+Frito Lay|Tostitos Salsa Roasted Garlic|15.5 oz|Snacks|43486001|$4.19
+Frito Lay|Tostitos Salsa Thick & Chunky Mild|15.5 oz|Snacks|43487001|$4.19
+Frito Lay|Tostitos Simply Organic Black Bean|7.5 oz|Snacks|43488001|$3.59
+Frito Lay|Tostitos Simply Organic Salsa Chunky Medium|15.5 oz|Snacks|43489001|$4.19
+Frito Lay|Tostitos Simply Organic Scoops|8 oz|Snacks|43490001|$3.69
+Frito Lay|Tostitos Simply Organic Yellow Corn|8.25 oz|Snacks|43491001|$3.69
+Frito Lay|Tostitos Simply Salsa Black Bean & Corn|15.5 oz|Snacks|43492001|$4.79
+Frito Lay|Tostitos Tortilla Chips Hint Of Jalapeno|13 oz|Snacks|43493001|$2.99
+Frito Lay|Tostitos Tortilla Chips Hint Of Lime|13 oz|Snacks|43494001|$2.99
+Frito Lay|Tostitos Tortilla Chips Multigrain Scoops|10 oz|Snacks|43495001|$2.99
+Frito Lay|Tostitos Tortilla Chips Original|18 oz|Snacks|43496001|$4.49
+Frito Lay|Tostitos Tortilla Chips Oven Baked Scoops|6.25 oz|Snacks|43497001|$3.29
+Frito Lay|Tostitos Tortilla Chips Restaurant Style|13 oz|Snacks|43498001|$2.99
+Frito Lay|Tostitos Tortilla Chips Scoops|14.5 oz|Snacks|43499001|$4.49
+Frito Lay|Tostitos Tortilla Chips Simply Blue Corn|8.25 oz|Snacks|43500001|$3.69
+Frito Lay|Tostitos Tortilla Chips White Corn Crispy Rounds|13 oz|Snacks|43501001|$2.99
+Frito Lay|Variety Pack Baked & Popped Mix|20 ct|Snacks|43502001|$6.99
+Frito Lay|Variety Pack Bold Mix|20 ct|Snacks|43503001|$6.99
+Frito Lay|Variety Pack Cheesy Mix|20 ct|Snacks|43504001|$6.99
+Frito Lay|Variety Pack Classic Mix|20 ct|Snacks|43505001|$6.99
+Frito Lay|Variety Pack Fiery Mix|20 ct|Snacks|43506001|$6.99
+Frito Lay|Variety Pack Flavor Mix|20 ct|Snacks|43507001|$6.99
+French Market|Coffee Coffee And Chicory|16 oz|Coffee/Creamer|43508001|$8.79
+Fort West|Fort West Avocado Dip |17.8|Dips|43509001|$0.60
+Fort West|Fort West Buttered Popcorn |7.31|Popcorn|43510001|$2.66
+Fort West|Fort West Cheese Dip |9.19|Dips|43511001|$0.66
+Fort West|Fort West Chocolate Chip Cookies |17|Cookies|43512001|$1.55
+Fort West|Fort West Fondue Mix |6.76|Dips|43513001|$1.50
+Fort West|Fort West Frosted Cookies |14.1|Cookies|43514001|$2.58
+Fort West|Fort West Fudge Brownies |4.67|Cookies|43515001|$2.36
+Fort West|Fort West Fudge Cookies |6.27|Cookies|43516001|$2.20
+Fort West|Fort West Graham Crackers |7.77|Cookies|43517001|$2.26
+Fort West|Fort West Lemon Cookies |14.2|Cookies|43518001|$3.56
+Fort West|Fort West Low Fat Cookies |8.69|Cookies|43519001|$1.80
+Fort West|Fort West Low Fat Popcorn |19.2|Popcorn|43520001|$1.44
+Fort West|Fort West No Salt Popcorn |16.2|Popcorn|43521001|$1.46
+Fort West|Fort West Salsa Dip |9.5|Dips|43522001|$1.93
+Fort West|Fort West Sugar Cookies |19.7|Cookies|43523001|$2.41
+Footnote|Footnote Extra Lean Hamburger |11.1|Hamburger|43524001|$0.97
+Footnote|Footnote Seasoned Hamburger |11|Hamburger|43525001|$1.49
+Food For Life|Ezekiel 4:9 Bread Cinnamon Raisin|24 oz|Bread|43526001|$6.29
+Food For Life|Ezekiel 4:9 Bread Flax|24 oz|Bread|43527001|$4.99
+Food For Life|Ezekiel 4:9 Bread Sesame Sprouted Grain|24 oz|Bread|43528001|$4.99
+Food For Life|Ezekiel 4:9 Bread Whole Grain|24 oz|Bread|43529001|$4.99
+Food For Life|Ezekiel 4:9 Cereal Almond|16 oz|Cereal|43530001|$5.69
+Food For Life|Ezekiel 4:9 Cereal Golden Flax|16 oz|Cereal|43531001|$5.19
+Folgers|Coffee 100% Colombian Medium Dark|10.3 oz|Coffee/Creamer|43532001|$5.49
+Folgers|Coffee 100% Colombian Medium Dark|27.8 oz|Coffee/Creamer|43533001|$7.99
+Folgers|Coffee Black Silk|10.3 oz|Coffee/Creamer|43534001|$5.49
+Folgers|Coffee Black Silk|27.8 oz|Coffee/Creamer|43535001|$7.99
+Folgers|Coffee Breakfast Blend Mild|10.8 oz|Coffee/Creamer|43536001|$5.49
+Folgers|Coffee Breakfast Blend Mild|29.2 oz|Coffee/Creamer|43537001|$7.99
+Folgers|Coffee Classic Medium|11.3 oz|Coffee/Creamer|43538001|$5.49
+Folgers|Coffee Classic Medium|39.9 oz|Coffee/Creamer|43539001|$7.99
+Folgers|Coffee Decaf Medium|11.3 oz|Coffee/Creamer|43540001|$5.49
+Folgers|Coffee French Medium Dark|10.3 oz|Coffee/Creamer|43541001|$5.49
+Folgers|Coffee French Medium Dark|27.8 oz|Coffee/Creamer|43542001|$7.99
+Folgers|Coffee Gourmet Supreme Dark|10.3 oz|Coffee/Creamer|43543001|$2.79
+Folgers|Coffee Gourmet Supreme Dark|27.8 oz|Coffee/Creamer|43544001|$7.99
+Folgers|Coffee Half Caff Medium|29.2 oz|Coffee/Creamer|43545001|$7.99
+Folgers|Coffee House Blend Medium|27.8 oz|Coffee/Creamer|43546001|$7.99
+Folgers|Coffee Medium Decaf|39.9 oz|Coffee/Creamer|43547001|$9.99
+Folgers|Coffee Medium Roast|48 oz|Coffee/Creamer|43548001|$14.29
+Folgers|Coffee Special Medium|10.3 oz|Coffee/Creamer|43549001|$2.79
+Folgers|Coffee Special Medium|27.8 oz|Coffee/Creamer|43550001|$7.99
+Floridas Natural|Juice Orange Pineapple|59 oz||43551001|$4.29
+Floridas Natural|Orange Juice No Pulp|89 oz||43552001|$6.39
+Fleischmanns|Simply Homemade Bread Mix|15 oz|Cake/Baking Mixes|43553001|$2.49
+Fleischmanns|Simply Homemade Cornbread Mix|15 oz|Cake/Baking Mixes|43554001|$1.99
+Febreze|Air Effects With Gain|9.7 oz||43555001|$4.29
+Faux Products|Faux Products 200 MG Acetominifen |9.1|Acetominifen|43556001|$2.32
+Faux Products|Faux Products 200 MG Ibuprofen |10.3|Ibuprofen|43557001|$1.21
+Faux Products|Faux Products Buffered Aspirin |9.39|Aspirin|43558001|$3.84
+Faux Products|Faux Products Childrens Aspirin |10.5|Aspirin|43559001|$1.99
+Faux Products|Faux Products Mint Mouthwash |16.1|Mouthwash|43560001|$2.40
+Fast|Fast Avocado Dip |14.1|Dips|43561001|$2.95
+Fast|Fast Buttered Popcorn |11.3|Popcorn|43562001|$0.51
+Fast|Fast Cheese Dip |12.6|Dips|43563001|$2.78
+Fast|Fast Chocolate Chip Cookies |17.1|Cookies|43564001|$2.42
+Fast|Fast Fondue Mix |7.02|Dips|43565001|$2.31
+Fast|Fast Frosted Cookies |5.4|Cookies|43566001|$1.91
+Fast|Fast Fudge Brownies |6.92|Cookies|43567001|$2.84
+Fast|Fast Fudge Cookies |10.6|Cookies|43568001|$3.38
+Fast|Fast Graham Crackers |18.8|Cookies|43569001|$0.93
+Fast|Fast Lemon Cookies |18.7|Cookies|43570001|$2.65
+Fast|Fast Low Fat Cookies |4.59|Cookies|43571001|$0.96
+Fast|Fast Low Fat Popcorn |3.84|Popcorn|43572001|$1.51
+Fast|Fast No Salt Popcorn |10|Popcorn|43573001|$1.88
+Fast|Fast Salsa Dip |6.05|Dips|43574001|$1.64
+Fast|Fast Sugar Cookies |18.7|Cookies|43575001|$3.87
+Even Better|Even Better Blueberry Yogurt |5.42|Yogurt|43576001|$2.69
+Even Better|Even Better Cheese Spread |6.9|Cheese|43577001|$3.12
+Even Better|Even Better Havarti Cheese |3.94|Cheese|43578001|$3.61
+Even Better|Even Better Head Cheese |10.1|Cheese|43579001|$0.84
+Even Better|Even Better Jack Cheese |4.32|Cheese|43580001|$0.81
+Even Better|Even Better Large Curd Cottage Cheese |13.8|Cottage Cheese|43581001|$3.95
+Even Better|Even Better Low Fat Cottage Cheese |17.7|Cottage Cheese|43582001|$1.27
+Even Better|Even Better Low Fat Sour Cream |9.3|Sour Cream|43583001|$2.88
+Even Better|Even Better Low Fat String Cheese |16.6|Cheese|43584001|$2.59
+Even Better|Even Better Mild Cheddar Cheese |6.89|Cheese|43585001|$1.79
+Even Better|Even Better Muenster Cheese |9|Cheese|43586001|$0.72
+Even Better|Even Better Sharp Cheddar Cheese |16.2|Cheese|43587001|$3.25
+Even Better|Even Better Sour Cream |18.2|Sour Cream|43588001|$0.82
+Even Better|Even Better Strawberry Yogurt |15.1|Yogurt|43589001|$2.71
+Even Better|Even Better String Cheese |12.6|Cheese|43590001|$3.50
+Entenmanns|Buns Cinnamon Swirl|18 oz|Baked Goods Other than Bread|43591001|$7.49
+Entenmanns|Buns Super Cinnamons|24 oz|Baked Goods Other than Bread|43592001|$7.49
+Entenmanns|Cake All Butter French Crumb|14 oz|Baked Goods Other than Bread|43593001|$7.49
+Entenmanns|Cake Cheese Breakfast Buns|21 oz|Baked Goods Other than Bread|43594001|$7.49
+Entenmanns|Cake Chocolate Fudge|20 oz|Baked Goods Other than Bread|43595001|$7.09
+Entenmanns|Cake Coffee Cake Cheese Crumb|16 oz|Coffee/Creamer|43596001|$7.49
+Entenmanns|Cake Coffee Cake Crumb|10 oz|Coffee/Creamer|43597001|$7.49
+Entenmanns|Cake Gold With Chocolate Fudge Icing|18 oz|Baked Goods Other than Bread|43598001|$7.09
+Entenmanns|Cake Jumbo Glazed Honey Bun|4.75 oz|Baked Goods Other than Bread|43599001|$1.09
+Entenmanns|Cake Lemon Crunch|26 oz|Baked Goods Other than Bread|43600001|$7.59
+Entenmanns|Cake Lemon Loaf|11.5 oz|Baked Goods Other than Bread|43601001|$5.29
+Entenmanns|Cake Louisiana Crunch|26 oz|Baked Goods Other than Bread|43602001|$7.59
+Entenmanns|Cake Pound Cake|12 oz|Baked Goods Other than Bread|43603001|$5.29
+Entenmanns|Cake Wrapped Crumb Mini|12.25 oz|Baked Goods Other than Bread|43604001|$5.09
+Entenmanns|Cake Wrapped Pound Cake Mini|8.25 oz|Baked Goods Other than Bread|43605001|$5.09
+Entenmanns|Chewy Chocolate Chip Cereal Bar|10.4 oz|Cereal|43606001|$3.29
+Entenmanns|Cookies Chocolate Chip|12 oz|Baked Goods Other than Bread|43607001|$4.79
+Entenmanns|Cookies Chocolate Chip Soft Baked|4 oz|Baked Goods Other than Bread|43608001|$1.09
+Entenmanns|Danish Cheese Twist|16 oz|Baked Goods Other than Bread|43609001|$7.49
+Entenmanns|Danish Cherry Cheese|4 oz|Baked Goods Other than Bread|43610001|$1.09
+Entenmanns|Danish Raspberry|4 oz|Baked Goods Other than Bread|43611001|$1.09
+Entenmanns|Danish Twist Raspberry|15 oz|Baked Goods Other than Bread|43612001|$7.49
+Entenmanns|Donuts Chocolate Frosted|3.5 oz|Baked Goods Other than Bread|43613001|$1.09
+Entenmanns|Donuts Crumb Topped|17 oz|Baked Goods Other than Bread|43614001|$5.99
+Entenmanns|Donuts Devils Food Crumb|17 oz|Baked Goods Other than Bread|43615001|$5.99
+Entenmanns|Donuts Frosted Devils Food|19 oz|Baked Goods Other than Bread|43616001|$5.99
+Entenmanns|Donuts Frosted Mini|12 oz|Baked Goods Other than Bread|43617001|$5.09
+Entenmanns|Donuts Popems Glazed|16 oz|Baked Goods Other than Bread|43618001|$5.09
+Entenmanns|Donuts Popems Rich Frosted|17 oz|Baked Goods Other than Bread|43619001|$5.09
+Entenmanns|Donuts Powdered Popettes|14 oz|Baked Goods Other than Bread|43620001|$4.89
+Entenmanns|Donuts Rich Chocolate Frosted|16 oz|Baked Goods Other than Bread|43621001|$5.99
+Entenmanns|Donuts Softee Assorted With Frosted|12 ct|Baked Goods Other than Bread|43622001|$6.39
+Entenmanns|Donuts Softee Variety|22 oz|Baked Goods Other than Bread|43623001|$6.39
+Entenmanns|Donuts Softees Cinnamon Mini|10 oz|Baked Goods Other than Bread|43624001|$3.29
+Entenmanns|Donuts Softees Frosted|10.5 oz|Baked Goods Other than Bread|43625001|$3.29
+Entenmanns|Donuts Softees Powdered|10 oz|Baked Goods Other than Bread|43626001|$3.29
+Entenmanns|Donuts Ultimate Chocolate Lovers Variety Pack|17 oz|Baked Goods Other than Bread|43627001|$5.99
+Entenmanns|Donuts Variety Pack|16 oz|Baked Goods Other than Bread|43628001|$5.99
+Entenmanns|Little Bites Fudge Brownie|11 oz|Baked Goods Other than Bread|43629001|$5.09
+Entenmanns|Little Bites Mini Banana Chocolate Chip|8.75 oz|Baked Goods Other than Bread|43630001|$4.99
+Entenmanns|Little Bites Mini Blueberry|8.75 oz|Baked Goods Other than Bread|43631001|$4.99
+Entenmanns|Little Bites Snickerdoodle Cinnamon Sugar|8.75 oz|Baked Goods Other than Bread|43632001|$4.99
+Entenmanns|Muffins Chocolate Chip Mini|8.75 oz|Baked Goods Other than Bread|43633001|$4.99
+Entenmanns|Pie Apple|26 oz|Baked Goods Other than Bread|43634001|$7.49
+Entenmanns|Puffs Apple|18 oz|Baked Goods Other than Bread|43635001|$7.59
+Eight O Clock|100% Arabica Hazelnut Coffee|11 oz|Coffee/Creamer|43636001|$7.19
+Eight O Clock|Coffee 100% Colombian|11 oz|Coffee/Creamer|43637001|$3.64
+Eight O Clock|Coffee Dark Italian Roast|11.5 oz|Coffee/Creamer|43638001|$7.19
+Eight O Clock|Coffee Original|12 oz|Coffee/Creamer|43639001|$7.19
+Edwards|Pie Key Lime|36 oz||43640001|$7.99
+Ebony|Ebony Almonds |14.2|Nuts|43641001|$1.68
+Ebony|Ebony Asparagus |20.6|Fresh Vegetables|43642001|$0.96
+Ebony|Ebony Baby Onion |15.3|Fresh Vegetables|43643001|$2.97
+Ebony|Ebony Beets |11.6|Fresh Vegetables|43644001|$2.71
+Ebony|Ebony Broccoli |18|Fresh Vegetables|43645001|$2.83
+Ebony|Ebony Canned Peanuts |17.3|Nuts|43646001|$1.29
+Ebony|Ebony Cantelope |7.1|Fresh Fruit|43647001|$2.45
+Ebony|Ebony Cauliflower |17.3|Fresh Vegetables|43648001|$1.39
+Ebony|Ebony Corn on the Cob |6.26|Fresh Vegetables|43649001|$1.20
+Ebony|Ebony Dried Mushrooms |18.8|Fresh Vegetables|43650001|$3.34
+Ebony|Ebony Elephant Garlic |4.48|Fresh Vegetables|43651001|$2.21
+Ebony|Ebony Fancy Plums |17.3|Fresh Fruit|43652001|$1.86
+Ebony|Ebony Firm Tofu |15.2|Tofu|43653001|$2.29
+Ebony|Ebony Fresh Lima Beans |11.3|Fresh Vegetables|43654001|$1.45
+Ebony|Ebony Fuji Apples |13|Fresh Fruit|43655001|$3.24
+Ebony|Ebony Garlic |6.1|Fresh Vegetables|43656001|$2.60
+Ebony|Ebony Golden Delcious Apples |16.5|Fresh Fruit|43657001|$2.77
+Ebony|Ebony Green Pepper |8.8|Fresh Vegetables|43658001|$2.65
+Ebony|Ebony Honey Dew |6.78|Fresh Fruit|43659001|$1.58
+Ebony|Ebony Lemons |5.65|Fresh Fruit|43660001|$1.91
+Ebony|Ebony Lettuce |19.3|Fresh Vegetables|43661001|$3.51
+Ebony|Ebony Limes |9.69|Fresh Fruit|43662001|$0.92
+Ebony|Ebony Macintosh Apples |19.5|Fresh Fruit|43663001|$1.35
+Ebony|Ebony Mandarin Oranges |7.78|Fresh Fruit|43664001|$1.83
+Ebony|Ebony Mixed Nuts |7.28|Nuts|43665001|$0.95
+Ebony|Ebony Mushrooms |19.7|Fresh Vegetables|43666001|$0.57
+Ebony|Ebony New Potatos |4.96|Fresh Vegetables|43667001|$2.19
+Ebony|Ebony Onions |9.5|Fresh Vegetables|43668001|$3.26
+Ebony|Ebony Oranges |7.96|Fresh Fruit|43669001|$2.96
+Ebony|Ebony Party Nuts |17.8|Nuts|43670001|$1.18
+Ebony|Ebony Peaches |16.2|Fresh Fruit|43671001|$2.11
+Ebony|Ebony Plums |6.28|Fresh Fruit|43672001|$3.43
+Ebony|Ebony Potatos |20.1|Fresh Vegetables|43673001|$1.41
+Ebony|Ebony Prepared Salad |18.7|Fresh Vegetables|43674001|$2.84
+Ebony|Ebony Red Delcious Apples |5.36|Fresh Fruit|43675001|$0.70
+Ebony|Ebony Red Pepper |13.8|Fresh Vegetables|43676001|$2.88
+Ebony|Ebony Shitake Mushrooms |10.3|Fresh Vegetables|43677001|$2.99
+Ebony|Ebony Squash |16.7|Fresh Vegetables|43678001|$1.73
+Ebony|Ebony Summer Squash |11|Fresh Vegetables|43679001|$2.85
+Ebony|Ebony Sweet Onion |14.6|Fresh Vegetables|43680001|$2.17
+Ebony|Ebony Sweet Peas |5.28|Fresh Vegetables|43681001|$1.32
+Ebony|Ebony Tangerines |12.3|Fresh Fruit|43682001|$3.49
+Ebony|Ebony Tomatos |16.7|Fresh Vegetables|43683001|$1.22
+Ebony|Ebony Walnuts |16.7|Nuts|43684001|$2.39
+Eating Right|Fruit & Grain Apple Cereal Bars|10.4 oz|Cereal|43685001|$1.99
+Eating Right|Fruit & Grain Blueberry Cereal Bars|10.4 oz|Cereal|43686001|$1.99
+Eating Right|Fruit & Grain Mixed Berry Cereal Bars|10.4 oz|Cereal|43687001|$1.99
+Eating Right|Fruit & Grain Raspberry Cereal Bars|10.4 oz|Cereal|43688001|$1.99
+Eating Right|Fruit & Grain Strawberry Cereal Bars|10.4 oz|Cereal|43689001|$1.99
+Eating Right|Raisin Date & Pecan Mulit Grain Cereal|16 oz|Cereal|43690001|$3.29
+Eating Right|Shortbread Cookies|4.4 oz|Snacks|43691001|$3.69
+Dunkin Donuts|Blueberry Muffin Coffee|11 oz|Coffee/Creamer|43692001|$6.99
+Dunkin Donuts|Caramel Coffee|11 oz|Coffee/Creamer|43693001|$6.99
+Dunkin Donuts|Chocolate Glazed Donut Coffee|11 oz|Coffee/Creamer|43694001|$6.99
+Dunkin Donuts|Coffee Jelly|11 oz|Coffee/Creamer|43695001|$6.99
+Dunkin Donuts|Dark Roast Coffee|11 oz|Coffee/Creamer|43696001|$6.99
+Dunkin Donuts|French Vanilla Coffee|12 oz|Coffee/Creamer|43697001|$6.99
+Dunkin Donuts|French Vanilla Coffee|24 oz|Coffee/Creamer|43698001|$14.19
+Dunkin Donuts|Hazelnut Coffee|12 oz|Coffee/Creamer|43699001|$6.99
+Dunkin Donuts|Original Blend Coffee|12 oz|Coffee/Creamer|43700001|$6.99
+Dunkin Donuts|Original Blend Decaf Coffee|12 oz|Coffee/Creamer|43701001|$6.99
+Dunkin Donuts|Original Resealable Bag Coffee|14 oz|Coffee/Creamer|43702001|$14.19
+Dual City|Dual City Lox |16.7|Fresh Fish|43703001|$0.52
+Drakes|Coffee Cakes Cake|11.5 oz|Cake Snacks|43704001|$3.89
+Drakes|Devil Dogs Cake|12.8 oz|Cake Snacks|43705001|$3.29
+Drakes|Ring Dings Cake|13.5 oz|Cake Snacks|43706001|$3.89
+Drakes|Yodels Cake|11 oz|Cake Snacks|43707001|$3.29
+Dole|Bananas Bunch|1 lbs||43708001|$0.55
+Dole|Juice Orange Peach Mango|59 oz||43709001|$3.69
+Discover|Discover Rice Medly |13.5|Rice|43710001|$2.73
+Discover|Discover Thai Rice |17.2|Rice|43711001|$2.47
+Dinty Moore|Hearty Meals Beef Stew|20 oz||43712001|$3.39
+Denny|Denny Counter Cleaner |7.39|Cleaners|43713001|$2.46
+Denny|Denny Glass Cleaner |18.2|Cleaners|43714001|$0.51
+Denny|Denny Room Freshener |13.7|Deodorizers|43715001|$1.96
+Denny|Denny Toilet Bowl Cleaner |6.47|Cleaners|43716001|$2.32
+Delta|Baby Shampoo Original|12 oz||43717001|$1.00
+Del Monte|Diced Mango Fruit Cup|16 oz||43718001|$2.50
+Del Monte|Fruit Burst Squeezers Mixed Berry|12.8 oz||43719001|$2.50
+Del Monte|Pear Halves In 100% Juice|15.25 oz||43720001|$2.89
+Cutting Edge|Cutting Edge Beef Bologna |4.67|Bologna|43721001|$0.97
+Cutting Edge|Cutting Edge Chicken Hot Dogs |17.2|Hot Dogs|43722001|$1.53
+Cutting Edge|Cutting Edge Cole Slaw |4.19|Deli Salads|43723001|$1.55
+Cutting Edge|Cutting Edge Corned Beef |9.19|Deli Meats|43724001|$2.95
+Cutting Edge|Cutting Edge Foot-Long Hot Dogs |5.67|Hot Dogs|43725001|$1.44
+Cutting Edge|Cutting Edge Low Fat Bologna |11.8|Bologna|43726001|$2.37
+Cutting Edge|Cutting Edge Low Fat Cole Slaw |6.65|Deli Salads|43727001|$2.85
+Cutting Edge|Cutting Edge Pimento Loaf |9.5|Bologna|43728001|$1.82
+Cutting Edge|Cutting Edge Potato Salad |7.47|Deli Salads|43729001|$1.33
+Cutting Edge|Cutting Edge Roasted Chicken |14.6|Fresh Chicken|43730001|$1.99
+Cutting Edge|Cutting Edge Sliced Chicken |4.86|Deli Meats|43731001|$2.33
+Cutting Edge|Cutting Edge Sliced Ham |17.6|Deli Meats|43732001|$0.72
+Cutting Edge|Cutting Edge Sliced Turkey |9.89|Deli Meats|43733001|$3.52
+Cutting Edge|Cutting Edge Turkey Hot Dogs |19.8|Hot Dogs|43734001|$1.76
+Curlew|Curlew Lox |6.97|Fresh Fish|43735001|$1.62
+Crest|3D White Arctic Fresh|7 oz||43736001|$4.37
+Creamette|Lasagna Pasta|16 oz|Pasta/Noodles|43737001|$2.29
+Country Time|Lemonade Yellow|12 pkg||43738001|$4.99
+Country Crock|Spread Original|45 oz||43739001|$3.49
+Cormorant|Cormorant Counter Cleaner |16.6|Cleaners|43740001|$1.92
+Cormorant|Cormorant Glass Cleaner |18.1|Cleaners|43741001|$0.62
+Cormorant|Cormorant Room Freshener |4.21|Deodorizers|43742001|$3.89
+Cormorant|Cormorant Toilet Bowl Cleaner |13.8|Cleaners|43743001|$3.81
+Consolidated|Consolidated 200 MG Acetominifen |11.6|Acetominifen|43744001|$1.83
+Consolidated|Consolidated 200 MG Ibuprofen |8|Ibuprofen|43745001|$3.98
+Consolidated|Consolidated Buffered Aspirin |6.56|Aspirin|43746001|$0.85
+Consolidated|Consolidated Childrens Aspirin |11|Aspirin|43747001|$3.91
+Consolidated|Consolidated Mint Mouthwash |13.5|Mouthwash|43748001|$1.89
+Con Agar Foods|Rotel Diced Tomatoes& Green Chilies|10 oz||43749001|$2.99
+Colossal|Colossal Rice Medly |12|Rice|43750001|$1.46
+Colossal|Colossal Thai Rice |11.3|Rice|43751001|$3.94
+College Inn|FF & LS Broth Chicken|32 oz||43752001|$2.99
+Coke|Fanta Orange Soda|67.6 oz|Soda|43753001|$1.50
+Coke|Original Soda|67.6 oz|Soda|43754001|$1.50
+Coke|Sprite Soda|67.6 oz|Soda|43755001|$1.50
+Cobblestone Mill|Bagels Cinnamon Raisin|21 oz||43756001|$2.99
+Cobblestone Mill|Bagels Plain|21 oz||43757001|$2.99
+Club|Club Blueberry Yogurt |11.1|Yogurt|43758001|$3.82
+Club|Club Cheese Spread |13.5|Cheese|43759001|$2.17
+Club|Club Havarti Cheese |7.94|Cheese|43760001|$3.95
+Club|Club Head Cheese |5.4|Cheese|43761001|$1.47
+Club|Club Jack Cheese |12.3|Cheese|43762001|$3.44
+Club|Club Large Curd Cottage Cheese |12.3|Cottage Cheese|43763001|$3.50
+Club|Club Low Fat Cottage Cheese |15.7|Cottage Cheese|43764001|$1.67
+Club|Club Low Fat Sour Cream |9.69|Sour Cream|43765001|$2.93
+Club|Club Low Fat String Cheese |15|Cheese|43766001|$3.38
+Club|Club Mild Cheddar Cheese |7.57|Cheese|43767001|$2.93
+Club|Club Muenster Cheese |15.7|Cheese|43768001|$2.57
+Club|Club Sharp Cheddar Cheese |16.7|Cheese|43769001|$3.61
+Club|Club Sour Cream |11.6|Sour Cream|43770001|$0.53
+Club|Club Strawberry Yogurt |11.3|Yogurt|43771001|$0.74
+Club|Club String Cheese |3.3|Cheese|43772001|$1.88
+Clorox|Disinfecting Wipes Lemon Fresh|35 pkg||43773001|$3.39
+Clorox|Ultra Liquid Bleach Mountain Fresh|96 oz||43774001|$2.39
+Classico|Alfredo Sauce Sun-Dried Tomato|26 oz||43775001|$3.49
+Classico|Pasta Sauce Four Cheese|24 oz|Gravy/Sauce|43776001|$3.49
+Classico|Pasta Sauce Vodka|24 oz|Gravy/Sauce|43777001|$3.49
+Choice|Choice Malted Milk Balls |6.64|Chocolate Candy|43778001|$0.64
+Choice|Choice Mint Chocolate Bar |8.6|Chocolate Candy|43779001|$0.56
+Choice|Choice Mints |17.3|Hard Candy|43780001|$1.90
+Choice|Choice Semi-Sweet Chocolate Bar |20.7|Chocolate Candy|43781001|$2.65
+Choice|Choice Spicy Mints |16.6|Hard Candy|43782001|$1.72
+Choice|Choice Tasty Candy Bar |15.2|Chocolate Candy|43783001|$0.89
+Choice|Choice White Chocolate Bar |18.8|Chocolate Candy|43784001|$1.84
+Chock Full O Nuts|100% Colombian Coffee|10.3 oz|Coffee/Creamer|43785001|$6.09
+Chock Full O Nuts|Coffee Regular|26 oz|Coffee/Creamer|43786001|$9.89
+Chock Full O Nuts|Regular Coffee|10.3 oz|Coffee/Creamer|43787001|$5.29
+Chex Mix|Snack Mix Chocolate Peanut|8 oz|Snacks|43788001|$2.69
+Chef Boyardee|Beefaroni Whole Grain|15 oz||43789001|$1.00
+Chef Boyardee|Mini Bites Dinos & Meatballs|15 oz||43790001|$1.00
+Chef Boyardee|Ravioli Beef|15 oz||43791001|$1.00
+CDR|CDR Brown Sugar |8.3|Sugar|43792001|$2.92
+CDR|CDR Canola Oil |18.3|Cooking Oil|43793001|$2.48
+CDR|CDR Chunky Peanut Butter |5.63|Peanut Butter|43794001|$2.50
+CDR|CDR Corn Oil |18.2|Cooking Oil|43795001|$2.95
+CDR|CDR Creamy Peanut Butter |3.94|Peanut Butter|43796001|$2.65
+CDR|CDR Extra Chunky Peanut Butter |9.5|Peanut Butter|43797001|$2.16
+CDR|CDR Oregano |13.3|Spices|43798001|$1.16
+CDR|CDR Pepper |14.1|Spices|43799001|$2.38
+CDR|CDR Salt |16.8|Spices|43800001|$1.52
+CDR|CDR Sesame Oil |7.69|Cooking Oil|43801001|$1.39
+CDR|CDR Vegetable Oil |19.3|Cooking Oil|43802001|$3.52
+CDR|CDR White Sugar |4.42|Sugar|43803001|$1.33
+Carrington|Carrington Beef TV Dinner |20.2|TV Dinner|43804001|$1.77
+Carrington|Carrington Chicken TV Dinner |6.06|TV Dinner|43805001|$2.35
+Carrington|Carrington Fajita French Fries |14.1|French Fries|43806001|$2.22
+Carrington|Carrington Frozen Broccoli |15.2|Frozen Vegetables|43807001|$0.63
+Carrington|Carrington Frozen Carrots |7.89|Frozen Vegetables|43808001|$1.52
+Carrington|Carrington Frozen Cauliflower |8.18|Frozen Vegetables|43809001|$1.48
+Carrington|Carrington Frozen Cheese Pizza |18.2|Pizza|43810001|$3.45
+Carrington|Carrington Frozen Chicken Breast |8.92|Frozen Chicken|43811001|$0.93
+Carrington|Carrington Frozen Chicken Thighs |19.5|Frozen Chicken|43812001|$1.24
+Carrington|Carrington Frozen Chicken Wings |8.39|Frozen Chicken|43813001|$2.42
+Carrington|Carrington Frozen Corn |9.89|Frozen Vegetables|43814001|$1.60
+Carrington|Carrington Frozen Mushroom Pizza |15.5|Pizza|43815001|$3.73
+Carrington|Carrington Frozen Peas |19.7|Frozen Vegetables|43816001|$2.71
+Carrington|Carrington Frozen Pepperoni Pizza |11.1|Pizza|43817001|$2.57
+Carrington|Carrington Frozen Sausage Pizza |17.7|Pizza|43818001|$3.39
+Carrington|Carrington Grape Popsicles |10.5|Popsicles|43819001|$2.90
+Carrington|Carrington Home Style French Fries |5.86|French Fries|43820001|$0.92
+Carrington|Carrington Ice Cream |14.7|Ice Cream|43821001|$2.65
+Carrington|Carrington Ice Cream Sandwich |12.8|Ice Cream|43822001|$2.24
+Carrington|Carrington Lemon Popsicles |9.5|Popsicles|43823001|$1.81
+Carrington|Carrington Lime Popsicles |18.2|Popsicles|43824001|$1.67
+Carrington|Carrington Low Fat French Fries |6.14|French Fries|43825001|$2.41
+Carrington|Carrington Orange Popsicles |12.6|Popsicles|43826001|$0.69
+Carrington|Carrington Turkey TV Dinner |9.19|TV Dinner|43827001|$3.68
+Carnation|Original Malted Milk Drink Mix|13 oz|Soda/Juice/Drinks|43828001|$4.99
+Carlson|Carlson Blueberry Yogurt |10.8|Yogurt|43829001|$2.76
+Carlson|Carlson Cheese Spread |6.71|Cheese|43830001|$1.82
+Carlson|Carlson Havarti Cheese |12.1|Cheese|43831001|$1.13
+Carlson|Carlson Head Cheese |9.8|Cheese|43832001|$3.97
+Carlson|Carlson Jack Cheese |9.19|Cheese|43833001|$1.80
+Carlson|Carlson Large Curd Cottage Cheese |16.6|Cottage Cheese|43834001|$2.36
+Carlson|Carlson Low Fat Cottage Cheese |8.77|Cottage Cheese|43835001|$2.25
+Carlson|Carlson Low Fat Sour Cream |11.1|Sour Cream|43836001|$0.81
+Carlson|Carlson Low Fat String Cheese |6.8|Cheese|43837001|$1.31
+Carlson|Carlson Mild Cheddar Cheese |9.89|Cheese|43838001|$3.96
+Carlson|Carlson Muenster Cheese |16.2|Cheese|43839001|$3.75
+Carlson|Carlson Sharp Cheddar Cheese |15.1|Cheese|43840001|$2.20
+Carlson|Carlson Sour Cream |5.78|Sour Cream|43841001|$2.36
+Carlson|Carlson Strawberry Yogurt |12.8|Yogurt|43842001|$3.98
+Carlson|Carlson String Cheese |18.8|Cheese|43843001|$1.32
+Caribou|Daybreak Morning Blend Coffee|12 oz|Coffee/Creamer|43844001|$9.89
+Caribou|Original Blend Coffee|12 oz|Coffee/Creamer|43845001|$9.89
+Capri Sun|Coastal Cooler Strawberry Banana|10 ct||43846001|$2.99
+Capri Sun|Roarin Waters Berry Berry Juice|10 ct||43847001|$2.99
+Capri Sun|SuperV Apple|10 ct||43848001|$3.99
+Cape Cod|Potato Chips Snacks|8 oz||43849001|$2.99
+Canine Carry Out|Dog Treats Beef|12 oz|Pet Food|43850001|$1.69
+Campbells|Chicken Noodle Low Sodium|10.75 oz|Canned Goods|43851001|$1.25
+Campbells|Cream Of Chicken Soup|10.5 oz|Canned Goods|43852001|$1.69
+Campbells|Cream Of Mushroom Soup|10.5 oz|Canned Goods|43853001|$1.69
+Campbells|Gravy Turkey|14.5 oz|Canned Goods|43854001|$1.59
+Campbells|Soup Cream Of Mushroom|26 oz|Canned Goods|43855001|$2.00
+Campbells|Spaghetti O's Plus Calcium|14.2 oz|Canned Goods|43856001|$1.15
+Cafe La Llave|Espresso Coffee|12 oz|Coffee/Creamer|43857001|$3.99
+Bustello Cafe|Decaf Coffee|10 oz|Coffee/Creamer|43858001|$5.49
+Bustello Cafe|Regular Coffee|10 oz|Coffee/Creamer|43859001|$5.19
+Bushs|Brown Sugar Hickory Baked Beans|28 oz|Canned Goods|43860001|$1.79
+Bushs|Country Style Baked Beans|28 oz|Canned Goods|43861001|$1.79
+Bushs|Country Style Baked Beans|8.3 oz|Canned Goods|43862001|$1.39
+Bushs|Homestyle Baked Beans|16 oz|Canned Goods|43863001|$1.69
+Bushs|Homestyle Baked Beans|28 oz|Canned Goods|43864001|$1.79
+Bushs|Honey Baked Beans|28 oz|Canned Goods|43865001|$1.79
+Bushs|Maple Cured Bacon Baked Baked Beans|16 oz|Canned Goods|43866001|$1.69
+Bushs|Maple Cured Bacon Baked Beans|28 oz|Canned Goods|43867001|$1.79
+Bushs|Original Baked Beans|16 oz|Canned Goods|43868001|$1.69
+Bushs|Original Baked Beans|28 oz|Canned Goods|43869001|$1.79
+Bushs|Original Baked Beans|55 oz|Canned Goods|43870001|$4.29
+Bushs|Original Baked Beans|8.3 oz|Canned Goods|43871001|$1.39
+Bushs|Vegetarian Baked Beans|16 oz|Canned Goods|43872001|$1.69
+Bushs|Vegetarian Baked Beans|28 oz|Canned Goods|43873001|$1.79
+Bushs|Vegetarian Baked Beans|8.3 oz|Canned Goods|43874001|$1.39
+Bubba|Certified Angus Beef Burger|2 lbs||43875001|$12.99
+Bright And Early|Juice Grape|59 oz||43876001|$1.00
+Bravo|Bravo Beef Soup |14.2|Soup|43877001|$2.55
+Bravo|Bravo Canned Beets |5.8|Canned Vegetables|43878001|$3.15
+Bravo|Bravo Canned Peas |15.5|Canned Vegetables|43879001|$1.55
+Bravo|Bravo Canned String Beans |7.63|Canned Vegetables|43880001|$2.59
+Bravo|Bravo Canned Tomatos |11.3|Canned Vegetables|43881001|$0.87
+Bravo|Bravo Canned Tuna in Oil |7.71|Tuna|43882001|$2.78
+Bravo|Bravo Canned Tuna in Water |9.69|Tuna|43883001|$1.67
+Bravo|Bravo Canned Yams |6.38|Canned Vegetables|43884001|$1.66
+Bravo|Bravo Chicken Noodle Soup |15.7|Soup|43885001|$2.74
+Bravo|Bravo Chicken Ramen Soup |13|Soup|43886001|$0.80
+Bravo|Bravo Chicken Soup |15.5|Soup|43887001|$3.98
+Bravo|Bravo Creamed Corn |14.2|Canned Vegetables|43888001|$3.28
+Bravo|Bravo Noodle Soup |5.4|Soup|43889001|$3.32
+Bravo|Bravo Regular Ramen Soup |4.17|Soup|43890001|$1.28
+Bravo|Bravo Rice Soup |14.8|Soup|43891001|$3.21
+Bravo|Bravo Turkey Noodle Soup |11.5|Soup|43892001|$2.72
+Bravo|Bravo Vegetable Soup |6|Soup|43893001|$1.84
+Borden|Condensed Milk Sweetened|14 oz|Baking Supplies|43894001|$2.99
+Booker|Booker Blueberry Yogurt |19.7|Yogurt|43895001|$3.22
+Booker|Booker Cheese Spread |5.42|Cheese|43896001|$0.94
+Booker|Booker Havarti Cheese |11.8|Cheese|43897001|$2.76
+Booker|Booker Head Cheese |15.2|Cheese|43898001|$1.45
+Booker|Booker Jack Cheese |13.8|Cheese|43899001|$1.85
+Booker|Booker Large Curd Cottage Cheese |4.42|Cottage Cheese|43900001|$0.67
+Booker|Booker Low Fat Cottage Cheese |15.5|Cottage Cheese|43901001|$3.33
+Booker|Booker Low Fat Sour Cream |5.25|Sour Cream|43902001|$1.44
+Booker|Booker Low Fat String Cheese |5.3|Cheese|43903001|$1.34
+Booker|Booker Mild Cheddar Cheese |10.1|Cheese|43904001|$0.68
+Booker|Booker Muenster Cheese |12.1|Cheese|43905001|$2.51
+Booker|Booker Sharp Cheddar Cheese |9.89|Cheese|43906001|$1.85
+Booker|Booker Sour Cream |4.75|Sour Cream|43907001|$1.72
+Booker|Booker Strawberry Yogurt |18.8|Yogurt|43908001|$3.98
+Booker|Booker String Cheese |18.6|Cheese|43909001|$1.66
+Bolthouse Farms|Fruit & Vegetable Juice Mango Ginger|15.2 oz||43910001|$2.99
+Blue Label|Blue Label Beef Soup |8.19|Soup|43911001|$2.65
+Blue Label|Blue Label Canned Beets |18.2|Canned Vegetables|43912001|$3.83
+Blue Label|Blue Label Canned Peas |20.8|Canned Vegetables|43913001|$3.91
+Blue Label|Blue Label Canned String Beans |10.6|Canned Vegetables|43914001|$2.67
+Blue Label|Blue Label Canned Tomatos |14|Canned Vegetables|43915001|$2.29
+Blue Label|Blue Label Canned Tuna in Oil |15.2|Tuna|43916001|$1.55
+Blue Label|Blue Label Canned Tuna in Water |7.71|Tuna|43917001|$1.41
+Blue Label|Blue Label Canned Yams |19.2|Canned Vegetables|43918001|$2.78
+Blue Label|Blue Label Chicken Noodle Soup |8.47|Soup|43919001|$1.55
+Blue Label|Blue Label Chicken Ramen Soup |16.1|Soup|43920001|$1.78
+Blue Label|Blue Label Chicken Soup |12.1|Soup|43921001|$3.19
+Blue Label|Blue Label Creamed Corn |3.9|Canned Vegetables|43922001|$2.99
+Blue Label|Blue Label Fancy Canned Sardines |11|Sardines|43923001|$1.80
+Blue Label|Blue Label Noodle Soup |9.6|Soup|43924001|$1.75
+Blue Label|Blue Label Regular Ramen Soup |10.8|Soup|43925001|$1.73
+Blue Label|Blue Label Rice Soup |19|Soup|43926001|$1.59
+Blue Label|Blue Label Turkey Noodle Soup |13.5|Soup|43927001|$0.88
+Blue Label|Blue Label Vegetable Soup |18.7|Soup|43928001|$2.33
+Bird Call|Bird Call 200 MG Acetominifen |17.5|Acetominifen|43929001|$3.18
+Bird Call|Bird Call 200 MG Ibuprofen |17|Ibuprofen|43930001|$2.38
+Bird Call|Bird Call Buffered Aspirin |13.3|Aspirin|43931001|$1.66
+Bird Call|Bird Call Childrens Aspirin |17.8|Aspirin|43932001|$2.87
+Big Time|Big Time Beef TV Dinner |8.89|TV Dinner|43933001|$3.91
+Big Time|Big Time Chicken TV Dinner |14.6|TV Dinner|43934001|$2.20
+Big Time|Big Time Fajita French Fries |8.56|French Fries|43935001|$1.43
+Big Time|Big Time Frozen Broccoli |12.1|Frozen Vegetables|43936001|$2.72
+Big Time|Big Time Frozen Carrots |18.7|Frozen Vegetables|43937001|$1.64
+Big Time|Big Time Frozen Cauliflower |6.19|Frozen Vegetables|43938001|$3.32
+Big Time|Big Time Frozen Cheese Pizza |11.6|Pizza|43939001|$1.55
+Big Time|Big Time Frozen Chicken Breast |6.3|Frozen Chicken|43940001|$2.22
+Big Time|Big Time Frozen Chicken Thighs |4.19|Frozen Chicken|43941001|$2.95
+Big Time|Big Time Frozen Chicken Wings |5.86|Frozen Chicken|43942001|$3.67
+Big Time|Big Time Frozen Corn |11.1|Frozen Vegetables|43943001|$3.16
+Big Time|Big Time Frozen Mushroom Pizza |3.98|Pizza|43944001|$1.25
+Big Time|Big Time Frozen Peas |6.5|Frozen Vegetables|43945001|$3.57
+Big Time|Big Time Frozen Pepperoni Pizza |7.15|Pizza|43946001|$1.13
+Big Time|Big Time Frozen Sausage Pizza |12.5|Pizza|43947001|$0.80
+Big Time|Big Time Grape Popsicles |7.25|Popsicles|43948001|$0.51
+Big Time|Big Time Home Style French Fries |15.8|French Fries|43949001|$1.38
+Big Time|Big Time Ice Cream |16.8|Ice Cream|43950001|$2.77
+Big Time|Big Time Ice Cream Sandwich |16.3|Ice Cream|43951001|$2.91
+Big Time|Big Time Lemon Popsicles |15.2|Popsicles|43952001|$1.47
+Big Time|Big Time Lime Popsicles |17.3|Popsicles|43953001|$2.25
+Big Time|Big Time Low Fat French Fries |9|French Fries|43954001|$1.35
+Big Time|Big Time Orange Popsicles |7.39|Popsicles|43955001|$3.13
+Big Time|Big Time Turkey TV Dinner |5.34|TV Dinner|43956001|$3.21
+Big K|Citrus Drop Soda|67.6 oz|Soda/Juice/Drinks|43957001|$0.89
+Big K|Cola Regular|12 pkg|Soda/Juice/Drinks|43958001|$2.00
+Big City|Big City Canned Mixed Fruit |16.7|Canned Fruit|43959001|$1.17
+Big City|Big City Canned Peaches |8.6|Canned Fruit|43960001|$0.76
+Betty Crocker|Fruit Snacks SpongeBob|10 ct|Snacks|43961001|$3.29
+Betty Crocker|Hamburger Helper Bacon Cheeseburger|5.1 oz|Pasta/Noodles|43962001|$1.29
+Betty Crocker|Hamburger Helper Beef Pasta|5.9 oz|Pasta/Noodles|43963001|$1.29
+Betty Crocker|Hamburger Helper Cheddar Cheese Melt|4.7 oz|Pasta/Noodles|43964001|$1.29
+Betty Crocker|Hamburger Helper Cheeseburger Macaroni|6.6 oz|Pasta/Noodles|43965001|$1.29
+Betty Crocker|Hamburger Helper Cheesy Enchilada|7.5 oz|Pasta/Noodles|43966001|$1.29
+Betty Crocker|Hamburger Helper Cheesy Italian Shells|6.1 oz|Pasta/Noodles|43967001|$1.29
+Betty Crocker|Hamburger Helper Chili Macaroni|5.2 oz|Pasta/Noodles|43968001|$1.29
+Betty Crocker|Hamburger Helper Crunchy Taco|7.6 oz|Pasta/Noodles|43969001|$1.29
+Betty Crocker|Hamburger Helper Deluxe Beef Stroganoff|5.5 oz|Pasta/Noodles|43970001|$1.29
+Betty Crocker|Hamburger Helper Deluxe Cheeseburger Macaroni|5.5 oz|Pasta/Noodles|43971001|$1.29
+Betty Crocker|Hamburger Helper Double Cheeseburger Macaroni|6 oz|Pasta/Noodles|43972001|$1.29
+Betty Crocker|Hamburger Helper Four Cheese Lasagna|5.5 oz|Pasta/Noodles|43973001|$1.29
+Betty Crocker|Hamburger Helper Lasagna|6.9 oz|Pasta/Noodles|43974001|$1.29
+Betty Crocker|Hamburger Helper Philly Cheesesteak|6.5 oz|Pasta/Noodles|43975001|$1.29
+Betty Crocker|Hamburger Helper Potatoes Stroganoff|5 oz|Pasta/Noodles|43976001|$1.29
+Betty Crocker|Hamburger Helper Salisbury|6.2 oz|Pasta/Noodles|43977001|$1.29
+Betty Crocker|Hamburger Helper Stroganoff|6.4 oz|Pasta/Noodles|43978001|$1.29
+Betty Crocker|Hamburger Helper Three Cheese|6 oz|Pasta/Noodles|43979001|$1.29
+Better|Better Beef Soup |14.8|Soup|43980001|$0.57
+Better|Better Canned Beets |7.6|Canned Vegetables|43981001|$0.60
+Better|Better Canned Peas |19.2|Canned Vegetables|43982001|$1.40
+Better|Better Canned String Beans |8.89|Canned Vegetables|43983001|$1.74
+Better|Better Canned Tomatos |16.8|Canned Vegetables|43984001|$1.32
+Better|Better Canned Tuna in Oil |13.1|Tuna|43985001|$1.50
+Better|Better Canned Tuna in Water |19.7|Tuna|43986001|$2.77
+Better|Better Canned Yams |13.8|Canned Vegetables|43987001|$2.83
+Better|Better Chicken Noodle Soup |11.1|Soup|43988001|$1.15
+Better|Better Chicken Ramen Soup |13|Soup|43989001|$0.63
+Better|Better Chicken Soup |5.46|Soup|43990001|$3.98
+Better|Better Creamed Corn |10.6|Canned Vegetables|43991001|$1.26
+Better|Better Noodle Soup |8|Soup|43992001|$0.78
+Better|Better Regular Ramen Soup |6.72|Soup|43993001|$3.74
+Better|Better Rice Soup |5.98|Soup|43994001|$1.23
+Better|Better Turkey Noodle Soup |7.34|Soup|43995001|$0.75
+Better|Better Vegetable Soup |7.35|Soup|43996001|$2.21
+Best Choice|Best Choice Avocado Dip |16.6|Dips|43997001|$2.46
+Best Choice|Best Choice Buttered Popcorn |10.6|Popcorn|43998001|$2.23
+Best Choice|Best Choice Cheese Dip |8.5|Dips|43999001|$3.55
+Best Choice|Best Choice Chocolate Chip Cookies |12|Cookies|44000001|$3.95
+Best Choice|Best Choice Fondue Mix |8.8|Dips|44001001|$1.81
+Best Choice|Best Choice Frosted Cookies |7.51|Cookies|44002001|$2.59
+Best Choice|Best Choice Fudge Brownies |6.23|Cookies|44003001|$1.73
+Best Choice|Best Choice Fudge Cookies |19.2|Cookies|44004001|$3.19
+Best Choice|Best Choice Graham Crackers |14.6|Cookies|44005001|$1.98
+Best Choice|Best Choice Lemon Cookies |7.39|Cookies|44006001|$0.76
+Best Choice|Best Choice Low Fat Cookies |14|Cookies|44007001|$0.68
+Best Choice|Best Choice Low Fat Popcorn |8|Popcorn|44008001|$2.65
+Best Choice|Best Choice No Salt Popcorn |12.6|Popcorn|44009001|$1.19
+Best Choice|Best Choice Salsa Dip |15.1|Dips|44010001|$2.63
+Best Choice|Best Choice Sugar Cookies |13.1|Cookies|44011001|$3.66
+Beech-Nut|Cereal Oatmeal|8 oz|Cereal|44012001|$2.29
+Beech-Nut|Cereal Rice|8 oz|Cereal|44013001|$2.29
+Beech-Nut|Fruities On The Go Peach, Apple & Banana|4 oz|Baby Food|44014001|$1.29
+Beech-Nut|Fruities On The Go Pear, Banana & Raspberry|4 oz|Baby Food|44015001|$1.29
+Beech-Nut|Fruities On The Go Pear, Mango & Squash|4 oz|Baby Food|44016001|$1.29
+Beech-Nut|Stage 1 Bananas|4.25 oz|Baby Food|44017001|$1.09
+Beech-Nut|Stage 1 Beef & Broth|2.5 oz|Baby Food|44018001|$1.09
+Beech-Nut|Stage 1 Butternut Squash|4.25 oz|Baby Food|44019001|$1.09
+Beech-Nut|Stage 1 Chicken & Broth|2.5 oz|Baby Food|44020001|$1.09
+Beech-Nut|Stage 1 Honey Crisp Apples|4.25 oz|Baby Food|44021001|$1.09
+Beech-Nut|Stage 1 Sweet Potatoes|4.25 oz|Baby Food|44022001|$1.09
+Beech-Nut|Stage 1 Turkey And Broth|2.5 oz|Baby Food|44023001|$1.09
+Beech-Nut|Stage 2 Apple & Pumpkin|4.25 oz|Baby Food|44024001|$1.09
+Beech-Nut|Stage 2 Apples & Bananas|4 oz|Baby Food|44025001|$0.79
+Beech-Nut|Stage 2 Applesauce|4 oz|Baby Food|44026001|$0.79
+Beech-Nut|Stage 2 Bananas & Strawberries|4 oz|Baby Food|44027001|$0.79
+Beech-Nut|Stage 2 Butternut Squash|4 oz|Baby Food|44028001|$0.79
+Beech-Nut|Stage 2 Chicken & Rice|4 oz|Baby Food|44029001|$0.79
+Beech-Nut|Stage 2 Chiquita-Bananas|4 oz|Baby Food|44030001|$0.79
+Beech-Nut|Stage 2 Country Garden Vegetables|4 oz|Baby Food|44031001|$0.79
+Beech-Nut|Stage 2 Just Apple & Blackberry|4.25 oz|Baby Food|44032001|$1.09
+Beech-Nut|Stage 2 Just Apple & Kiwi|4.25 oz|Baby Food|44033001|$1.09
+Beech-Nut|Stage 2 Just Apple & Strawberry|4.25 oz|Baby Food|44034001|$1.09
+Beech-Nut|Stage 2 Just Pear & Blueberry|4.25 oz|Baby Food|44035001|$1.09
+Beech-Nut|Stage 2 Mixed Vegetables|4 oz|Baby Food|44036001|$0.79
+Beech-Nut|Stage 2 Pears|4 oz|Baby Food|44037001|$0.79
+Beech-Nut|Stage 2 Tender Golden Sweet Carrots|4 oz|Baby Food|44038001|$0.79
+Beech-Nut|Stage 2 Tender Sweet Peas|4 oz|Baby Food|44039001|$0.79
+Beech-Nut|Stage 2 Tender Young Green Beans|4 oz|Baby Food|44040001|$0.79
+Beech-Nut|Stage 2 Yellow Cling Peaches|4 oz|Baby Food|44041001|$0.79
+Beech-Nut|Stage 3 Just Apple & Aronia Berry|4.2 oz|Baby Food|44042001|$1.09
+Beech-Nut|Stage 3 Mango, Carrot,Strawberry & Chia|4.2 oz|Baby Food|44043001|$1.09
+Beech-Nut|Yogurt Blends Pouch Strawberry|3.8 oz|Baby Food|44044001|$1.29
+Beech-Nut|Yogurt Blends Pouch Strawberry Banana|3.8 oz|Baby Food|44045001|$1.29
+Beech-Nut|Yogurt Blends Pouch Vanilla Apple|3.8 oz|Baby Food|44046001|$1.29
+BBB Best|BBB Best Brown Sugar |12.3|Sugar|44047001|$1.78
+BBB Best|BBB Best Canola Oil |14.1|Cooking Oil|44048001|$1.35
+BBB Best|BBB Best Chunky Peanut Butter |3.96|Peanut Butter|44049001|$1.97
+BBB Best|BBB Best Corn Oil |13.5|Cooking Oil|44050001|$1.54
+BBB Best|BBB Best Creamy Peanut Butter |11.8|Peanut Butter|44051001|$1.10
+BBB Best|BBB Best Extra Chunky Peanut Butter |5.48|Peanut Butter|44052001|$2.78
+BBB Best|BBB Best Oregano |11.8|Spices|44053001|$0.53
+BBB Best|BBB Best Pepper |9.39|Spices|44054001|$0.76
+BBB Best|BBB Best Salt |5.71|Spices|44055001|$0.63
+BBB Best|BBB Best Sesame Oil |14.3|Cooking Oil|44056001|$1.84
+BBB Best|BBB Best Vegetable Oil |11.5|Cooking Oil|44057001|$2.97
+BBB Best|BBB Best White Sugar |3.76|Sugar|44058001|$2.46
+Barilla|Collezione Bucatini|12 oz|Pasta/Noodles|44059001|$2.59
+Barilla|Gluten Free Elbows|12 oz|Pasta/Noodles|44060001|$2.59
+Barilla|Gluten Free Penne|12 oz|Pasta/Noodles|44061001|$2.59
+Barilla|Gluten Free Spaghetti|12 oz|Pasta/Noodles|44062001|$2.59
+Barilla|Pasta Angel Hair|1 lbs|Pasta/Noodles|44063001|$1.39
+Barilla|Pasta Elbows|1 lbs|Pasta/Noodles|44064001|$1.39
+Barilla|Pasta Farfalle|1 lbs|Pasta/Noodles|44065001|$1.39
+Barilla|Pasta Fettuccine|1 lbs|Pasta/Noodles|44066001|$1.39
+Barilla|Pasta Fideo Cut Spaghetti|1 lbs|Pasta/Noodles|44067001|$1.39
+Barilla|Pasta Jumbo Shells|12 oz|Pasta/Noodles|44068001|$2.29
+Barilla|Pasta Linguine|1 lbs|Pasta/Noodles|44069001|$1.39
+Barilla|Pasta Mini Penne|1 lbs|Pasta/Noodles|44070001|$1.39
+Barilla|Pasta Mostaccioli|1 lbs|Pasta/Noodles|44071001|$1.39
+Barilla|Pasta Orzo|1 lbs|Pasta/Noodles|44072001|$1.39
+Barilla|Pasta Penne|1 lbs|Pasta/Noodles|44073001|$1.39
+Barilla|Pasta Rigatoni|1 lbs|Pasta/Noodles|44074001|$1.39
+Barilla|Pasta Rotini|1 lbs|Pasta/Noodles|44075001|$1.39
+Barilla|Pasta Spaghetti|1 lbs|Pasta/Noodles|44076001|$1.39
+Barilla|Pasta Thick Spaghetti|1 lbs|Pasta/Noodles|44077001|$1.39
+Barilla|Pasta Thin Spaghetti|1 lbs|Pasta/Noodles|44078001|$1.39
+Barilla|Pasta Tri-Color Rotini|12 oz|Pasta/Noodles|44079001|$1.39
+Barilla|Pasta Veggie Rotini|12 oz|Pasta/Noodles|44080001|$1.39
+Barilla|Pasta Wavy Lasagne|1 lbs|Pasta/Noodles|44081001|$2.29
+Barilla|PLUS Multigrain Elbows|14.5 oz|Pasta/Noodles|44082001|$1.99
+Barilla|Pronto Elbows|12 oz|Pasta/Noodles|44083001|$1.39
+Barilla|Pronto Penne|12 oz|Pasta/Noodles|44084001|$1.39
+Barilla|Pronto Rotini|12 oz|Pasta/Noodles|44085001|$1.39
+Barilla|Pronto Spaghetti|12 oz|Pasta/Noodles|44086001|$1.39
+Barilla|Protein Plus Multigrain Angel Hair|14.5 oz|Pasta/Noodles|44087001|$2.59
+Barilla|Protein Plus Multigrain Penne|14.5 oz|Pasta/Noodles|44088001|$2.59
+Barilla|Protein Plus Multigrain Thin Spaghetti|14.5 oz|Pasta/Noodles|44089001|$2.59
+Barilla|Sauce Creamy Alfredo|14.5 oz|Gravy/Sauce|44090001|$2.99
+Barilla|Sauce Garlic Alfredo|14.5 oz|Gravy/Sauce|44091001|$2.99
+Barilla|Sauce Marinara|24 oz|Gravy/Sauce|44092001|$2.99
+Barilla|Sauce Meat|24 oz|Gravy/Sauce|44093001|$2.99
+Barilla|Sauce Roasted Garlic|24 oz|Gravy/Sauce|44094001|$2.99
+Barilla|Sauce Tomato & Basil|24 oz|Gravy/Sauce|44095001|$2.99
+Barilla|Sauce Traditional|24 oz|Gravy/Sauce|44096001|$2.99
+Barilla|White Fiber Shells|12 oz|Pasta/Noodles|44097001|$1.39
+Barilla|White Fiber Spaghetti|12 oz|Pasta/Noodles|44098001|$1.39
+Barilla|Whole Grain Lasagne|13.25 oz|Pasta/Noodles|44099001|$2.29
+Barilla|Whole Grain Linguine|1 lbs|Pasta/Noodles|44100001|$1.39
+Barilla|Whole Grain Penne|1 lbs|Pasta/Noodles|44101001|$1.39
+Barilla|Whole Grain Rotini|1 lbs|Pasta/Noodles|44102001|$1.39
+Barilla|Whole Grain Spaghetti|1 lbs|Pasta/Noodles|44103001|$1.39
+Barilla|Whole Grain Thin Spaghetti|1 lbs|Pasta/Noodles|44104001|$1.39
+Barber|Chicken Breast Stuffed Broccoli & Cheese|2.5 oz||44105001|$5.49
+Banquet|Brown N Serve Sausage Maple Links|6.4 oz|Frozen Food|44106001|$1.99
+Banquet|Brown N Serve Sausage Original Links|6.4 oz|Frozen Food|44107001|$1.99
+Banquet|Brown N Serve Sausage Turkey|6.4 oz|Frozen Food|44108001|$1.99
+Banquet|Chicken Breast Strips|24 oz||44109001|$4.39
+Banquet|Chicken Patties|27 oz||44110001|$4.39
+Banquet|Chicken Patty|27 oz||44111001|$4.39
+Atomic|Atomic Malted Milk Balls |10.8|Chocolate Candy|44112001|$1.78
+Atomic|Atomic Mint Chocolate Bar |9.89|Chocolate Candy|44113001|$0.90
+Atomic|Atomic Mints |15.5|Hard Candy|44114001|$2.16
+Atomic|Atomic Semi-Sweet Chocolate Bar |13.8|Chocolate Candy|44115001|$2.35
+Atomic|Atomic Spicy Mints |5.78|Hard Candy|44116001|$3.16
+Atomic|Atomic Tasty Candy Bar |15.8|Chocolate Candy|44117001|$0.66
+Atomic|Atomic White Chocolate Bar |8.39|Chocolate Candy|44118001|$1.25
+Atkins|Scramble Bacon|6.5 oz|Frozen Food|44119001|$3.99
+Atkins|Scramble Farmhouse-Style Sausage|7 oz|Frozen Food|44120001|$3.99
+Asian Gourmet|Coconut Milk Lite|13.5 oz|Drink|44121001|$2.29
+Arnold|Sandwich Thins Honey Wheat|12 oz|Bread|44122001|$3.49
+Arnold|Sandwich Thins Multigrain|12 oz|Bread|44123001|$3.49
+Arnold|Sandwich Thins Potato Rolls|12 oz|Bread|44124001|$3.49
+Arnold|Sandwich Thins Whole Wheat|12 oz|Bread|44125001|$3.49
+Apple & Eve|Fruitables Berry Berry Juice|8 ct||44126001|$3.29
+Applause|Applause Canned Mixed Fruit |3.96|Canned Fruit|44127001|$2.80
+Applause|Applause Canned Peaches |17|Canned Fruit|44128001|$2.34
+Annie's|Berry Bunnies Cereal|10 oz|Cereal|44129001|$5.49
+Annie's|Cocoa Bunnies Cereal|10 oz|Cereal|44130001|$5.49
+Annie's|Frosted Oat Flakes Cereal|10 oz|Cereal|44131001|$5.49
+Amigo|Amigo Lox |18.3|Fresh Fish|44132001|$2.96
+American|American Beef Bologna |11.1|Bologna|44133001|$0.78
+American|American Chicken Hot Dogs |18.8|Hot Dogs|44134001|$2.52
+American|American Cole Slaw |17.8|Deli Salads|44135001|$0.89
+American|American Corned Beef |6.19|Deli Meats|44136001|$2.65
+American|American Foot-Long Hot Dogs |5.39|Hot Dogs|44137001|$2.14
+American|American Low Fat Bologna |13.8|Bologna|44138001|$2.87
+American|American Low Fat Cole Slaw |5.26|Deli Salads|44139001|$2.27
+American|American Pimento Loaf |6.48|Bologna|44140001|$2.76
+American|American Potato Salad |18.7|Deli Salads|44141001|$1.55
+American|American Roasted Chicken |10.3|Fresh Chicken|44142001|$2.97
+American|American Sliced Chicken |5.32|Deli Meats|44143001|$0.59
+American|American Sliced Ham |3.8|Deli Meats|44144001|$2.76
+American|American Sliced Turkey |13.8|Deli Meats|44145001|$3.17
+American|American Turkey Hot Dogs |18.8|Hot Dogs|44146001|$2.74
+Alpine|Drink Mix Spiced Cider|10 pkg|Drink|44147001|$3.59
+Almond Breeze|Almond Milk Original|.5 gal|Drink|44148001|$3.69
+Almond Breeze|Almond Milk Unsweetened|32 oz|Drink|44149001|$3.59
+Almond Breeze|Almond Milk Vanilla|.5 gal|Drink|44150001|$3.69
+All But Gluten|Snack Cakes Vanilla|6 ct|Snacks|44151001|$6.59
+All|Laundry Detergent 2X Ultra Free Clear|50 oz|Household|44152001|$11.99
+Al Fresco|Gourmet Griller Carmelized Onion|28 oz|Frozen Food|44153001|$10.99
+Al Fresco|Gourmet Griller Sweet Italian|28 oz|Frozen Food|44154001|$10.99
+Aidells|Meatballs Caramelized Onion|12 oz|Frozen Food|44155001|$6.59
+Aidells|Meatballs Pineapple Teriyaki|12 oz|Frozen Food|44156001|$6.59
+Aidells|Meatballs Sundried Tomato|12 oz|Frozen Food|44157001|$6.59
+Act II|Popcorn Butter|6 pkg|Frozen Food|44158001|$3.99
+A Taste Of Thai|Coconut Milk Unsweetened|13.5 oz|Drink|44159001|$3.59
+4C|Iced Tea Mix Regular|53 oz|Drink|44160001|$6.49

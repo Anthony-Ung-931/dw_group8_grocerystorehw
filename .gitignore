@@ -1,2 +1,5 @@
 store.db
 .ipynb_checkpoints/
+
+venv
+.venv
